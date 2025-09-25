@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".ui.canti.CantiFragment">
+
+
+        <Spinner
+            android:id="@+id/spinner_canti"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:minHeight="48dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textCantoInizialeFinaleSansIta"
+            style="@style/AppThemeRedAccent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@color/lightBlue"
+
+            android:fontFamily="@font/quicksandbold"
+            android:fontWeight="500"
+            android:hint=""
+            android:maxLength="100"
+            android:minHeight="48dp"
+            android:textAppearance="?android:attr/textAppearanceListItemSmall"
+            android:textColorLink="@color/black"
+            android:textSize="15sp"
+            android:textStyle="italic|bold"
+            android:visibility="visible"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/spinner_canti"
+            tools:layout_constraintLeft_creator="1"
+            tools:layout_constraintRight_creator="1"
+            tools:layout_constraintTop_creator="1"
+            tools:visibility="visible" />
+
+        <Button
+            android:id="@+id/listenAudioBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:backgroundTint="@color/calmBlue"
+            android:fontFamily="@font/quicksandbold"
+            android:padding="10dp"
+            android:paddingLeft="3dp"
+            android:text="Ascolta"
+            android:textColor="@color/black"
+            android:textSize="10sp"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.488"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textCantoInizialeFinaleSansIta" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

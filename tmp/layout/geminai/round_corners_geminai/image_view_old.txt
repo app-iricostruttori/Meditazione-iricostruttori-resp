@@ -1,0 +1,13 @@
+<ImageView
+android:id="@+id/image_view_pensieri"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:contentDescription="Immagine di Padre Jhon A S.Apollinare"
+android:scaleType="centerCrop"
+app:layout_constraintDimensionRatio="H,1:1"
+app:layout_constraintLeft_toLeftOf="parent"
+app:layout_constraintRight_toRightOf="parent"
+app:layout_constraintTop_toTopOf="parent"
+app:srcCompat="@drawable/padre_jhon_s_apo"
+tools:layout_constraintLeft_creator="1"
+tools:layout_constraintRight_creator="1" />

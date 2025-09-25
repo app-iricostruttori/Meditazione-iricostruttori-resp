@@ -1,0 +1,270 @@
+Controllare se mettere Asser da qualche parte
+ad esempio Controllo Autenticate user
+
+
+
+ 
+
+
+
+
+In pagina meditazione 
+da Verificare il tempo alla pressione del tasto meno
+Stop e Pausa
+Layout Table per Canti Iniziale e Finale
+Hide Navigation bar into home page ? oppure sposto l'audio del padre
+
+
+
+
+
+
+https://stackoverflow.com/questions/25460200/horizontalscrollview-not-working-inside-table-layout/25460375#25460375
+
+
+
+
+https://developer.android.com/guide/topics/ui/layout/grid
+
+
+
+
+
+
+4) Mi sono anche accorto che se si preme
+lo stop poi l'audio non riparte più
+Piano sistemo tutto comunque l'importante
+era sistemare il punto 1 che era grave
+Un abbraccio Francesco
+
+https://stackoverflow.com/questions/70938608/illegal-state-exception-in-mediaplayer-prepare-android
+https://stackoverflow.com/questions/38158194/illegalstateexception-in-mediaplayer
+https://stackoverflow.com/questions/49476798/powermanager-does-not-trigger-when-activity-is-started-by-the-alarmmanager
+https://developer.android.com/reference/android/media/MediaPlayer#state-diagram
+
+Problema CountDown Chiara ?
+Modifica timer meditazione chiara ?
+Modifica pensieri dicembre chiara ?
+Modifica incontri Maps chiara ?
+Creazione apk signed 
+build variants apk signed in debug mode
+pwd padre.jhon.1928
+key-iricostruttori
+Devadatta di Como
+I Ricostruttori
+Country Code 39(da verificare)
+
+DA VERIFICARE IL VOLUME
+In impostazione 
+In tutte le pagine 
+Setto lo stesso volume 
+Oppure prende quello 
+Del sistema 
+Da vedere seek bar nella home page
+poi eventualmente nei canti e in meditazione.
+https://www.geeksforgeeks.org/how-to-control-media-volume-using-android-seekbar/
+
+MediaPlayer.setVolume
+https://stackoverflow.com/questions/5215459/android-mediaplayer-setvolume-function
+
+ad esempio
+Button decreaseVolButton = (Button) findViewById(R.id.decrease_volumn);
+Button increaseVolButton = (Button) findViewById(R.id.increase_volumn);
+
+final MediaPlayer mediaPlayer = MediaPlayer.create(MainActivity.this, R.raw.sample);
+
+decreaseVolButton.setOnClickListener(new View.OnClickListener() {
+    @Override
+    public void onClick(View v) {
+        volume = (float) (volume - 0.1);
+        mediaPlayer.setVolume(volume, volume);
+    }
+});
+increaseVolButton.setOnClickListener(new View.OnClickListener() {
+    @Override
+    public void onClick(View v) {
+        volume = (float) (volume + 0.1);
+        mediaPlayer.setVolume(volume, volume);
+    }
+});
+
+// If you want to set the volume to no sound then pass (0f,0f)
+// If you want to set the volume to full sound then pass (1f,1f)
+
+Android seekbar custom material style, for other seekbar customizations 
+
+
+http://www.zoftino.com/android-seekbar-and-custom-seekbar-examples
+
+<style name="MySeekBar" parent="Widget.AppCompat.SeekBar">
+    <item name="android:progressBackgroundTint">#f4511e</item>
+    <item name="android:progressTint">#388e3c</item>
+    <item name="android:thumbTint">#c51162</item>
+</style>
+
+
+bordi spinner
+size volume seekbar
+data pensiero del giorno
+countdown timer 50 secondi al posto
+
+Se tolgo lo sleep subito dopo player.start canto iniziale
+parte subito il  Countdown Timer 
+perchè allora non funziona il countdown timer
+di 50 secondi relativo al solo canto iniziale ?
+Inoltre lo sleep mi obbliga a fare il lock dello schermo
+altrimenti va in stand by e facendo il lock dello
+schermo la pression del tasto non ha effetti
+ma solo durante il canto . Il Lock
+c'è anche successivamente ma dopo il canto il lock
+parte.
+Potrei provare altre librerie player oppure TimerTask
+ma è un  lavoraccio.
+https://developer.android.com/reference/java/util/TimerTask
+
+Timer timerObj = new Timer();
+TimerTask timerTaskObj = new TimerTask() {
+    public void run() {
+       //perform your action here
+    }
+};
+timerObj.schedule(timerTaskObj, 0, 15000);
+
+package com.javacodegeeks.androidtimertaskexample;
+
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Timer;
+import java.util.TimerTask;
+import android.app.Activity;
+import android.os.Bundle;
+import android.os.Handler;
+import android.view.View;
+import android.widget.Toast;
+
+public class AndroidTimerTaskExample extends Activity {
+
+	Timer timer;
+	TimerTask timerTask;
+	
+	//we are going to use a handler to be able to run in our TimerTask
+	final Handler handler = new Handler();
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_main);
+	}
+
+	@Override
+	protected void onResume() {
+		super.onResume();
+		
+		//onResume we start our timer so it can start when the app comes from the background
+		startTimer();
+	}
+
+	public void startTimer() {
+		//set a new Timer
+		timer = new Timer();
+		
+		//initialize the TimerTask's job
+		initializeTimerTask();
+		
+		//schedule the timer, after the first 5000ms the TimerTask will run every 10000ms
+		timer.schedule(timerTask, 5000, 10000); //
+	}
+
+	public void stoptimertask(View v) {
+		//stop the timer, if it's not already null
+		if (timer != null) {
+			timer.cancel();
+			timer = null;
+		}
+	}
+
+	public void initializeTimerTask() {
+		
+		timerTask = new TimerTask() {
+			public void run() {
+				
+				//use a handler to run a toast that shows the current timestamp
+				handler.post(new Runnable() {
+					public void run() {
+						//get the current timeStamp
+						Calendar calendar = Calendar.getInstance();
+						SimpleDateFormat simpleDateFormat = new SimpleDateFormat("dd:MMMM:yyyy HH:mm:ss a");
+						final String strDate = simpleDateFormat.format(calendar.getTime());
+					
+						//show the toast
+						int duration = Toast.LENGTH_SHORT;	
+						Toast toast = Toast.makeText(getApplicationContext(), strDate, duration);
+						toast.show();
+					}
+				});
+			}
+		};
+	}
+}
+
+package com.journaldev.threads;
+
+import java.util.Date;
+import java.util.Timer;
+import java.util.TimerTask;
+
+public class MyTimerTask extends TimerTask {
+
+    @Override
+    public void run() {
+        System.out.println("Timer task started at:"+new Date());
+        completeTask();
+        System.out.println("Timer task finished at:"+new Date());
+    }
+
+    private void completeTask() {
+        try {
+            //assuming it takes 20 secs to complete the task
+            Thread.sleep(20000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+    
+    public static void main(String args[]){
+        TimerTask timerTask = new MyTimerTask();
+        //running timer task as daemon thread
+        Timer timer = new Timer(true);
+        timer.scheduleAtFixedRate(timerTask, 0, 10*1000);
+        System.out.println("TimerTask started");
+        //cancel after sometime
+        try {
+            Thread.sleep(120000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        timer.cancel();
+        System.out.println("TimerTask cancelled");
+        try {
+            Thread.sleep(30000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+
+}
+https://examples.javacodegeeks.com/android/core/activity/android-timertask-example/
+
+Soluzione Attuale
+Viene Premuto il pulsante e viene bloccato
+lo schermo parte il canto poi è necessario uno
+sleep di 50 secondi altrimenti parte il timer 
+durante il canto. Il blocco dello schermo
+serve ad evitare che lo schermo vada in standby.
+Dovrei trovare un meccanismo 
+x sbloccare lo sleep per cui al momento
+durante l'ascolto dei canti non funziona lo stop.
+Ci devo studiare cambiando libreria o meccanismo
+
+
+

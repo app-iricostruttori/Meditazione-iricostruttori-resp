@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2017 The Android Open Source Project
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+       http://www.apache.org/licenses/LICENSE-2.0
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".ui.canti.CantiFragment">
+
+
+        <Spinner
+            android:id="@+id/spinner_canti"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:minHeight="48dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.496"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textCantoInizialeFinaleSansIta"
+            style="@style/AppThemeRedAccent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@color/lightBlue"
+
+            android:fontFamily="@font/quicksandbold"
+            android:fontWeight="500"
+            android:hint=""
+            android:maxLength="1000"
+            android:minHeight="48dp"
+            android:textAppearance="?android:attr/textAppearanceListItemSmall"
+            android:textColorLink="@color/black"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:visibility="visible"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/spinner_canti"
+            tools:layout_constraintLeft_creator="1"
+            tools:layout_constraintRight_creator="1"
+            tools:layout_constraintTop_creator="1"
+            tools:visibility="visible" />
+
+        <Button
+            android:id="@+id/listenAudioBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:backgroundTint="@color/calmBlue"
+            android:fontFamily="@font/quicksandbold"
+            android:padding="10dp"
+            android:paddingLeft="3dp"
+            android:text="Ascolta"
+            android:textColor="@color/black"
+            android:textSize="10sp"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.445"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textCantoInizialeFinaleSansIta" />
+
+        <!--
+        <TableLayout
+            android:id = "@+id/RHE"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:padding="5dp">
+
+            <TableRow android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/errorLabel"
+                    android:text="E"
+                    android:layout_height="wrap_content"
+                    />
+                <TextView
+                    android:id="@+id/errorLabel"
+                    android:text="E"
+                    android:layout_height="wrap_content"
+                    />
+            </TableRow>
+
+            <TableRow android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/visitorRuns"
+                    android:text="0"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:id="@+id/visitorErrors"
+                    android:text="0"
+                    android:layout_height="wrap_content"
+                    />
+            </TableRow>
+
+            <TableRow android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/homeRuns"
+                    android:text="0"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:id="@+id/homeErrors"
+                    android:text="0"
+                    android:layout_height="wrap_content"
+                    />
+            </TableRow>
+        </TableLayout>
+     -->
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

@@ -1,0 +1,45 @@
+<resources>
+    <string name="meditateText">Meditazione</string>
+    <string name="meditateTextLand">Meditazione</string>
+    <string name="meditateText3">Inizio Meditazione 03</string>
+    <!--
+    <string name="timeDefaultInitial">30:00</string>
+    -->
+    <string name="app_name">I Ricostruttori</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_incontro">Incontri</string>
+    <string name="menu_meditazione">Meditazione</string>
+    <string name="menu_giornodopogiorno">P.John</string>
+    <string name="menu_canti">Canti</string>
+    <string name="menu_settings">Impostazioni</string>
+    <string name="menu_web_site">Vai al sito</string>
+
+    <string name="lorem_ipsum_title">Lorem Ipsum"</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply placeholder text of the printing and
+        typesetting industry. Lorem Ipsum has been the industry\'s standard placeholder text ever
+        since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
+        type specimen book"
+    </string>
+    <string name="fab_content_description">Represents a view to invoke an action</string>
+    <string name="image_view_item_transform_content_description">Represents an image view in the
+        item
+    </string>
+    <string name="image_view_meditazione_description">
+        Immagine della Sacra Sindone
+    </string>
+
+    <string name="DescSubOperation">-</string>
+    <string name="DescSumOperation">+</string>
+    <string name="DescButtonStop">STOP</string>
+    <string name="DescButtonStart">Meditazione</string>
+    <string name="DescEditTimeInput">Minuti</string>
+    <string name="DescTimeLeft">30:00</string>
+    <string name="DescButtonPadreJhon">Padre John</string>
+
+</resources>

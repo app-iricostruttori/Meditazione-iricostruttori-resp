@@ -1,0 +1,423 @@
+https://ai-avatar-generator.com/profile
+
+android:background="@color/lightBlue"
+in app_bar_main
+al posto di
+android:background="?attr/colorPrimary"
+
+fondamentale x capire i constraintLayout
+https://developer.android.com/develop/ui/views/layout/constraint-layout#kts
+
+creazione dell'icona
+https://developer.android.com/codelabs/basic-android-kotlin-compose-training-change-app-icon#4
+Vedere icone sotto e selezionare
+C:\Program Files\Android\Android Studio1\plugins\android\resources\images\asset_studio\ic_launcher_foreground.xml
+
+Font e Caratteri
+sotto una dir font
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="font_family_light">sans-serif-light</string>
+    <string name="font_family_medium">sans-serif-medium</string>
+    <string name="font_family_regular">sans-serif</string>
+    <string name="font_family_condensed">sans-serif-condensed</string>
+    <string name="font_family_black">sans-serif-black</string>
+    <string name="font_family_thin">sans-serif-thin</string>
+</resources>
+
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:fontFamily="@font/dancing_script"
+app:fontFamily="@font/dancing_script"/>
+
+Scaricare il font sotto dir https://www.dafont.com/jelly-bomb.font
+
+// Creating a typeface 
+val font = Typeface.createFromAsset(assets, "JellyBomb.ttf") 
+  
+// Setting the TextView typeface 
+mTextView.typeface = font 
+
+normale senza grazie monospaziato
+android:typeface="normal"
+
+android:layout_marginTop="64dp/32dp" Heading
+android:layout_marginTop="16dp/14dp" Body 
+
+android:textStyle="normal"
+android:textStyle="bold"
+android:textStyle="italic"
+android:textStyle="bold|italic"
+
+android:textColor="#B00020"
+android:textColor="@android:color/darker_gray"
+
+
+
+https://www.geeksforgeeks.org/working-with-the-textview-in-android/
+
+1) Formattazione del TextView
+Android offre principalmente 3 tipi di caratteri
+
+normale
+senza
+grazie
+monospaziato
+I quattro tipi di volti sopra indicati devono essere richiamati 
+sotto l'attributo " typeFace" del TextView in XML.
+
+Richiamare il codice seguente e notare l'attributo " typeFace" di TextView
+<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GeeksforGeeks"
+        android:textSize="32sp"
+
+        android:typeface="normal"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+2) Dimensioni del TextView
+Questa caratteristica della visualizzazione Testo sostiene 
+il tipo di contenuto che deve essere mostrato all'utente. 
+Ad esempio, se c'è un Titolo, 
+ci sono 6 tipi di titoli che possono essere implementati. 
+Dai un'occhiata all'immagine seguente 
+che contiene le linee guida per la dimensione 
+della visualizzazione testo e lo stile della visualizzazione testo, 
+che è raccomandato da Material Design di Google.
+
+L'attributo utilizzato per modificare la dimensione della visualizzazione 
+del testo in Android è "textSize".
+Per una migliore comprensione, fare riferimento al codice seguente 
+e al suo output.
+
+<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="64dp"
+
+        android:textSize="48sp"
+
+        android:text="H3 Heading" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+
+        android:textSize="32sp"
+
+        android:text="H6 Heading" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+
+        android:textSize="16sp"
+
+        android:text="Body 1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+
+        android:textSize="14sp"
+
+        android:text="Body 2" />
+
+
+3) Modifica dello stile del testo
+In Android ci sono fondamentalmente tre stili di testo:
+
+Grassetto
+Corsivo
+Normale
+
+Lo stile del testo in Android può essere implementato utilizzando 
+l'attributo "textStyle".
+È possibile implementare più stili di testo utilizzando 
+l'operatore pipeline. Esempio "android:textStyle="bold|italic".
+Per implementare i vari stili di testo fare riferimento 
+al codice seguente e al suo output.
+
+        <!--the below textStyle attribute has to 
+            invoked with values mentioned-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GeeksforGeeks"
+            
+            android:textStyle="italic"
+
+            android:textSize="32sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="GeeksforGeeks"
+                  
+            android:textStyle="bold"
+
+            android:textSize="32sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="GeeksforGeeks"
+                  
+            android:textStyle="normal"
+
+            android:textSize="32sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="GeeksforGeeks"
+                  
+            android:textStyle="bold|italic"
+
+            android:textSize="32sp" />
+
+
+4) Modifica del colore del testo
+Anche il colore del testo dovrebbe cambiare in base al cambiamento
+ del contesto delle informazioni mostrate all'utente.
+Ad esempio, se c'è un testo di avviso, deve essere di colore 
+rosso e per il testo disabilitato, l'opacità o il colore del testo devono essere grigiastri. Per cambiare il colore del testo, viene utilizzato l'attributo "textColor" .
+Android offre anche i colori di testo predefiniti, 
+che possono essere implementati 
+usando “@android:color/yourColor” come valore per “textColor” . 
+Qui il valore può essere codice esadecimale o i colori predefiniti 
+offerti da android.
+Per una migliore comprensione, 
+fare riferimento al codice seguente e al suo output. 
+
+<!--the value predefined by android-->
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="64dp"
+        android:text="Warning Message"
+        android:textColor="#B00020"
+        android:textSize="32sp" />
+
+    <!--the value predefined by android-->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="Disabled Text"
+
+        android:textColor="@android:color/darker_gray"
+
+        android:textSize="32sp" />
+
+    <!--the value is hex code-->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="GeeksforGeeks"
+
+        android:textColor="#000000"
+
+        android:textSize="32sp" />
+
+5) Ombra del testo
+L'ombra per il testo può essere data anche in Android. 
+Gli attributi richiesti per la visualizzazione del testo ombreggiato sono:
+android:shadowDx=”integer_value” -> che decide la distanza del testo dalla sua ombra rispetto all’asse x, se integer_value è positivo l’ombra è sul positivo dell’asse x e viceversa.
+
+<!-- 
+decide la distanza del testo dalla sua ombra rispetto all’asse y, 
+se integer_value è positivo l’ombra è sul negativo dell’asse y e viceversa.
+-->
+android:shadowDy=”integer_value” 
+android:shadowDx=”integer_value” 
+
+<!--
+android:shadowRadius=”integer_value” 
+che decide la quantità di ombra da assegnare alla visualizzazione del testo.
+-->
+
+android:shadowColor="@color/grey"
+android:shadowDx="4"
+android:shadowDy="4"
+android:shadowRadius="10"
+oppure
+android:shadowDx="-15"
+android:shadowDy="4"
+android:shadowRadius="10"
+
+
+Per una migliore comprensione, fare riferimento al codice seguente e al suo output.
+
+<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:shadowColor="@color/grey"
+        android:shadowDx="4"
+        android:shadowDy="4"
+        android:shadowRadius="10"
+        android:text="GeeksforGeeks"
+        android:textColor="#000000"
+        android:textSize="32sp"
+        tools:targetApi="ice_cream_sandwich" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:padding="8dp"
+        android:shadowColor="@color/grey"
+        android:shadowDx="-15"
+        android:shadowDy="4"
+        android:shadowRadius="10"
+        android:text="GeeksforGeeks"
+        android:textColor="#000000"
+        android:textSize="32sp"
+        tools:targetApi="ice_cream_sandwich" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:shadowColor="@color/grey"
+        android:shadowDx="4"
+        android:shadowDy="-15"
+        android:shadowRadius="10"
+        android:text="GeeksforGeeks"
+        android:textColor="#000000"
+        android:textSize="32sp"
+        tools:targetApi="ice_cream_sandwich" />
+
+7) Aggiunta di icone per TextView
+
+Ci sono tre posizioni per aggiungere le icone per TextView. 
+Sono inizio, fine, cima e fondo.
+
+<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="64dp"
+        android:drawableStart="@drawable/ic_lappy"
+        android:padding="4dp"
+        android:text="GeeksforGeeks"
+        android:textColor="@android:color/black"
+        android:textSize="32sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="64dp"
+        android:drawableEnd="@drawable/ic_lappy"
+        android:padding="4dp"
+        android:text="GeeksforGeeks"
+        android:textColor="@android:color/black"
+        android:textSize="32sp" />
+
+8) Formattazione html da textview
+
+Codice kotlin
+ma in java dovrebbe essere simile
+
+val textView: TextView = findViewById(R.id.tv_gfg)
+
+        val htmlText = """
+            <h2>Welcome to GFG TextView Tutorial</h2>
+            <p>This is an GFG Tutorial about TextView <b>bold</b>, <i>italic</i>, and <u>underlined</u> text in a TextView using HTML formatting.</p>
+            <p>You can also include <a href="https://www.geeksforgeeks.org/">links</a> and other HTML elements.</p>
+        """
+
+        textView.text = Html.fromHtml(htmlText, Html.FROM_HTML_MODE_COMPACT)
+
+9) Colore sfondo
+android:background con il valore che preferisci. 
+Esistono diverse notazioni per i colori (ad esempio #aarrggbb)
+
+lo stesso per lo sfondo di un testo
+oppure da codice
+setBackgroundColor(Color.RED)
+
+10)
+Small Phones : under 4.5 inches Chiara
+Medium Phones: 4.5 to 6.5 inches P30
+Large Phones: Above 6.5 inches A12(6.46) A14(6.6) Samsung Clara e Anita
+
+11) Copiare key 
+sotto \app\build\outputs\apk
+
+12) Errori
+cd C:\Users\Developer\.gradle\caches
+rm *
+
+13) Non viene visualizzato il menu per compilare Build/Assemble
+Per visualizzare èremere ALT+V ma la cosa 
+è sola temporanea
+
+SOLUZIONE KO
+Per settare la cosa staticamente
+Chiudi Android Studio.
+
+Trova la cartella di configurazione: La posizione della cartella varia a seconda del sistema operativo.
+
+Windows:
+C:\Users\ADMIN\AppData\Local\Google\AndroidStudio2025.1.2 
+
+
+
+Rinomina tutta la cartella AndroidStudio2025.1.2 : Rinomina la cartella di configurazione (ad esempio, aggiungi .bak alla fine). 
+In questo modo, Android Studio creerà una nuova cartella con le impostazioni predefinite al prossimo avvio.
+
+Avvia Android Studio: Al riavvio, Android Studio ti chiederà di importare le impostazioni da una versione precedente. 
+Scegli di non importare le impostazioni.
+
+Vedere https://www.youtube.com/watch?v=AwZEliSPGwU
+
+SOLUZIONE OK
+
+To show the menu bar in Android Studio on Windows, 
+ALT+V
+View | Appearance: Main Menu - Tool Bar Above
+
+Dal prompt di Android Studio per verificare se il file apk
+C:\Users\ADMIN\AppData\Local\Android\Sdk\platform-tools\adb.exe  install .\app_iricostruttori_release_v1_0_1_28082025.apk
+Performing Streamed Install
+adb.exe: failed to install .\app_iricostruttori_release_v1_0_1_28082025.apk: Failure [INSTALL_FAILED_UPDATE_INCOMPATIBLE: 
+Existing package com.iricostruttori.meditazione signatures do not match newer version; ignoring!]
+
+L'errore "Existing package signatures do not match newer version" è molto comune nello sviluppo Android 
+e significa che l'applicazione che stai cercando di installare ha una firma digitale (il tuo file .jks) diversa da quella di una versione precedente dell'app già installata sul dispositivo o sull'emulatore.
+
+Android blocca l'installazione per motivi di sicurezza, perché un'app non può essere aggiornata se la sua firma cambia, 
+in quanto ciò potrebbe indicare un tentativo di manomissione.
+
+Per risolvere il problema, devi disinstallare completamente l'app preesistente dal dispositivo.
+
+
+

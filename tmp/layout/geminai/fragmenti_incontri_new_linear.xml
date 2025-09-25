@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".ui.incontri.IncontriFragment">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/image_view_incontri"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:contentDescription="Immagine di Padre Jhon A S.Simeone"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/padre_jhon_martini_chiara_gornate"
+            app:shapeAppearanceOverlay="@style/RoundedImageView" />
+
+        <Spinner
+            android:id="@+id/spinner_incontri"
+            style="@style/spinner_style"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:minHeight="48dp" />
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:stretchColumns="*"> <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp">
+
+                <TextView
+                    android:id="@+id/textIncontroContent"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    style="@style/AppThemeRedAccent"
+                    android:textColorLink="@color/black"
+                    android:background="@drawable/rounded_corners_background"
+                    android:fontFamily="@font/quicksandbold"
+                    android:fontWeight="500"
+                    android:gravity="center_horizontal"
+                    android:hint=""
+                    android:maxLength="1000"
+                    android:minHeight="48dp"
+                    android:padding="8dp"
+                    android:textAppearance="?android:attr/textAppearanceListItemSmall"
+                    android:textSize="15sp"
+                    android:textStyle="italic|bold"
+                    android:visibility="invisible"
+                    tools:visibility="invisible"
+                    android:layout_marginEnd="8dp" /> <TextView
+                    android:id="@+id/textIncontroMapsLink"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    style="@style/AppThemeRedAccent"
+                    android:textColorLink="@color/black"
+                    android:background="@drawable/rounded_corners_background"
+                    android:fontFamily="@font/quicksandbold"
+                    android:fontWeight="500"
+                    android:gravity="center_horizontal"
+                    android:hint="Visualizza su Mappe"
+                    android:minHeight="48dp"
+                    android:padding="8dp"
+                    android:textAppearance="?android:attr/textAppearanceListItemSmall"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:autoLink="web"
+                    android:visibility="invisible"
+                    tools:visibility="invisible" />
+
+            </TableRow>
+        </TableLayout>
+
+    </LinearLayout>
+</ScrollView>
+
+
+
+
+Spiegazioni delle modifiche:
+
+ScrollView e LinearLayout Radice:
+
+Ho mantenuto il ScrollView per garantire lo scorrimento se il contenuto dovesse superare le dimensioni dello schermo.
+All'interno del ScrollView, ho sostituito il ConstraintLayout con un LinearLayout con orientation="vertical". Questo è più semplice da gestire quando si vuole una disposizione lineare degli elementi principali (immagine, spinner, tabella) dall'alto verso il basso.
+ShapeableImageView e Spinner:
+
+Ho rimosso i vincoli layout_constraint... e li ho adattati per funzionare all'interno del LinearLayout.
+Per la ShapeableImageView, ho impostato android:layout_width="match_parent" e android:layout_height="0dp" con android:layout_weight="1" per farla occupare lo spazio disponibile proporzionalmente. Per mantenere il rapporto 1:1, dovrai gestirlo via codice o considerare un altro layout manager se l'altezza fissa è cruciale senza ConstraintLayout. Se vuoi mantenere il rapporto 1:1 rigorosamente, il ConstraintLayout era più adatto, ma per una conversione semplice in TableLayout, ho preferito il LinearLayout. In alternativa, potresti mantenere il ConstraintLayout e inserire il TableLayout al suo interno, vincolandolo sotto lo spinner.
+Lo Spinner ha android:layout_gravity="center_horizontal" per centrarlo all'interno del LinearLayout.
+TableLayout per textIncontro:
+
+Ho introdotto un TableLayout sotto lo Spinner.
+android:stretchColumns="*" è molto importante: fa sì che tutte le colonne (in questo caso, le due TextView nel TableRow) si allunghino per occupare tutto lo spazio disponibile orizzontalmente.
+Ho aggiunto un TableRow al cui interno ci sono le due nuove TextView.
+Le due nuove TextView all'interno del TableRow:
+
+textIncontroContent (il tuo vecchio textIncontro):
+Ho rinominato l'ID per chiarezza.
+android:layout_width="0dp" e android:layout_weight="1": Questo fa sì che questa TextView occupi metà dello spazio disponibile nel TableRow (dato che anche l'altra ha layout_weight="1" e stretchColumns="*" sul padre).
+Ho mantenuto la maggior parte degli stili e attributi originali.
+Ho aggiunto android:layout_marginEnd="8dp" per creare un po' di spazio tra le due colonne.
+textIncontroMapsLink (il nuovo link per le mappe):
+Nuovo ID.
+android:layout_width="0dp" e android:layout_weight="1": Occupa l'altra metà dello spazio.
+android:hint="Visualizza su Mappe": Testo di suggerimento che puoi impostare.
+android:clickable="true" e android:focusable="true": Necessari per rendere il TextView cliccabile.
+android:autoLink="web": Molto utile! Questo attributo fa sì che il testo della TextView venga automaticamente riconosciuto come un link (web, email, phone, map, all) e reso cliccabile. Quando imposterai il testo di questo TextView nel tuo codice Kotlin/Java con un URL di Google Maps, questo attributo lo renderà automaticamente un link funzionante. Se non vuoi che sia un autoLink, puoi rimuoverlo e gestire il click manualmente con un setOnClickListener nel tuo codice.
+
+// In IncontriFragment.kt (o Java)
+
+// ...
+
+private lateinit var textIncontroContent: TextView
+private lateinit var textIncontroMapsLink: TextView
+
+override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+    super.onViewCreated(view, savedInstanceState)
+
+    textIncontroContent = view.findViewById(R.id.textIncontroContent)
+    textIncontroMapsLink = view.findViewById(R.id.textIncontroMapsLink)
+
+    // Esempio di come impostare il testo e il link
+    textIncontroContent.text = "Questo è il testo principale dell'incontro."
+    textIncontroContent.visibility = View.VISIBLE
+
+    // Imposta l'URL del link per le mappe.
+    // Sostituisci con l'URL effettivo della posizione.
+    val mapsUrl = "https://maps.app.goo.gl/TUwE5wG28YhA4C3fA" // Esempio: S.Simeone
+    textIncontroMapsLink.text = mapsUrl // Il testo visualizzato sarà l'URL se autoLink="web"
+    textIncontroMapsLink.visibility = View.VISIBLE
+
+    // Se non usi autoLink="web" e vuoi un testo personalizzato,
+    // dovrai gestire il click manualmente:
+    /*
+    textIncontroMapsLink.text = "Visualizza la posizione su Mappe"
+    textIncontroMapsLink.setOnClickListener {
+        val intent = Intent(Intent.ACTION_VIEW, Uri.parse(mapsUrl))
+        startActivity(intent)
+    }
+    */
+
+    // ... il resto della tua logica per lo spinner, ecc.
+}
+Questo ti darà un lay

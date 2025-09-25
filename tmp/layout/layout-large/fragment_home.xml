@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".ui.home.HomeFragment">
+
+        <!-- android:scaleType="centerCrop"
+        android:scaleType="fitCenter"
+        app:layout_constraintDimensionRatio="h,16:9"
+        app:layout_constraintDimensionRatio="W,1:1"
+            app:layout_constraintDimensionRatio="H,1:1"
+             android:adjustViewBounds="true"
+             android:layout_width="0dp"
+            android:layout_height="0dp"
+        -->
+
+        <ImageView
+            android:id="@+id/image_view_home_scritta"
+
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+
+            android:layout_marginTop="80dp"
+
+            android:adjustViewBounds="true"
+            android:contentDescription="Immagine Home Scritta"
+
+            android:scaleType="fitCenter"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/logo_ricostruttori_home_scritta" />
+
+        <ImageView
+            android:id="@+id/image_view_home"
+
+
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+
+            android:adjustViewBounds="true"
+            android:contentDescription="Immagine Home"
+            android:scaleType="fitCenter"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/image_view_home_scritta"
+            app:srcCompat="@drawable/logo_ricostruttori_home_croce"
+            tools:layout_constraintLeft_creator="1"
+            tools:layout_constraintRight_creator="1" />
+
+        <Button
+            android:id="@+id/audio_home_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+
+            android:backgroundTint="@color/calmBlue"
+            android:fontFamily="@font/quicksandbold"
+            android:padding="10dp"
+            android:paddingLeft="0dp"
+            android:text="Padre Jhon"
+            android:textColor="@color/black"
+            android:textSize="10sp"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/image_view_home"
+            tools:layout_constraintLeft_creator="1"
+            tools:layout_constraintRight_creator="1"
+            tools:layout_constraintTop_creator="1" />
+
+        <!-- style="@style/MySeekBar"
+        android:progressDrawable="@drawable/custom_player_seekbar_background"
+
+        android:maxHeight="6dip"
+            android:minHeight="6dip"
+            android:paddingLeft="30px"
+            android:paddingTop="10px"
+            android:paddingRight="30px"
+            android:paddingBottom="10px"
+            android:thumb="@drawable/ic_fas_volume_up"
+
+        -->
+
+        <Button
+            android:id="@+id/stop_audio_home_btn"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/calmBlue"
+            android:fontFamily="@font/quicksandbold"
+            android:padding="0dp"
+            android:paddingLeft="0dp"
+            android:text="Stop"
+            android:textColor="@color/black"
+
+            android:textSize="10sp"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.504"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/audio_home_btn" />
+
+        <!--
+        android:layout_width="wrap_content"
+        -->
+        <SeekBar
+            android:id="@+id/seekBarHome"
+
+
+            android:layout_width="100dip"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:minWidth="30dp"
+            android:minHeight="20dp"
+            android:thumb="@drawable/ic_fas_volume_up"
+            android:thumbOffset="20dp"
+            app:layout_constraintStart_toEndOf="@+id/audio_home_btn"
+            app:layout_constraintTop_toBottomOf="@+id/image_view_home" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

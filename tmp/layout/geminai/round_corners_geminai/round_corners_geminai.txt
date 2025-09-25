@@ -1,0 +1,158 @@
+Domanda a GeminAi
+Vorrei migliorare la grafica di questa pagina della mia
+app su AndroidStudio e in particolare la grafica
+dei pulsanti che nella forma rettangolare non mi piacciono.
+Hai qualche consiglio per migliorare l'aspetto dei pulsanti
+o anche altri suggerimeni che tu ritieni utili
+dal punto di vista grafico e/o funzionale ? 
+
+Strumenti e Risorse Utili
+
+Material Design Guidelines: https://material.io/design
+Android Developers Documentation: https://developer.android.com/docs
+Color Contrast Checker: https://webaim.org/resources/contrastchecker/
+Figma/Adobe XD/Sketch: Strumenti per prototipare e progettare l'interfaccia utente prima di implementarla.
+
+EditeTimeImput e pulsante
+da sistemare
+
+
+
+
+Per arrotondare gli angoli di ImageView e TextView in Android, 
+non si usa un attributo diretto come android:cornerRadius. 
+Invece, si definisce una "forma" (shape) Drawable in XML 
+e la si imposta come sfondo (background) dell'elemento.
+
+Ecco come puoi fare per entrambi gli elementi:
+
+Passaggio 1: Creare un file XML per la forma arrotondata
+Crea un nuovo file XML nella cartella res/drawable. Ad esempio, 
+puoi chiamarlo rounded_corners_background_pensieri.xml
+rounded_corners_background_meditazione.xml
+rounded_corners_background_incontri.xml
+
+Fai clic destro sulla cartella res/drawable nel tuo progetto.
+Seleziona New -> Drawable resource file.
+Dai il nome rounded_corners_background e fai clic su OK.
+Apri il file rounded_corners_background.xml e incolla il seguente codice:
+
+XML
+
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@android:color/white" /> 
+    <corners android:radius="12dp" /> 
+</shape>
+
+Spiegazione del codice:
+
+<shape android:shape="rectangle">: Definisce una forma rettangolare.
+<solid android:color="@android:color/white" />: Specifica il colore di riempimento della forma. Per l'ImageView, 
+questo colore non sarà visibile perché l'immagine lo coprirà. 
+Per il TextView, questo sarà il colore di sfondo.
+
+<corners android:radius="12dp" />: Questa è la parte cruciale. android:radius 
+imposta il raggio per tutti e quattro gli angoli. 
+Puoi usare valori diversi per angoli specifici 
+(topLeftRadius, topRightRadius, bottomLeftRadius, bottomRightRadius).
+
+Passaggio 2: Applicare la forma agli elementi ImageView e TextView
+Ora, modificheremo il tuo layout fragment.xml 
+per utilizzare questo Drawable come sfondo.
+
+Per l'ImageView:
+Per l'ImageView, c'è un modo più diretto e moderno 
+per arrotondare gli angoli usando la libreria Material Components 
+for Android (che stai già usando per il MaterialButton). 
+Questo è spesso preferibile in termini di prestazioni e funzionalità.
+
+Inveve di un ImageView, usa un com.google.android.material.imageview.ShapeableImageView. Questo componente ti permette di definire facilmente la forma degli angoli.
+
+XML
+
+<com.google.android.material.imageview.ShapeableImageView
+    android:id="@+id/image_view_pensieri"
+    android:layout_width="0dp"
+    android:layout_height="0dp"
+    android:contentDescription="Immagine di Padre Jhon A S.Apollinare"
+    android:scaleType="centerCrop"
+    app:layout_constraintDimensionRatio="H,1:1"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:srcCompat="@drawable/padre_jhon_s_apo"
+    app:shapeAppearanceOverlay="@style/RoundedImageView" tools:layout_constraintLeft_creator="1"
+    tools:layout_constraintRight_creator="1" />
+Ora, devi definire lo stile RoundedImageView nel tuo file styles.xml (o themes.xml, a seconda della tua configurazione, di solito in res/values/styles.xml o res/values/themes.xml):
+
+XML
+
+<style name="RoundedImageView" parent="">
+    <item name="cornerFamily">rounded</item>
+    <item name="cornerSize">12dp</item> 
+</style>
+Vantaggi di ShapeableImageView:
+
+È progettato specificamente per le forme e le ombre.
+Gestisce meglio i bordi e gli overlay rispetto all'uso di un semplice 
+drawable di sfondo per l'arrotondamento.
+È parte della libreria Material Design, quindi 
+si integra bene con gli altri componenti.
+Per il TextView:
+Per il TextView, useremo il rounded_corners_background.xml che hai creato, 
+ma dovremo modificare il colore di sfondo.
+
+Apri il file rounded_corners_background.xml che hai 
+creato e cambia il solid android:color per riflettere il colore del 
+tuo TextView (@color/lightBlue).
+
+XML
+
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/lightBlue" /> 
+<corners android:radius="12dp" /> 
+</shape>
+Nota: Se vuoi riutilizzare la stessa forma ma con colori diversi, 
+puoi creare più file XML di forma o definire il colore direttamente nel layout. 
+Per semplicità, in questo esempio modifichiamo il file esistente.
+
+Applica questo Drawable come sfondo al tuo TextView:
+
+XML
+
+<TextView
+    android:id="@+id/textPensiero"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="0dp"
+    android:layout_marginTop="25dp"
+    android:background="@drawable/rounded_corners_background" 
+    android:fontFamily="@font/quicksandbold"
+    android:fontWeight="500"
+    android:gravity="center_horizontal"
+    android:hint=""
+    android:minHeight="48dp"
+    android:textAppearance="?android:attr/textAppearanceListItemSmall"
+    android:textSize="15sp"
+    android:textStyle="bold|italic"
+    android:visibility="visible"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/spinner_pensieri_giorno"
+    tools:layout_constraintLeft_creator="1"
+    tools:layout_constraintRight_creator="1"
+    tools:layout_constraintTop_creator="1"
+    tools:visibility="visible" />
+Riepilogo dei passaggi:
+Crea res/drawable/rounded_corners_background.xml con la definizione della forma e il raggio desiderato, impostando il solid color al colore di sfondo che desideri per il TextView.
+Modifica l'ImageView in com.google.android.material.imageview.ShapeableImageView.
+Aggiungi app:shapeAppearanceOverlay="@style/RoundedImageView" al tuo ShapeableImageView.
+Definisci lo stile RoundedImageView in res/values/styles.xml (o themes.xml) con cornerFamily e cornerSize.
+Imposta android:background="@drawable/rounded_corners_background" per il tuo TextView.
+Dopo queste modifiche, pulisci e ricostruisci il progetto
+ (Build -> Clean Project, poi Build -> Rebuild Project) 
+per vedere i cambiamenti nell'anteprima di Android Studio.

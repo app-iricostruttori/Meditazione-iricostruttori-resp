@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_fas_home"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/nav_incontri"
+            android:icon="@drawable/ic_fas_info"
+            android:title="@string/menu_incontro" />
+        <item
+            android:id="@+id/nav_meditazione"
+            android:icon="@drawable/ic_fas_heart"
+            android:title="@string/menu_meditazione" />
+        <item
+            android:id="@+id/nav_pensieri"
+            android:icon="@drawable/ic_fas_smile"
+            android:title="@string/menu_giornodopogiorno" />
+
+        <item
+            android:id="@+id/nav_canti"
+            android:icon="@drawable/ic_fas_music"
+            android:title="@string/menu_canti" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/menu_settings" />
+
+    </group>
+</menu>

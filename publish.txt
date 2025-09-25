@@ -1,0 +1,28 @@
+OK 1-Plan and develop the application.(the obvious part).
+
+2-Sign up for Google’s Developer Console if you haven’t already.
+https://developer.android.com/distribute/console
+app-meditazione@iricostruttori.org
+
+3-read all the terms and conditions and ensure your app does not break them.
+
+4-take sample screenshots of the app’s activities for uploading them.
+
+5-write a good and short description. (il testo del sito)
+La Missione dei Ricostruttori nella preghiera è farsi testimoni 
+di una cristianità capace di venire incontro al bisogno di preghiera 
+e ricerca interiore, spesso inconsapevole, 
+dell’uomo contemporaneo. 
+Attingendo alle risorse della tradizione cristiana, 
+propongono un cammino di rientro in se stessi, 
+che consenta di raccogliere il proprio sguardo, 
+disperso all’esterno e disorientato, e di introdurlo nel cuore: 
+la meditazione profonda.
+
+
+6-upload the app,also don’t forget to attach the screenshots and description.
+
+There are many other settings available in the console,make sure 
+you go through each of them.
+
+corso udemy java kotlin app da zero 15 euro.

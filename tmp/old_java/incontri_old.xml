@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <!-- START REGIONI -->
+    <!--
+    <string-array name="incontro_default">
+        <item>SAM</item>
+    </string-array>
+    <string-array name="regione_valdaosta">
+        <item>Val d\'Aosta</item>
+    </string-array>
+
+    <string-array name="regione_piemonte">
+        <item>Piemonte</item>
+</string-array>
+
+
+
+    <string-array name="regione_lombardia">
+        <item>Lombardia</item>
+    </string-array>
+
+    <string-array name="regione_veneto">
+        <item>Veneto</item>
+    </string-array>
+
+    <string-array name="regione_emiliaromagna">
+        <item>Emilia Romagna</item>
+    </string-array>
+
+    <string-array name="regione_liguria">
+        <item>Liguria</item>
+    </string-array>
+
+    <string-array name="regione_toscana">
+        <item>Toscana</item>
+    </string-array>
+
+    <string-array name="regione_marche">
+        <item>Marche</item>
+    </string-array>
+
+    <string-array name="regione_umbria">
+        <item>Umbria</item>
+    </string-array>
+
+    <string-array name="regione_lazio">
+        <item>Lazio</item>
+    </string-array>
+
+    <string-array name="regione_abruzzo">
+        <item>Abruzzo</item>
+    </string-array>
+
+    <string-array name="regione_campania">
+        <item>Campania</item>
+    </string-array>
+
+    <string-array name="regione_puglia">
+        <item>Puglia</item>
+    </string-array>
+
+    <string-array name="regione_sicilia">
+        <item>Sicilia</item>
+    </string-array>
+    -->
+    <!-- END REGIONI -->
+
+    <!-- START INCONTRI -->
+    <!-- Val d\'Aosta -->
+    <!--
+    <string-array name="incontri_valdaosta">
+        <item>Gignod Lunedì¬ 19:30;https://www.iricostruttori.org/aosta/</item>
+    </string-array>
+    <string-array name="link_aosta">
+        <item>https://www.iricostruttori.org/aosta/</item>
+    </string-array>
+    -->
+    <!-- Piemonte -->
+    <!--
+    <string-array name="incontri_piemonte">
+        <item>Biella Lunedì¬ 20:00;https://www.iricostruttori.org/biella/</item>
+        <item>Torino Martedì¬ 18:30;https://www.iricostruttori.org/torino/</item>
+        <item>Torino Martedì¬ 21:00;https://www.iricostruttori.org/torino/</item>
+	  <item>Brillante (TO) Martedì¬ 18:00;https://www.iricostruttori.org/apollinare/</item>
+        <item>Casalbeltrame (NO) Lunedì¬ 19:15;https://www.iricostruttori.org/apollinare/</item>
+	  <item>Novara (NO) Venerdì¬ 18:30;https://www.iricostruttori.org/apollinare/</item>
+        <item>Casale Monferrato (AL) Venerdì¬ 18:30;https://www.iricostruttori.org/apollinare/</item>
+        <item>S. Giovanni Canavese (TO) Lunedì¬ 19:30;https://www.iricostruttori.org/giovanni/</item>
+        <item>Soriso (NO) Mercoledì¬ 20:15;https://www.iricostruttori.org/soriso/</item>
+        <item>S. Damiano (AT) Venerdì¬ 18:00;https://www.iricostruttori.org/damiano/</item>
+        <item>Domodossola Martedì¬ 18:30;https://www.iricostruttori.org/damiano/</item>
+    </string-array>
+    -->
+	   
+
+
+
+    <!-- Lombardia -->
+    <!--
+    <string-array name="incontri_lombardia">
+        <item>Como Mercoledì¬ 19:30;https://www.iricostruttori.org/como/</item>
+        <item>Gornate Olona (VA) Giovedì¬ 20:30;https://www.iricostruttori.org/gornate/</item>
+        <item>Milano Mercoledì¬ 19:00;https://www.iricostruttori.org/milano/</item>
+        <item>Castiraga (LO) Martedì¬ 20:30;https://www.iricostruttori.org/castiraga/</item>
+        <item>Lonato (BS) Mercoledì¬ 20:00;https://www.iricostruttori.org/sanmartino/</item>
+        <item>Castelli Calepio (BG) Mercoledì¬ 20:00;https://www.iricostruttori.org/sanvigilio/</item>
+        <item>Brescia(BS) Lunedì¬ 20:30;https://www.iricostruttori.org/sanvigilio/</item>
+     </string-array>
+    -->
+
+    <!-- Veneto -->
+    <!--
+    <string-array name="incontri_veneto">
+        <item>Padova Lunedì¬ 19:30;https://www.iricostruttori.org/padova/</item>
+        <item>Rovigo Martedì¬ 19:45;https://www.iricostruttori.org/rovigo/</item>
+        <item>Verona Giovedì¬ 19:40;https://www.iricostruttori.org/verona/</item>
+        <item>Treviso Martedì¬ 20:00;https://www.iricostruttori.org/verona/</item>
+            </string-array>
+    -->
+    <!-- Emilia Romagna -->
+    <!--
+    <string-array name="incontri_emiliaromagna">
+        <item>Bologna Mercoledì¬ 20:00;https://www.iricostruttori.org/bologna/</item>
+        <item>S.Caterina Giovedì¬ 20:30;https://www.iricostruttori.org/scaterina/</item>
+        <item>Abbazia Pomposa Venerdì¬ 19:30;https://www.iricostruttori.org/pomposa/</item>
+    </string-array>
+    -->
+
+    <!-- Liguria -->
+    <!--
+    <string-array name="incontri_liguria">
+        <item>Genova Mercoledì¬ 20:30;https://www.iricostruttori.org/genova/</item>
+        <item>La Spezia Mercoledì¬ 18:30;https://www.iricostruttori.org/laspezia/</item>
+        <item>La Spezia Giovedì¬ 20:30;https://www.iricostruttori.org/laspezia/</item>
+      </string-array>
+    -->
+    <!-- Toscana  -->
+    <!--
+    <string-array name="incontri_toscana">
+        <item>Garfagnana Mercoledì¬ 19:30;https://www.iricostruttori.org/genova/</item>
+        <item>Livorno Mercoledì¬ 19:30;https://www.iricostruttori.org/laspezia/</item>
+        <item>Lucca Mercoledì¬ 19:30;https://www.iricostruttori.org/laspezia/</item>
+        <item>Carrara Giovedì¬ 20:00;https://www.iricostruttori.org/carrara/</item>
+       </string-array>
+    -->
+
+    <!-- Umbria -->
+    <!--
+    <string-array name="incontri_umbria">
+        <item>Terni(Strocone) Venerdì¬ 20:30;https://www.iricostruttori.org/stroncone/</item>
+        <item>Foligno Venerdì¬ 20:30;https://www.iricostruttori.org/stroncone/</item>
+    </string-array>
+    -->
+
+    <!-- Lazio -->
+    <!--
+    <string-array name="incontri_lazio">
+        <item>Roma Giovedì¬ 20:30;https://www.iricostruttori.org/roma/</item>
+        /<item>Zagarolo Mercoledì¬ 19:00;https://www.iricostruttori.org/zagarolo</item>
+        /<item>Vitinia Lunedì¬ 19:30;https://www.iricostruttori.org/zagarolo</item>
+
+    </string-array>
+    -->
+
+    <!-- Abruzzo -->
+    <!--
+    <string-array name="incontri_abruzzo">
+        <item>L\'Aquila Martedì¬ 19:30;https://www.iricostruttori.org/aquila/</item>
+        <item>Moscufo Giovedì¬ 19:00;https://www.iricostruttori.org/moscufo/</item>
+    </string-array>
+    -->
+
+    <!-- Campania -->
+    <!--
+    <string-array name="incontri_campania">
+        <item>Montoro Martedì¬ 20:00;https://www.iricostruttori.org/montoro/</item>
+        <item>Napoli Lunedì¬ 20:00;https://www.iricostruttori.org/napoli/</item>
+    </string-array>
+    -->
+
+    <!-- Puglia -->
+    <!--
+    <string-array name="incontri_puglia">
+        <item>Foggia Mercoledì¬ 19:30;https://www.iricostruttori.org/foggia/</item>
+        <item>Manfredonia S.Leonardo Martedì¬ 20:00;https://www.iricostruttori.org/manfredonia/</item>
+    </string-array>
+    -->
+    <!-- Sicilia -->
+    <!--
+    <string-array name="incontri_sicilia">
+        <item>Augusta Giovedì¬ 19:00;https://www.iricostruttori.org/augusta/</item>
+        <item>Messina Lunedì¬ 19:00;https://www.iricostruttori.org/messina/</item>
+        <item>Modica Mercoledì¬ 19:30;https://www.iricostruttori.org/modica/</item>
+        <item>Palermo Martedì¬ 19:00;https://www.iricostruttori.org/palermo/</item>
+        <item>Piedimonte Venerdì¬ 20:30;https://www.iricostruttori.org/piedimonte/</item>
+        <item>Catania Mercoledì¬ 20:15;https://www.iricostruttori.org/catania/</item>
+    </string-array>
+    -->
+
+</resources>

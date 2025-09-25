@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="canto_iniziale">
+        <item>Prima della meditazione</item>
+    </string-array>
+
+    <string-array name="canto_finale">
+        <item>Dopo la meditazione</item>
+    </string-array>
+
+    <string-array name="canto_iniziale_sancrito">
+        <item>SAM\’ GACCHADVAM</item>
+        <item>SAM\’ VADADHVAM</item>
+        <item>SAM\’ VO MAN\’M\’ SI JA\’ NATAM</item>
+        <item>              </item>
+        <item>DEVA\’ BHA\’ GAM JATHA PURVE’</item>
+        <item>SAM\’ JANA\’ NA\’ UPA\’ SATE</item>
+        <item>SAMA\’ NII\’ VA AKUTIIH</item>
+        <item>SAMA\’ NA’ HRDAYA NI VAH</item>
+        <item>SAMA\’ NAM ASTU VO MANO</item>
+        <item>YATHA\‘ VAH SUSAHA\’ SATI</item>
+        <item>(Rgvedasamhita X”,191,2-4)</item>
+    </string-array>
+
+    <string-array name="canto_iniziale_italiano">
+        <item>Danziamo insieme</item>
+        <item>Cantiamo insieme</item>
+        <item>Prendiamo insieme conoscenza </item>
+        <item>delle nostre menti.          </item>
+        <item>Per unirci ai santi saggi del passato</item>
+        <item>Tutti insieme godiamo dell\’universo</item>
+        <item>Uniamo le nostre intenzioni</item>
+        <item>Uniamo i nostri cuori</item>
+        <item>La nostra mente sia una sola mente</item>
+        <item>Per essere una cosa sola</item>
+        <item>                         </item>
+    </string-array>
+
+    <string-array name="canto_finale_sancrito">
+        <item>NYTIAM SHUDDAM NIRA\’ BHA\’ SAM</item>
+        <item>NIRA\’ KA\’ RAM\’ NIRANJANAM</item>
+        <item>NYTIABODHAM CYDANANDAM</item>
+        <item>GURURBRAHMA NAMA\’ MY AHAM</item>
+        <item>                          </item>
+    </string-array>
+
+    <string-array name="canto_finale_italiano">
+        <item>Eterno,puro indescrivibile.</item>
+        <item>Senza forma e increato</item>
+        <item>Onniscente coscienza beata</item>
+        <item>Al divin Maestro io porgo i miei</item>
+        <item>saluti</item>
+    </string-array>
+</resources>

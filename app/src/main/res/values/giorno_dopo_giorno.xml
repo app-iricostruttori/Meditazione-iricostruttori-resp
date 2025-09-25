@@ -1,0 +1,3063 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="giorno_default">
+        <item>SAM</item>
+    </string-array>
+
+    <string-array name="giorno_0101">
+        <item>Lo Spirito Santo è il dolce ospite che</item>
+        <item>abita in noi. Lo Spirito</item>
+        <item>Santo spinge ad amare le creature,</item>
+        <item>solo così si va verso l\'Infinito.</item>
+    </string-array>
+    <string-array name="giorno_0201">
+        <item>Donare viene dal cuore e non dalla</item>
+        <item>ricchezza.</item>
+    </string-array>
+    <string-array name="giorno_0301">
+        <item>La vera obbedienza va praticata ogni</item>
+        <item>giorno ascoltando la Provvidenza.</item>
+    </string-array>
+    <string-array name="giorno_0401">
+        <item>Il Maestro insegna che quando si fa</item>
+        <item>la Sua volontà, si osservano i</item>
+        <item>comandamenti: ""Verremo a lui e</item>
+        <item>faremo dimora presso di lui""; facendo la</item>
+        <item>Sua volontà si entra nella Sua intimità,</item>
+        <item>cominciamo a essere suoi. Questa è la</item>
+        <item>vita mistica: entrare in famigliarità con</item>
+        <item>Dio. Nella messa ""entrare nel regno dei</item>
+        <item>cieli"" è entrare in intimità con Lui.</item>
+            </string-array>
+    <string-array name="giorno_0501">
+        <item>Se ci manca la fede è perchè non la</item>
+        <item>chiediamo.</item>
+    </string-array>
+    <string-array name="giorno_0601">
+        <item>I ritiri servono per vedere se la</item>
+        <item>nostra casa è fatta di cemento armato,</item>
+        <item>se è resistente e per non trovarci per</item>
+        <item>terra alla prima scossa.</item>
+    </string-array>
+    <string-array name="giorno_0701">
+        <item>La morte ci insegna soprattutto a</item>
+        <item>non perdere l\'occasione di amare.</item>
+    </string-array>
+    <string-array name="giorno_0801">
+        <item>Va tutto bene nel vento e nella luce!</item>
+            </string-array>
+    <string-array name="giorno_0901">
+        <item>Non si è in grado di imparare nulla,</item>
+        <item>se non si sviluppa la coscienza del ""non</item>
+        <item>so"" che è la condizione fondamentale di</item>
+        <item>un discepolo.</item>
+    </string-array>
+    <string-array name="giorno_1001">
+        <item>Il Kirtam armonizza le forze disperse,</item>
+        <item>la profondità aiuta a controllare le</item>
+        <item>distrazioni, lo sguardo sulla Sindone</item>
+        <item>apre il cuore.</item>
+    </string-array>
+    <string-array name="giorno_1101">
+        <item>Seguire una regola morale è facilitare</item>
+        <item>una crescita armonica.</item>
+    </string-array>
+    <string-array name="giorno_1201">
+        <item>Non facciamo la rivoluzione, ma una</item>
+        <item>lenta evoluzione.</item>
+    </string-array>
+    <string-array name="giorno_1301">
+        <item>Il lavoro è il punto di incontro tra lo</item>
+        <item>spirito e la materia.</item>
+    </string-array>
+    <string-array name="giorno_1401">
+        <item>L\'indispensabile è una enorme fiducia</item>
+        <item>nell\'Infinito: non possiamo affrontare</item>
+        <item>saggiamente la vita religiosa se non</item>
+        <item>siamo convinti che l\'opera della nostra</item>
+        <item>salvezza è soprattutto opera dell\'Infinito</item>
+        <item>e che non possiamo farla fallire.</item>
+    </string-array>
+    <string-array name="giorno_1501">
+        <item>Umiltà: c\'è bisogno di vita nascosta,</item>
+        <item>nella ricerca dell\'ultimo posto. Se si</item>
+        <item>lavora per se stessi si perde tutto, se si</item>
+        <item>lavora per il Signore si guadagna tutto.</item>
+    </string-array>
+    <string-array name="giorno_1601">
+        <item>Convincere per mezzo di un</item>
+        <item>esempio inequivocabile e di</item>
+        <item>un\'esperienza verificabile: questa è la</item>
+        <item>vera autorità morale, che si fa seguire!!!</item>
+    </string-array>
+    <string-array name="giorno_1701">
+        <item>Rapporto con il padre spirituale:</item>
+        <item>anzitutto va amato, quindi accettato o</item>
+        <item>scelto affettuosamente, altrimenti sarà</item>
+        <item>difficile obbedire. E\' lo Spirito che</item>
+        <item>forma i maestri spirituali, suggerisce la</item>
+        <item>direzione spirituale e crea l\'amicizia</item>
+        <item>spirituale, come ispira la parola di Dio:</item>
+        <item>""Bisogna fidarci"".</item>
+    </string-array>
+    <string-array name="giorno_1801">
+        <item>Amare non è ragionare.</item>
+    </string-array>
+    <string-array name="giorno_1901">
+        <item>Una verità imparata sui libri è ben</item>
+        <item>diversa da quella interiorizzata</item>
+        <item>nell\'esperienza della meditazione. Ha</item>
+        <item>tutt\'altro splendore e tutt\'altra intensità</item>
+        <item>e si avvolge di mistero finchè uno</item>
+        <item>diventa quella verità.</item>
+    </string-array>
+    <string-array name="giorno_2001">
+        <item>Il vero convertito deve saper dire</item>
+        <item>""cosa vuoi che io faccia?"" nella</item>
+        <item>disposizione d\'animo di offrire un vero,</item>
+        <item>definito e totale guru puja.</item>
+    </string-array>
+    <string-array name="giorno_2101">
+        <item>La danza cosmica che ci invita a</item>
+        <item>crescere nell\'amore per diventare grandi</item>
+        <item>come l\'Infinito vuole, ci invita a essere</item>
+        <item>canali di tutto ciò che possediamo. Tutti</item>
+        <item>i santi furono, di fatto, sempre canali</item>
+        <item>per arricchire gli altri. Tutto ciò che</item>
+        <item>riceviamo da Dio: talenti, carismi,</item>
+        <item>tempo, salute, appartengono al regno</item>
+        <item>del Maestro.</item>
+    </string-array>
+    <string-array name="giorno_2201">
+        <item>L\'indispensabile vero è la preghiera e</item>
+        <item>quello che aiuta la preghiera è la calma e</item>
+        <item>la tranquillità.</item>
+    </string-array>
+    <string-array name="giorno_2301">
+        <item>Il Signore qualche volta vuole il</item>
+        <item>Signore e non altre cose, non la carriera</item>
+        <item>ma lo spazio per Lui e quando entra Lui</item>
+        <item>anche chi ha poche doti, poca forza può</item>
+        <item>diventare grande, perchè Lui è il Dio</item>
+        <item>della grandezza.</item>
+    </string-array>
+    <string-array name="giorno_2401">
+        <item>La morte è atto conclusivo del dare.</item>
+    </string-array>
+    <string-array name="giorno_2501">
+        <item>Che cos\'è la felicità? Un sì alla vita, alla</item>
+        <item>crescita, ma la massima crescita è in una</item>
+        <item>prospettiva infinita. Solo l\'Infinito è</item>
+        <item>promessa di felicità.</item>
+    </string-array>
+    <string-array name="giorno_2601">
+        <item>Saper vivere non è una scienza, ma</item>
+        <item>un\'arte da saper coltivare.</item>
+    </string-array>
+    <string-array name="giorno_2701">
+        <item>Fare sempre con la benedizione dei</item>
+        <item>superiori attira la grazia di Dio!</item>
+    </string-array>
+    <string-array name="giorno_2801">
+        <item>Quando cominceremo a penetrare la</item>
+        <item>realtà,attraverso la saggezza dello</item>
+        <item>Spirito, avvertiremo la presenza degli</item>
+        <item>spiriti, che sono l\'incarnazione della</item>
+        <item>divina intelligenza creatrice: è l\'unico</item>
+        <item>modo di spiegare tutta l\'infinita</item>
+        <item>bellezza del creato. Avvertiremo la loro</item>
+        <item>presenza in ogni cosa e ogni cosa nella</item>
+        <item>nostra vita acquisterà un significato</item>
+        <item>nuovo. L\'essere umano può dominare la</item>
+        <item>natura se riesce a conoscerne la</item>
+        <item>struttura e le finalità, cioè se riesce a</item>
+        <item>conoscere la presenza degli angeli che</item>
+        <item>ne custodiscono i segreti. Altrimenti è</item>
+        <item>sudore della fronte e lotta. Tutto inizia</item>
+        <item>dal collegamento col tuo angelo e</item>
+        <item>questo avviene soltanto in un cuore che</item>
+        <item>sa perdonare e desidera servire il suo</item>
+        <item>prossimo con umiltà.</item>
+    </string-array>
+    <string-array name="giorno_2901">
+        <item>Ogni azione deve essere preghiera</item>
+        <item>costante. Per questo è necessario che</item>
+        <item>chi opera abbia coscienza di essere solo</item>
+        <item>uno strumento che permette all\'Amore</item>
+        <item>infinito di fluire libero.</item>
+    </string-array>
+    <string-array name="giorno_3001">
+        <item>La nostra piccola povertà può</item>
+        <item>diventare ricchezza per tutti.</item>
+    </string-array>
+    <string-array name="giorno_3101">
+        <item>Con la contemplazione e tapa (il</item>
+        <item>servizio), ci facciamo l\'orecchio per</item>
+        <item>percepire la voce sottile delle piante e</item>
+        <item>degli animali, per ammirare e lodare.</item>
+    </string-array>
+    
+    <string-array name="giorno_0102">
+        <item>Possiamo crescere nell\'ascolto se</item>
+        <item>impariamo l\'attenzione nel silenzio. Ti</item>
+        <item>voglio bene è la voce dell\'Infinito che</item>
+        <item>sussurra attraverso tutte le cose.</item>
+    </string-array>
+    <string-array name="giorno_0202">
+        <item>Il ritmo vitale è dare, prendere e</item>
+        <item>dimenticare.</item>
+    </string-array>
+    <string-array name="giorno_0302">
+        <item>Carne e sangue del Figlio: cibi che</item>
+        <item>portano all\'eternità, pegno di vita</item>
+        <item>eterna, apertura a infinita vitalità, a</item>
+        <item>dimensione d\'amore.</item>
+    </string-array>
+    
+    <string-array name="giorno_0402">
+        <item>La beatitudine essenziale, cioè la</item>
+        <item>perfetta letizia consiste proprio nella</item>
+        <item>croce del Signore che ci rende capaci</item>
+        <item>d\'accogliere dono e perdono, non solo</item>
+        <item>per noi ma per tutti.</item>
+    </string-array>
+    <string-array name="giorno_0502">
+        <item>Noi veneriamo l\'immagine della</item>
+        <item>Sindone, cercando di formare dentro il</item>
+        <item>nostro cuore un\'immagine autentica del</item>
+        <item>Maestro, praticando quello che ha</item>
+        <item>insegnato come via di salvezza.</item>
+        <item>L\'immagine parla: dice quello che ha</item>
+        <item>sofferto per noi. Ci ha amato per primo.</item>
+        <item>La sua resurrezione è la vittoria sulla</item>
+        <item>morte. La nostra meditazione ha</item>
+        <item>bisogno di questo modello.</item>
+    </string-array>
+    <string-array name="giorno_0602">
+        <item>La premessa per ogni cura è che la</item>
+        <item>vita è una sfida entusiasmante e</item>
+        <item>una opportunità per realizzare e</item>
+        <item>realizzarsi. Ricette da consigliare:</item>
+        <item>- prima di tutto fare meditazione;</item>
+        <item>- obbligarci a profondi cambiamenti</item>
+        <item>nei rapporti con gli altri;</item>
+        <item>- presa di coscienza degli aspetti </item>
+        <item>materiali e spirituali della vita;</item>
+        <item>- certezza di poter guarire.</item>
+    </string-array>
+    <string-array name="giorno_0702">
+        <item>Dopo la meditazione mescolarsi  e</item>
+        <item>avvicinare i più difficili. Cominciare il</item>
+        <item>discorso e darsi appuntamento per un</item>
+        <item>posto e tempo più comodi.</item>
+    </string-array>
+    <string-array name="giorno_0802">
+        <item>Il progresso spirituale di ognuno di</item>
+        <item>noi fa parte del grande movimento di</item>
+        <item>crescita universale, con cui la Divinità ci</item>
+        <item>attira a sè, facendoci passare dal sonno</item>
+        <item>delle illusioni al dormiveglia delle </item>
+        <item>passioni, alla luce del pieno risveglio</item>
+        <item>della contemplazione, nella piena </item>
+        <item>unione con l\'Infinito.</item>
+    </string-array>
+    <string-array name="giorno_0902">
+        <item>Ci sono due modi per affrontare le</item>
+        <item>difficoltà della vita: o lottare contro tutti</item>
+        <item>o lasciarsi accompagnare dal fiume degli</item>
+        <item>eventi e nuotare. Bisogna però nuotare,</item>
+        <item>possibilmente con tutte le nostre</item>
+        <item>difficoltà.</item>
+    </string-array>
+    <string-array name="giorno_1002">
+        <item>La predica più efficace è l\'esempio</item>
+        <item>dei santi che spiega il loro culto.</item>
+        <item>Stimolo alla vita spirituale.</item>
+    </string-array>
+    <string-array name="giorno_1102">
+        <item>L\'Infinito si è manifestato come</item>
+        <item>misericordioso nel Figlio. Accettiamo la</item>
+        <item>sua bontà redentrice e accetteremo</item>
+        <item>anche la strada che ci ha insegnato</item>
+        <item>attraverso il vero Maestro.</item>
+    </string-array>
+    <string-array name="giorno_1202">
+        <item>Prima di condannare guardiamoci</item>
+        <item>dentro e cerchiamo di conoscere se</item>
+        <item>abbiamo intimità con l\'Infinito.</item>
+    </string-array>
+    <string-array name="giorno_1302">
+        <item>La legge dell\'amore supera ogni</item>
+        <item>giustizia.</item>
+    </string-array>
+    <string-array name="giorno_1402">
+        <item>La prudenza è sempre dovuta e</item>
+        <item>benedetta dalla Provvidenza. La</item>
+        <item>meditazione, con tutto quello che</item>
+        <item>insegna, potrebbe forse darci la</item>
+        <item>possibilità di far fronte a ogni</item>
+        <item>evenienza. Certamente ci dà delle buone</item>
+        <item>armi per crearci le endomorfine</item>
+        <item>necessarie e tante altre difese.</item>
+        
+    </string-array>
+    <string-array name="giorno_1502">
+        <item>Appena siamo nella nostra cella</item>
+        <item>interiore cerchiamo di renderci conto di</item>
+        <item>chi ci sta accanto. L\'unione con il Maestro</item>
+        <item>ci mette al centro del suo corpo</item>
+        <item>misterioso. Siamo quindi circondati dai </item>
+        <item>nostri morti e assistiti dagli angeli.</item>
+    </string-array>
+    <string-array name="giorno_1602">
+        <item>L\'ascetismo è inutile se manca l\'amore.</item>
+    </string-array>
+    <string-array name="giorno_1702">
+        <item>Sentirsi piccoli, piccoli, piccoli come la</item>
+        <item>più piccola formica del mondo.</item>
+    </string-array>
+    <string-array name="giorno_1802">
+        <item>Confessarsi è avvicinarsi alla Sua veste</item>
+        <item>per essere liberi, avvicinarsi alla Sua</item>
+        <item>croce per toccare il sangue che ci ha</item>
+        <item>salvato.</item>
+    </string-array>
+    <string-array name="giorno_1902">
+        <item>L\'unico atteggiamento che si addice</item>
+        <item>all\'indicibilità è in un atto di fede che è</item>
+        <item>adorazione silenziosa nell\'incontro</item>
+        <item>personale: ""Nella tua luce vedremo la</item>
+        <item>luce"".</item>
+    </string-array>
+    <string-array name="giorno_2002">
+        <item>La vocszione matura lentamente</item>
+        <item>man mano che si chiarisce l\'impegno</item>
+        <item>con cui vogliamo affrontare la vita.</item>
+    </string-array>
+    <string-array name="giorno_2102">
+        <item>La nostra povera vita, se la</item>
+        <item>consacriamo a un ideale, viene riscattata</item>
+        <item>dalla morte, perchè solo in punto di</item>
+        <item>morte possiamo veder chiaro che</item>
+        <item>l\'unico fine della vita è quello di</item>
+        <item>meritare, attraverso le nostre opere, il</item>
+        <item>titolo di servi dell\'Infinito.</item>
+    </string-array>
+    <string-array name="giorno_2202">
+        <item>Chi dice di non essere fatto per la</item>
+        <item>meditazione, non vuole esercitare il suo</item>
+        <item>corpo per questo scopo. Il solo fatto</item>
+        <item>d\'arrivare a sedere in una posizione buona,</item>
+        <item>per stare mezz\'ora con il Maestro, è</item>
+        <item>già illuminazione. Arrivano poi in serie</item>
+        <item>le altre illuminazioni, perchè lo stare</item>
+        <item>con il Maestro è necessariamente</item>
+        <item>creativo: ""Chi rimane in me ed io in lui,</item>
+        <item>porta molto frutto"".</item>
+    </string-array>
+    <string-array name="giorno_2302">
+        <item>Chi ci dona la grazia è lo Spirito</item>
+        <item>Santo e il nostro Maestro con la sua</item>
+        <item>redenzione. Chi sta unito al Maestro vive</item>
+        <item>la grande grazia della sua vita.</item>
+    </string-array>
+    <string-array name="giorno_2402">
+        <item>Bisogna purifiacre e dilatare la</item>
+        <item>sensibilità all\'ispirazione, con grande</item>
+        <item>attenzione alla Scrittura e a tutte le</item>
+        <item>forme di rivelazione. Lo Spirito si trova</item>
+        <item>bene nella dimora del nostro cuore</item>
+        <item>purificato.</item>
+    </string-array>
+    <string-array name="giorno_2502">
+        <item>Il segreto di tutto è la preghiera: farsi</item>
+        <item>prendere. Preghiera, speranza e senso</item>
+        <item>della Provvidenza s\'includono</item>
+        <item>reciprocamente.</item>
+    </string-array>
+    <string-array name="giorno_2602">
+        <item>I guerrieri di Cristo percorrono</item>
+        <item>l\'unica strada, quella in cui i moti</item>
+        <item>dell\'anima si quietano, si contempla la</item>
+        <item>divina Provvidenza, ci si perde nella</item>
+        <item>preghiera spirituale. La Messa rinnova il</item>
+        <item>momento della Sua morte e il momento</item>
+        <item>dell\'accettazione del Padre in sacrificio</item>
+        <item>completo. Con la consacrazione Gesù si</item>
+        <item>presenta sull\'altare nell\'atto stesso</item>
+        <item>di offrirsi al Padre. In quel momento si</item>
+        <item>sprigiona lo Spirito Santo che ci invade per</item>
+        <item>farci una sola cosa con Gesù e il Padre.</item>
+    </string-array>
+    <string-array name="giorno_2702">
+        <item>Ogni volta che entri in contatto con</item>
+        <item>qualcuno, amalo con tutto te stesso</item>
+        <item>senza desiderare di cambiarlo secondo il</item>
+        <item>tuo modo di vedere. Lascia fluire verso</item>
+        <item>di lui l\'amore, senza paura di perdere</item>
+        <item>qualcosa, e pensa: ""Ti voglio bene come</item>
+        <item>sei e non ho paura di amarti"". Non è</item>
+        <item>sempre facile mettere in pratica questo</item>
+        <item>impegno, perchè intervengono dissapori</item>
+        <item>e rancori. Quando ce la farai, anche con</item>
+        <item>chi ti ha fatto soffrire ingiustamente,</item>
+        <item>comincerai a avvertire la presenza</item>
+        <item>degli angeli che intervengono</item>
+        <item>direttamente per appianare le</item>
+        <item>incomprensioni e riportare gioia e</item>
+        <item>armonia. Non sono le tue invocazioni</item>
+        <item>d\'aiuto a sollecitare il loro intervento,</item>
+        <item>ma il tuo atteggiamento interiore</item>
+        <item>d\'umiltà e di disponibilità ad amare</item>
+        <item>senza riserve.</item>
+    </string-array>
+    <string-array name="giorno_2802">
+        <item>Le piante e gli animali nella loro</item>
+        <item>nudità sono veri poveri, grande esempio</item>
+        <item>d\'abbandono alla Provvidenza.</item>
+    </string-array>
+    <string-array name="giorno_2902">
+        <item>Devozione è bruciare l\'io e volere</item>
+        <item>solo il Signore, quindi innamorarsi e</item>
+        <item>arrendersi all\'Amore che ci abbraccia da</item>
+        <item>ogni parte e che ci insegue in ogni</item>
+        <item>modo. Purtroppo il nostro amore non</item>
+        <item>lo sentiamo, non lo vediamo e solo lo</item>
+        <item>conosciamo per fede, ma lo possiamo</item>
+        <item>immaginare. Il Maestro si è fatto vedere,</item>
+        <item>toccare, abbracciare, baciare. Dobbiamo</item>
+        <item>innamorarci e completare il nostro</item>
+        <item>innamoramento immaginando</item>
+        <item>l\'abbraccio. Vederci abbracciati al</item>
+        <item>Signore è solo una immagine ma il</item>
+        <item>Cantico dei Cantici ci invita ad aiutarci</item>
+        <item>con questa immagine di amore umano.</item>
+    </string-array>
+    <string-array name="giorno_0103">
+        <item>Per rimediare ai nostri sbagli bisogna</item>
+        <item>innanzitutto chiedere perdono al grande</item>
+        <item>Benefattore deluso. E poi chiedere</item>
+        <item>perdono anche alle persone che</item>
+        <item>abbiamo offeso. Il Maestro insegna che</item>
+        <item>se hai da fare l\'offerta all\'altare e ti</item>
+        <item>ricordi che un fratello ha qualcosa con</item>
+        <item>te, riconciliati prima con il fratello e</item>
+        <item>dopo fai l\'offerta.</item>
+    </string-array>
+    <string-array name="giorno_0203">
+        <item>Non cerchiamo poteri, ma solo</item>
+        <item>famigliarità con l\'Infinito.</item>
+    </string-array>
+    <string-array name="giorno_0303">
+        <item>Attraverso gli angeli noi possiamo</item>
+        <item>raggiungere l\'Infinito.</item>
+    </string-array>
+    <string-array name="giorno_0403">
+        <item>Il cammino spirituale provoca</item>
+        <item>regolarmente ribollimenti psicologici</item>
+        <item>intensi (voler vendetta o riconoscimenti,</item>
+        <item>gelosie, rivalità) soprattutto nei giorni di</item>
+        <item>digiuno. Metodi per superarli: la</item>
+        <item>contemplazione dell\'inferno suggerita</item>
+        <item>da S. Ignazio, insegnato da Dante, rende</item>
+        <item>più responsabili delle colpe. La</item>
+        <item>contemplazione del Crocefisso</item>
+        <item>flagellato, coronato di spine e capace di</item>
+        <item>perdonare placa la nostra collera.</item>
+    </string-array>
+    <string-array name="giorno_0503">
+        <item>La confessione comincia prendendo </item>
+        <item>coscienza della nostra piccolezza.</item>
+    </string-array>
+    <string-array name="giorno_0603">
+        <item>Le Beatitudini sono un invito a</item>
+        <item>seguire il Maestro per entrare nella sua</item>
+        <item>esperienza d\'infinita vita d\'amore. Vita</item>
+        <item>nuova o via della salute è imparare dal</item>
+        <item>Maestro a distruggere totalmente e</item>
+        <item>decisamente quanto di disumano si</item>
+        <item>annida in noi e ci chiude nella nostra</item>
+        <item>piccolezza.</item>
+    </string-array>
+    <string-array name="giorno_0703">
+        <item>Tutto è nostro se siamo di tutti!</item>
+    </string-array>
+    <string-array name="giorno_0803">
+        <item>Ecco il rapporto giusto con Dio:</item>
+        <item>accettare il sacrificio della volontà; se</item>
+        <item>indica una strada, si segue quella strada</item>
+        <item>e se si manca, si chiede perdono.</item>
+    </string-array>
+    <string-array name="giorno_0903">
+        <item>La nostra meditazione ha bisobno di</item>
+        <item>questo punto di partenza: di morire</item>
+        <item>per risorgere!!!</item>
+    </string-array>
+    <string-array name="giorno_1003">
+        <item>Il gruppo non è una folla di santi ma</item>
+        <item>di peccatori che si pentono.</item>
+    </string-array>
+    <string-array name="giorno_1103">
+        <item>Siamo nati per formare l\'angelica</item>
+        <item>farfalla, la grazia agisce nella vita mortale</item>
+        <item>per renderla immortale. Bisogna curare</item>
+        <item>questo essere nuovo che nasce come</item>
+        <item>una piantina, diventare ""divini"" vuol</item>
+        <item>dire portare luce e calore a tutti. Non</item>
+        <item>occorre predicare, va bene anche un</item>
+        <item>sorriso, il silenzio (quando occorre).</item>
+        <item>Bisogna proprio dimenticare se stessi: i</item>
+        <item>veri maestri si fanno ""mangiare"" vivi dai</item>
+        <item>loro discepoli per portare luce. L\'aprirci</item>
+        <item>al divino ci apre al prossimo.</item>
+    </string-array>
+    <string-array name="giorno_1203">
+        <item>Fede autentica è quando percepiamo</item>
+        <item>che l\'amore per tutti è l\'unica cosa.</item>
+    </string-array>
+    <string-array name="giorno_1303">
+        <item>Segno della crescita di un\'anima è la</item>
+        <item>volontà di aiutare gli altri. E si concreta</item>
+        <item>in una sempre diminuita voglia di</item>
+        <item>giudicare e un aumentato desiderio di</item>
+        <item>far progredire con ogni mezzo sano.</item>
+    </string-array>
+    <string-array name="giorno_1403">
+        <item>Ogni sfortuna apparente reca in sè il</item>
+        <item>seme della buona sorte, ogni ostacolo</item>
+        <item>non è una deviazione ma una sfida alla</item>
+        <item>mia capacità. Al primo successo non</item>
+        <item>devo compiacermi ma aspettare nuove</item>
+        <item>difficoltà da superare.</item>
+    </string-array>
+    <string-array name="giorno_1503">
+        <item>Abolire dal nostro vocabolario:</item>
+        <item>abbandonare, non posso, incapace,</item>
+        <item>impossibile, senza speranza,</item>
+        <item>improbabile!</item>
+    </string-array>
+    <string-array name="giorno_1603">
+        <item>L\'Infinito è una forza che ti fa superare</item>
+        <item>tutto. Se non sperimentiamo l\'aiuto di</item>
+        <item>questa forza, non sapremo mai cosa</item>
+        <item>significhi davvero stare bene. Il vero</item>
+        <item>è sentire la presenza meravigliosa e</item>
+        <item>onnipotente delle forze che ci</item>
+        <item>sostengono e ci guidano con mano</item>
+        <item>sicura in mezzo alle difficoltà: ""Io sono</item>
+        <item>con te sempre, tu mi hai preso per la</item>
+        <item>mano destra"".</item>
+    </string-array>
+    <string-array name="giorno_1703">
+        <item>La vita terrena è il processo</item>
+        <item>terapeutico di purificazione. Se</item>
+        <item>tormentiamo le persone che si stanno</item>
+        <item>accanto contribuiamo come demoni al</item>
+        <item>loro inferno. Se invece cerchiamo di</item>
+        <item>curare le piaghe fisiche, psichiche e </item>
+        <item>spirituali dei nostri vicini collaboriamo</item>
+        <item>con gli angeli.</item>
+    </string-array>
+    <string-array name="giorno_1803">
+        <item>Dobbiamo offrire una prospettiva</item>
+        <item>ideale che dia certezza e speranza.</item>
+    </string-array>
+    <string-array name="giorno_1903">
+        <item>Ciascuno deve cercare la propria</item>
+        <item>strada, esplorando i segni della</item>
+        <item>Provvidenza, in base alle proprie</item>
+        <item>capacità, alla propria salute, senza vane</item>
+        <item>pretese e false prospettive. Ciascuno di</item>
+        <item>noi è unico. Non se ne trova un altro.</item>
+        <item>Dobbiamo portare a compimento la</item>
+        <item>nostra missione che nessun altro mai</item>
+        <item>potrebbe compiere. Se manco al mio</item>
+        <item>compito lascio un vuoto penoso.</item>
+    </string-array>
+    <string-array name="giorno_2003">
+        <item>La trasfigurazione del Maestro è la </item>
+        <item>strada che egli ci indica per la nostra </item>
+        <item>crescita e la nostra lenta trasfigurazione.</item>
+    </string-array>
+    <string-array name="giorno_2103">
+        <item>Ogni persona che incontriamo può</item>
+        <item>crescere per mezzo nostro. Anche se le</item>
+        <item>nostre parole sono insufficienti può</item>
+        <item>agire il nostro esempio e la forza della</item>
+        <item>meditazione.</item>
+    </string-array>
+    <string-array name="giorno_2203">
+        <item>La meditazione è l\'ascolto quotidiano</item>
+        <item>di voci che esigono sintonizzazione</item>
+        <item>sulla stazione giusta. La preghiera</item>
+        <item>quotidiana non è l\'ora da dedicare alla</item>
+        <item>meditazione, ma tutta la preghiera</item>
+        <item>possibile nelle ventiquattr\'ore.</item>
+    </string-array>
+    <string-array name="giorno_2303">
+        <item>Sentirsi piccoli e poveri è abbandonarci</item>
+        <item>alla Sua forza infinita.</item>
+    </string-array>
+    <string-array name="giorno_2403">
+        <item>Sei il dono di Dio. E allora credi alla</item>
+        <item>tua missione. Liberati da tutte quelle</item>
+        <item>idee che ti sconfiggono. Lascia che le</item>
+        <item>parole del Maestro risuonino</item>
+        <item>accompagnate dal suono delle campane</item>
+        <item>a festa: ""Siate perfetti come lo è il Padre</item>
+        <item>vostro che è nei cieli"".</item>
+    </string-array>
+    <string-array name="giorno_2503">
+        <item>Non è possibile trasformare la nostra</item>
+        <item>capacità di amare se non cresce la</item>
+        <item>capacitaà di superare gli ostacoli spirituali</item>
+        <item>all\'esterno e all\'interno. Affrontiamoli</item>
+        <item>con coraggio! La battaglia che</item>
+        <item>dobbiamo combattere è dentro di noi!!!</item>
+    </string-array>
+    <string-array name="giorno_2603">
+        <item>Ogni gesto d\'amore, vissuto come</item>
+        <item>dono, per uno scopo puro diventa</item>
+        <item>preghiera.</item>
+    </string-array>
+    <string-array name="giorno_2703">
+        <item>Il vero padre spirituale non si trova</item>
+        <item>facilmente, bisogna meritarselo e poi</item>
+        <item>restargli fedele.</item>
+    </string-array>
+    <string-array name="giorno_2803">
+        <item>Non siamo liberi di scegliere quel che</item>
+        <item>deve succedere, ma di fronte al fatto,</item>
+        <item>dobbiamo reagire liberamente e non</item>
+        <item>pretendere che fare qualcosa</item>
+        <item>liberamente sia riuscirci. Libertà non è</item>
+        <item>onnipotenza. Se uno si aspetta che nel</item>
+        <item>mondo tutto sia come dovrebbe essere</item>
+        <item>per cominciare a comportarsi come</item>
+        <item>dovrebbe è pazzo.</item>
+    </string-array>
+    <string-array name="giorno_2903">
+        <item>Il tipico progresso nella meditazione lo</item>
+        <item>troviamo in Dante: prima la coscienza</item>
+        <item>di sentirsi perso, poi il dono di farsi</item>
+        <item>guidare da uno che sappia la strada, poi</item>
+        <item>l\'esperienza dei morti e successivamente</item>
+        <item>dei Santi , della Vergine e dell\'Infinito,</item>
+        <item>assistito dagli angeli. Possiamo imparare</item>
+        <item>a respirare con il nostro angelo, con i</item>
+        <item>nostri morti, con le persone che ci</item>
+        <item>amano spiritualmente. Le sentiremo</item>
+        <item>sempre più vicine e potremo</item>
+        <item>comunicare sempre meglio.</item>
+    </string-array>
+    <string-array name="giorno_3003">
+        <item>Essere in conversione sinifica</item>
+        <item>sperimentare incessantemente il mistero</item>
+        <item>del peccato e della grazia! Le tre tappe</item>
+        <item>della conversione sono: peccato,</item>
+        <item>conversione, grazia. Sempre intersecate.</item>
+    </string-array>
+    <string-array name="giorno_3103">
+        <item>Chi sono io? Noi siamo quello che</item>
+        <item>possiamo diventare nello sviluppo delle</item>
+        <item>nostre possibilità. Siamo esseri con una</item>
+        <item>mente e con un cuore, che sono le</item>
+        <item>potenti molle che spingono a sapere</item>
+        <item>sempre di più e ad amare sempre di più.</item>
+        <item>Se ci sviluppiamo a sufficienza, una</item>
+        <item>qualunque chiave messaci in mano può</item>
+        <item>aprire tutto, altrimenti anche la più bella</item>
+        <item>intelligenza resterà sterile.</item>
+    </string-array>
+    <string-array name="giorno_0104">
+        <item>Se siamo cristiani è perchè abbiamo</item>
+        <item>accettato l\'amore di Gesù Cristo e</item>
+        <item>ricevuto lo Spirito Santo che ci ha fatti</item>
+        <item>membra del corpo di Cristo, cioè ci ha</item>
+        <item>messi in contatto con tutti gli esseri che</item>
+        <item>hanno vita con Lui.</item>
+    </string-array>
+    <string-array name="giorno_0204">
+        <item>Mettiamoci accanto uno stimolo che</item>
+        <item>ci mantenga sempre costantemente</item>
+        <item>vigili e attenti: una buona guida.</item>
+    </string-array>
+    <string-array name="giorno_0304">
+        <item>La verità vi farà liberi; non la lotta di</item>
+        <item>classe, non il pensare, ma l\'immergersi a</item>
+        <item>vivere la verità con l\'obbedienza.</item>
+    </string-array>
+    <string-array name="giorno_0404">
+        <item>Anche nel nostro gruppo mancano</item>
+        <item>ancora attività formative e assistenziali</item>
+        <item>che solo la nostra fantasia deve</item>
+        <item>inventare e il nostro amore realizzare.</item>
+    </string-array>
+    <string-array name="giorno_0504">
+        <item>Quattro aspetti necessari alla</item>
+        <item>meditazione: - ferma determinazione e</item>
+        <item>costanza nello sforzo. La meditazione è</item>
+        <item>la cosa più importante della giornata.</item>
+        <item>Accompagnare la meditazione con la</item>
+        <item>fedele osservanza della disciplina ha</item>
+        <item>come risultato lo spiritualizzarsi del</item>
+        <item>sistema psico-fisico. Mai dimenticare il</item>
+        <item>corpo e tutte le fasi preparatorie e</item>
+        <item>ricordarsi sempre che non è tempo</item>
+        <item>perso quello dedicato al rilassamento,</item>
+        <item>perchè senza rilassamento non si può</item>
+        <item>concentrarsi o meditare. Per entrare</item>
+        <item>nella realtà che ci supera, nel mondo</item>
+        <item>infinito, bisogna rilasciare le piccole</item>
+        <item>forze e abbandonarci totalmente alla sua</item>
+        <item>azione che supera i nostri limiti.</item>
+        <item>- Non spaventarci delle distrazioni.</item>
+        <item>Scoprire che tutto è manifestazione</item>
+        <item>dell\'Infinito. Riferiamo a Lui tutte le</item>
+        <item>distrazioni, che in fondo finiscono per</item>
+        <item>aiutarci a dire il mantra.</item>
+        <item>- Bisogna aprirci perchè l\'infinito</item>
+        <item>Amore faccia meditazione con noi.</item>
+        <item>Aprire il cuore a un amore sempre più</item>
+        <item>inglobante con il passare da un amore</item>
+        <item>pauroso a un amore fiducioso, fatto di</item>
+        <item>famigliarità. Amando l\'infinito Amore,</item>
+        <item>sarà facile migliorare i nostri amori.</item>
+        <item>- Meditazione è unire la nostra piccola</item>
+        <item>capacità di amare a una realtà d\'amore</item>
+        <item>infinito, che regge ogni essere e ogni</item>
+        <item>esistenza e vuole il nostro amore.</item>
+        
+    </string-array>
+    <string-array name="giorno_0604">
+        <item>Solo così si vive: nel ricevere e nel</item>
+        <item>restituire.</item>
+    </string-array>
+    <string-array name="giorno_0704">
+        <item>Vediamo poco: solo una parte limitata</item>
+        <item>della realtà, perciò i criteri per valutare</item>
+        <item>situazioni o persone sono falsi. Per</item>
+        <item>questo non dobbiamo giudicare!</item>
+        <item>Guarda gli altri con gli occhi degli</item>
+        <item>angeli. Sentirai fluire verso di loro un</item>
+        <item>profondo amore paterno o materno e ti</item>
+        <item>accorgerai di essere unito ad ognuno</item>
+        <item>con un indissolubile legame divino.</item>
+    </string-array>
+    <string-array name="giorno_0804">
+        <item>Il Maestro non ci dice di</item>
+        <item>reclamizzare la sua presenza nel mondo</item>
+        <item>se non mostrando come ci vogliamo</item>
+        <item>bene.</item>
+    </string-array>
+    <string-array name="giorno_0904">
+        <item>Non viviamo per la morte, ma</item>
+        <item>quest\'approdo finale è legato a</item>
+        <item>Qualcuno che ci viene incontro e</item>
+        <item>garantisce il nostro avvenire come patto</item>
+        <item>di alleanza con Lui. La crescita che Lui</item>
+        <item>vuole da noi è la capacità di gestire con</item>
+        <item>amore ciò che mette nelle nostre mani,</item>
+        <item>per essere figli degni di un padre così</item>
+        <item>amoroso. Ci chiede di diventare a</item>
+        <item>nostra volta padri e madri, in un amore</item>
+        <item>coniugale fertile, non solo dal punto di</item>
+        <item>vista fisico ma soprattutto dal punto di</item>
+        <item>vista spirituale. Una paternità vera non</item>
+        <item>deve essere nè dispotica, nè debole, ma</item>
+        <item>deve incanalare tutte le nostre forze per</item>
+        <item>far crescere gli altri.</item>
+    </string-array>
+    <string-array name="giorno_1004">
+        <item>Il senso di giustizia come virtù nasce</item>
+        <item>dallo sforzo di capire cosa gli altri si</item>
+        <item>aspettano da noi e non quello che noi</item>
+        <item>ci aspettiamo dagli altri.</item>
+    </string-array>
+    <string-array name="giorno_1104">
+        <item>Che cosa è la felicità? Un sì alla vita, alla</item>
+        <item>crescita, ma la massima crescita è in una</item>
+        <item>prospettiva infinita. Solo l\'Infinito è</item>
+        <item>promessa di felicità.</item>
+    </string-array>
+    <string-array name="giorno_1204">
+        <item>Davanti a chi ci fa soffrire s\'impara a</item>
+        <item>liberare l\'amore, a reagire con la</item>
+        <item>tenerezza.</item>
+    </string-array>
+    <string-array name="giorno_1304">
+        <item>Pensare alla grande!!!</item>
+    </string-array>
+    <string-array name="giorno_1404">
+        <item>Cambiare è una nostra necessità</item>
+        <item>vitale perchè inevitabilmente cresciamo</item>
+        <item>e diverse sono le esigenze di un ragazzo,</item>
+        <item>di un adulto, di un anziano. Ma per</item>
+        <item>cambiare bisogna avere il coraggio di</item>
+        <item>fare scelte radicali, così da ritrovare la</item>
+        <item>nostra autenticità. L\'Infinito ci vuole</item>
+        <item>perfetti e nella meditazione mettiamo il</item>
+        <item>nostro bisogno di cambiare. Chi vuol</item>
+        <item>crescere cambia davvero, non vuole</item>
+        <item>cambiare l\'altro.</item>
+    </string-array>
+    <string-array name="giorno_1504">
+        <item>Proposito feroce: rinunciare alle proprie</item>
+        <item>idee per non creare situazioni di attrito!!!</item>
+    </string-array>
+    <string-array name="giorno_1604">
+        <item>La castità, quella vera, è una tensione</item>
+        <item>del cuore che dà amore a tutti, non è</item>
+        <item>una cosa che toglie qualcos\'altro. Apre,</item>
+        <item>purifica il cuore, non ci sono più timori</item>
+        <item>e gelosie. Ogni forma di consacrazione</item>
+        <item>è all\'Amore infinito.</item>
+    </string-array>
+    <string-array name="giorno_1704">
+        <item>Colui che si affida alla guida trova</item>
+        <item>pace.</item>
+    </string-array>
+    <string-array name="giorno_1804">
+        <item>Correzione fraterna: per correggere</item>
+        <item>bene ci vuole sensibilità e purezza di</item>
+        <item>cuore. Comunque chi vuole cambiare</item>
+        <item>accetta anche le correzioni fatte</item>
+        <item>bruscamente. Se c\'è turbamento quando</item>
+        <item>ci correggono è segno di poca umiltà.</item>
+    </string-array>
+    <string-array name="giorno_1904">
+        <item>Il vero consolatore è lo Spirito</item>
+        <item>Santo.</item>
+    </string-array>
+    <string-array name="giorno_2004">
+        <item>La speranza del Maestro è di</item>
+        <item>raggiungere i suoi amici nella loro più</item>
+        <item>profonda realtà, nel cuore del loro male.</item>
+        <item>Per questo lava i piedi ai suoi: non per</item>
+        <item>farsi povero come noi, ma per farci</item>
+        <item>ricchi come Lui. Non è il buon</item>
+        <item>compagno della nostra povertà, ma</item>
+        <item>l\'amico incomparabile che ci trasfigura.</item>
+    </string-array>
+    <string-array name="giorno_2104">
+        <item>Ogni azione deve essere preghiera</item>
+        <item>costante. Per questo è necessario che</item>
+        <item>chi opera abbia coscienza di essere solo</item>
+        <item>uno strumento che permette all\'Amore</item>
+        <item>infinito di fluire libero.</item>
+    </string-array>
+    <string-array name="giorno_2204">
+        <item>Il terreno più adatto per il Regno è</item>
+        <item>quello che viene dissodato con</item>
+        <item>perdono, dolcezza e amore.</item>
+    </string-array>
+    <string-array name="giorno_2304">
+        <item>Dà una gioia grandissima sapere che</item>
+        <item>c\'è una creatura che ci pensa</item>
+        <item>continuamente e su cui noi possiamo</item>
+        <item>contare. La gioia cresce a dismisura se</item>
+        <item>impariamo ad ascoltare il nostro angelo.</item>
+        <item>Verrebbe voglia di comunicarlo a tutti.</item>
+        <item>Dobbiamo farlo solo con coloro che ci </item>
+        <item>credono e non ci fanno passare per</item>
+        <item>matti.</item>
+    </string-array>
+    <string-array name="giorno_2404">
+        <item>Tutto è possibile alla Grazia, se uno</item>
+        <item>le si abbandona.</item>
+    </string-array>
+    <string-array name="giorno_2504">
+        <item>La lettera agli Ebrei ci ricorda una</item>
+        <item>realtà che troppo spesso ci</item>
+        <item>dimentichiamo: la meditazione ci</item>
+        <item>accosta all\'adunanza festosa e</item>
+        <item>all\'assemblea dei primogeniti di Dio che</item>
+        <item>hanno i nomi scritti in cielo.</item>
+    </string-array>
+    <string-array name="giorno_2604">
+        <item>Diventare partner ideale di chiunque!</item>
+    </string-array>
+    <string-array name="giorno_2704">
+        <item>Se non possiamo lavorare per aiutare</item>
+        <item>gli altri, almeno cerchiamo di lavorare</item>
+        <item>bene, perchè gli altri stiano meglio. Il</item>
+        <item>segreto è mettere sempre un po\'</item>
+        <item>d\'amore in quello che facciamo.</item>
+    </string-array>
+    <string-array name="giorno_2804">
+        <item>Ecco il nostro sforzo: vivere da</item>
+        <item>poveri e imparare a non sprecare anzi a</item>
+        <item>riciclare tutto quello che si getta.</item>
+        <item>Insegnare a lavorare idealmente, creare</item>
+        <item>isole di convivenza ideali. Il mondo</item>
+        <item>abbrutito d\'egoismo e orgoglio ha bisogno</item>
+        <item>ogni giorno di essere purificato</item>
+        <item>dalla Passione e dalla Resurrezione.</item>
+        <item>L\'umiltà e l\'amore dei santi lo</item>
+        <item>purificherà. Ogni ascesi inizia con la</item>
+        <item>purificazione dolorosa della realtà del</item>
+        <item>peccato in noi e dal tentatore che ci fa</item>
+        <item>credere di conoscere il bene e il male, ci</item>
+        <item>fa esigenti dei nostri diritti, non tanto</item>
+        <item>dei nostri doveri.</item>
+    </string-array>
+    <string-array name="giorno_2904">
+        <item>Fare il proprio dovere anche se</item>
+        <item>sgradevole e sopportare pazientemente i</item>
+        <item>compagni di lavoro è forse una delle</item>
+        <item>forme più alte di ascesi.</item>
+    </string-array>
+    <string-array name="giorno_3004">
+        <item>Sappiamo che i Santi non </item>
+        <item>trascuravano nulla che potesse aiutarli a</item>
+        <item>crescere e ce la mettevano tutta per</item>
+        <item>correggersi. Dovremmo sentire anche</item>
+        <item>noi un po\' di quella voglia e approfittare</item>
+        <item>di tutte le occasioni per crescere.</item>
+    </string-array>
+    <string-array name="giorno_0105">
+        <item>Nei momenti difficili, quando la</item>
+        <item>nostra fiducia è messa alla prova,</item>
+        <item>riusciamo a dimenticare tutto quello che</item>
+        <item>la Provvidenza ci ha regalato. E\'</item>
+        <item>importante che ci esaminiamo sui limiti</item>
+        <item>della nostra fiducia che può falsare il</item>
+        <item>nostro rapporto con l\'Infinito.</item>
+        <item>Rischiamo equivoci e falsi rituali</item>
+        <item>con i quali sostituiamo la</item>
+        <item>fortuna bendata e i sortilegi alla</item>
+        <item>provvidenza di Dio. Attenzione anche a</item>
+        <item>false povertà che ci fanno rinunciare a</item>
+        <item>ciò che c\'è necessario per i nostri limiti</item>
+        <item>come stampelle che ci permettono di</item>
+        <item>camminare.</item>
+    </string-array>
+    <string-array name="giorno_0205">
+        <item>Prima di qualsiasi altra cosa: andare</item>
+        <item>d\'accordo!</item>
+    </string-array>
+    <string-array name="giorno_0305">
+        <item>La vita è certamente un purgatorio</item>
+        <item>che potremmo mitigare ampiamente se</item>
+        <item>sapessimo utilizzarlo per fare del bene a</item>
+        <item>quanti ci stanno vicini.</item>
+    </string-array>
+    <string-array name="giorno_0405">
+        <item>I piani di Dio sono più grandi dei</item>
+        <item>nostri piani, bisogna credergli fino in</item>
+        <item>fondo senza interpretare male le sue</item>
+        <item>parole. Ogni prova seria,</item>
+        <item>provvidenziale, ci rivela esattamente</item>
+        <item>quello che noi siamo e quale veramente</item>
+        <item>è la forza della nostra fede. Soprattutto</item>
+        <item>nel nostro sacrificio finale: la nostra</item>
+        <item>morte. La vita è la cosa più preziosa che</item>
+        <item>abbiamo. L\'Infinito vuole il nostro</item>
+        <item>sacrificio finale.</item>
+    </string-array>
+    <string-array name="giorno_0505">
+        <item>L\'autore della natura si interessa di </item>
+        <item>tutte le sue creature e anche noi tutti</item>
+        <item>possiamo essere costruiti perfettamente</item>
+        <item>basta che ci lasciamo lavorare. Il</item>
+        <item>Maestro si costruisce i suoi amici con la</item>
+        <item>stessa tenacia usata per gli apostoli.</item>
+    </string-array>
+    <string-array name="giorno_0605">
+        <item>Per ottenere l\'intervento dei Santi è</item>
+        <item>bene usare il mantra che li invoca tutti,</item>
+        <item>cioè ""Gloria al Padre, al Figlio e allo</item>
+        <item>Spirito Santo"". Non si prega</item>
+        <item>normalmente per se stessi ma per gli</item>
+        <item>altri in modo da dimostrare che il</item>
+        <item>nostro amore per il Signore è uguale</item>
+        <item>all\'amore del prossimo e quindi la</item>
+        <item>nostra unione con Dio ci porta</item>
+        <item>necessariamente a pensare agli altri.</item>
+        <item>""Preghiamo nostro Signore che </item>
+        <item>attraverso l\'intercessione e l\'opera di</item>
+        <item>tutti i Santi si prenda cura delle persone</item>
+        <item>che gli presentiamo"".</item>
+    </string-array>
+    <string-array name="giorno_0705">
+        <item>Meditazione profonda è pregare con</item>
+        <item>il cuore. E\' scendere con la mente nel</item>
+        <item>cuore, cioè amare. Il cuore si apre</item>
+        <item>spontaneamente e naturalmente</item>
+        <item>all\'amore. Possiamo cominciare la</item>
+        <item>meditazione ricordando un\'esperienza</item>
+        <item>d\'amore famigliare, o materno o</item>
+        <item>paterno.</item>
+    </string-array>
+    <string-array name="giorno_0805">
+        <item>Non esiste autentica conversione</item>
+        <item>senza l\'aiuto dall\'alto.</item>
+    </string-array>
+    <string-array name="giorno_0905">
+        <item>L\'alternanza contemplazione e</item>
+        <item>azione è collegata a quella tra lavoro e</item>
+        <item>riposo. L\'anima unisce e concentra, il</item>
+        <item>corpo disperde e moltiplica. Il lavoro</item>
+        <item>può distrarre, il riposo deve rifare la</item>
+        <item>concentrazione. Il giorno a noi, la notte</item>
+        <item>alle forze superiori.</item>
+    </string-array>
+    <string-array name="giorno_1005">
+        <item>Scopo della vita è senza dubbio</item>
+        <item>crescere nell\'amore per servire gli altri.</item>
+        <item>Innamorarci di qualcuno è la spinta più</item>
+        <item>efficace per maturare la nostra</item>
+        <item>incompletezza.</item>
+    </string-array>
+    <string-array name="giorno_1105">
+        <item>Non si può pensare alla creatura</item>
+        <item>umana senza riconoscere che può avere</item>
+        <item>relazioni con il tutto: è partner</item>
+        <item>dell\'Infinito.</item>
+    </string-array>
+    <string-array name="giorno_1205">
+        <item>Visualizzare serve a correggere i</item>
+        <item>difetti attraverso la programmazione</item>
+        <item>durante o fuori la meditazione e a </item>
+        <item>guarire da affezioni patologiche.</item>
+    </string-array>
+    <string-array name="giorno_1305">
+        <item>Servire è regnare, perchè ""chi è il</item>
+        <item>primo tra di voi sia come colui che</item>
+        <item>serve"".</item>
+    </string-array>
+    <string-array name="giorno_1405">
+        <item>Non dobbiamo dubitare. La fede</item>
+        <item>assoluta va al di là della speranza.</item>
+        <item>Questo è avere coscienza di una</item>
+        <item>certezza, che strappa il miracolo al</item>
+        <item>Maestro ""La tua fede ti ha salvato"".</item>
+    </string-array>
+    <string-array name="giorno_1505">
+        <item>Educare alla vita vuol dire educare</item>
+        <item>alla morte, cioè alla fine della vita.</item>
+        <item>Bisogna saper far sperare in un futuro</item>
+        <item>dopo la morte.</item>
+    </string-array>
+    <string-array name="giorno_1605">
+        <item>Per il giusto la morte non deve</item>
+        <item>spaventare, sarà logico compimento di</item>
+        <item>una vita orientata a quella meta.</item>
+    </string-array>
+    <string-array name="giorno_1705">
+        <item>Pentirsi è prendere coscienza dei</item>
+        <item>nostri sbagli, e dare la colpa a noi stessi,</item>
+        <item>non agli altri o al demonio o alla società.</item>
+        <item>Sentirci responsabili.</item>
+    </string-array>
+    <string-array name="giorno_1805">
+        <item>La croce è l\'immagine parlante di un</item>
+        <item>amore divino che arriva a sostituirsi al</item>
+        <item>colpevole per portare l\'espiazione e poi</item>
+        <item>salvarlo.</item>
+    </string-array>
+    <string-array name="giorno_1905">
+        <item>Chi ci aiuta nel cammino spirituale</item>
+        <item>non ci aiuta soltanto a gestire situazioni di</item>
+        <item>crisi, ma può renderci coscienti della</item>
+        <item>forza che teniamo nascosta nelle</item>
+        <item>passioni e che possiamo utilizzare per la</item>
+        <item>nostra crescita. Aiuta quindi la</item>
+        <item>trasformazione, indicandone la</item>
+        <item>necessaria, prudente gradualità, per</item>
+        <item>compiere i primi passi. Aiutare la</item>
+        <item>trasformazione è proprio il compito di</item>
+        <item>ogni apostolato.</item>
+    </string-array>
+    <string-array name="giorno_2005">
+        <item>La causa dell\'Infinito è in buone</item>
+        <item>mani, se resta nelle sue mani e la gloria</item>
+        <item>dell\'Infinito si manifesta quando il </item>
+        <item>nostro io si toglie di mezzo. Il più</item>
+        <item>grande servizio che possiamo fare alla</item>
+        <item>causa del Regno è di non intralciare o</item>
+        <item>ingombrare i suoi piani. L\'Infinito</item>
+        <item>comincia a contare davvero nella nostra</item>
+        <item>vita se accettiamo serenamente di essere</item>
+        <item>gente che non conta. La storia biblica di</item>
+        <item>Gedeone dovremmo tenerla sempre</item>
+        <item>presente.</item>
+    </string-array>
+    <string-array name="giorno_2105">
+        <item>Non dobbiamo mai credere di essere</item>
+        <item>soli nella crescita e nella preghiera.</item>
+        <item>Abbiamo bisogno degli altri per</item>
+        <item>crescere e per provare il nostro amore,</item>
+        <item>in un clima di fiducia e di</item>
+        <item>collaborazione.</item>
+    </string-array>
+    <string-array name="giorno_2205">
+        <item>Per essere sicuri di prendere una</item>
+        <item>giusta direzione è necessario togliersi da</item>
+        <item>una vita ordinaria e pregare. L\'amore</item>
+        <item>per la vita e la volontà di vivere sono in</item>
+        <item>grado di curare molte malattie,</item>
+        <item>soprattutto se vogliamo vivere con</item>
+        <item>tensione infinita.</item>
+    </string-array>
+    <string-array name="giorno_2305">
+        <item>La via del Maestro è aprirci agli altri.</item>
+        <item>Agli altri non si va se non disposti alla</item>
+        <item>sofferenza.</item>
+    </string-array>
+    <string-array name="giorno_2405">
+        <item>Lo Spirito Santo è spirito d\'amore</item>
+        <item>che unisce in amore il Padre e il Figlio.</item>
+        <item>Frutti di quest\'amore siamo noi.</item>
+        <item>Ognuno di noi ha un incredibile</item>
+        <item>potenziale d\'amore, che se non viene</item>
+        <item>realizzato ci rende infelici. Solo la</item>
+        <item>Grazia fa crescere nell\'amore che non</item>
+        <item>delude. La felicità arriva solo quando</item>
+        <item>spingiamo le nostre menti e i nostri</item>
+        <item>cuori al limite estremo delle loro</item>
+        <item>capacità e li mettiamo sotto l\'azione</item>
+        <item>dello Spirito nelle profondità della</item>
+        <item>meditazione.</item>
+    </string-array>
+    <string-array name="giorno_2505">
+        <item>Povertà è aver sempre meno bisogni</item>
+        <item>e rinunciare al proprio io!</item>
+    </string-array>
+    <string-array name="giorno_2605">
+        <item>Conversione è conversione all\'amore</item>
+        <item>e cominciare a credere di essere</item>
+        <item>inseguiti dall\'amore, anche davanti alle</item>
+        <item>prove, anche davanti alla morte.</item>
+    </string-array>
+    <string-array name="giorno_2705">
+        <item>Il vero studio che porta direttamente</item>
+        <item>dalla scienza alla sapienza è la</item>
+        <item>meditazione con tutta la sua luce. Nella</item>
+        <item>meditazione ci possono essere</item>
+        <item>quotidani stimoli a variare, ad adattarci</item>
+        <item>alla situazione psicologica e</item>
+        <item>scoprire le nostre follie. E\' la strada per</item>
+        <item>entrare sempre di più nel mondo degli</item>
+        <item>spiriti per rendercelo famigliare e </item>
+        <item>arrivare alla amorosa presenza del</item>
+        <item>Maestro.</item>
+    </string-array>
+    <string-array name="giorno_2805">
+        <item>Penetrare la realtà e farla mia!!!</item>
+    </string-array>
+    <string-array name="giorno_2905">
+        <item>La trasfigurazione è un crescendo</item>
+        <item>che non ha fine, perchè ha per meta</item>
+        <item>l\'Infinito. E\' una </item>
+        <item>continua crescita nello sperimentare una</item>
+        <item>sempre maggiore famigliarità con</item>
+        <item>l\'Infinito e con il suo mistero. Ci si</item>
+        <item>accorge che siamo fatti a somiglianza</item>
+        <item>dell\'Infinito e in qualche maniera</item>
+        <item>abbiamo la vocazione per diventarlo.</item>
+    </string-array>
+    <string-array name="giorno_3005">
+        <item>Quello che puoi fare tu non lo può fare</item>
+        <item>nessun altro!!!</item>
+    </string-array>
+    <string-array name="giorno_3105">
+        <item>L\'aver coscienza del nostro io che sta</item>
+        <item>pensando o che sta meditando è già</item>
+        <item>uscire dal sonno alla realtà. Solo</item>
+        <item>entrando nel cuore, nel mondo dello</item>
+        <item>spirito ci si ridesta alla realtà. Lì si</item>
+        <item>comincia veramente la meditazione.</item>
+        <item>Perchè non riusciamo a fermarci in quel</item>
+        <item>mondo lì e ci distraiamo? Certo, perchè</item>
+        <item>diamo più importanza a questo nostro</item>
+        <item>mondo di ombre che a quel grande</item>
+        <item>sconfinato mondo degli spiriti nel quale</item>
+        <item>siamo destinati a vivere per tutta</item>
+        <item>l\'eternità.</item>
+    </string-array>
+    <string-array name="giorno_0106">
+        <item>Se la perfezione della coscienza è</item>
+        <item>vedere le cose con gli occhi</item>
+        <item>dell\'Infinito, dobbiamo costantemente</item>
+        <item>chiedere che sia l\'Infinito ad aprirci gli</item>
+        <item>occhi sulla nostra miseria.</item>
+    </string-array>
+    <string-array name="giorno_0206">
+        <item>Corpo e spirito: il respiro è il ponte</item>
+        <item>che le unisce.</item>
+    </string-array>
+    <string-array name="giorno_0306">
+        <item>Il compito del padre spirituale è</item>
+        <item>portare dalla malattia alla salute</item>
+        <item>attraverso l\'ascesi e dall\'ignoranza alla</item>
+        <item>conoscenza dell\'Infinito, attraverso</item>
+        <item>l\'insegnamento di una pratica. Deve</item>
+        <item>fare quindi da medico e da maestro.</item>
+    </string-array>
+    <string-array name="giorno_0406">
+        <item>Il lavoro è servizio al prossimo.</item>
+        <item>""Chi avrà offerto anche un bicchiere al</item>
+        <item>più piccolo, l\'avrà fatto a Me"". Cercare</item>
+        <item>il rapporto umano, sviluppare la nostra</item>
+        <item>capacità benefica, non per il dovere, ma</item>
+        <item>per il Signore. Fate agli altri quello che</item>
+        <item>vorreste fosse fatto a voi.</item>
+    </string-array>
+    <string-array name="giorno_0506">
+        <item>La grazia di Dio sceglie il momento</item>
+        <item>giusto, tu devi prepararti.</item>
+    </string-array>
+    <string-array name="giorno_0606">
+        <item>Requisiti della grande amicizia (con il</item>
+        <item>Maestro):</item>
+        <item>- il desiderio di stare con Lui, desiderio</item>
+        <item>che trasforma la nostra vita in una</item>
+        <item>continua preghiera;</item>
+        <item>- la capacità di capire il valore reale delle</item>
+        <item>persone e delle cose per non anteporle</item>
+        <item>alla sua amicizia con il rischio di</item>
+        <item>perderla per sempre;</item>
+        <item>- la forza di affrontare tutte le prove per</item>
+        <item>rimanere fedele a questo amore anche</item>
+        <item>nella nostra debolezza;</item>
+        <item>- la capacità di ascolto della voce</item>
+        <item>interiore che ci fa penetrare il mistero</item>
+        <item>della vita. La meta della grande</item>
+        <item>amicizia: diventare come il Maestro,</item>
+        <item>avere i suoi stessi atteggiamenti con gli</item>
+        <item>altri.</item>
+    </string-array>
+    <string-array name="giorno_0706">
+        <item>La nostra Messa è anzitutto</item>
+        <item>eucarestia cioè lode, gloria, e</item>
+        <item>benedizione, ringraziamento al Padre, al</item>
+        <item>Dio che è amore.</item>
+    </string-array>
+    <string-array name="giorno_0806">
+        <item>Accettare, anzi chiedere che ti</item>
+        <item>vengano corretti certi errori: senza</item>
+        <item>andare da tutti a piagnucolare!!!</item>
+    </string-array>
+    <string-array name="giorno_0906">
+        <item>Convertirsi vuol dire cambiare tutto,</item>
+        <item>trasformare la propria vita, cambiare nel</item>
+        <item>modo di fare e nel modo di amare. Chi</item>
+        <item>non sente il bisogno di convertirsi è</item>
+        <item>perchè non capisce l\'amore infinito che</item>
+        <item>lo tallona. Non accettare lo sforzo di</item>
+        <item>toglierci dal nostro stato di colpa e di</item>
+        <item>lasciarci amare dal Redentore ci porta</item>
+        <item>alla depressione che è autodistruzione</item>
+        <item>(farci giustizia da soli) o ci riempiamo di</item>
+        <item>paura.</item>
+    </string-array>
+    <string-array name="giorno_1006">
+        <item>Dopo aver salutato i quattro punti</item>
+        <item>cardinali del nostro mandala, dopo aver</item>
+        <item>pregato con i morti, dopo esserci</item>
+        <item>raccomandati ai Santi protettori, dopo</item>
+        <item>aver salutato gli angeli, si adora la</item>
+        <item>Santissima Trinità e sarà naturale</item>
+        <item>pregare subito per gli amici. Perchè la</item>
+        <item>purezza del nostro amore sia</item>
+        <item>perfetto, far specchio su un padre</item>
+        <item>spirituale che ci controlli che le</item>
+        <item>intenzioni siano pure.</item>
+    </string-array>
+    <string-array name="giorno_1106">
+        <item>Quello che riceviamo lo restituiamo</item>
+        <item>trasformato, quindi divorare l\'essere</item>
+        <item>in una delle sue forme è per farsi poi</item>
+        <item>divorare da qualcun altro e quindi</item>
+        <item>sempre continuare a immedesimarsi e</item>
+        <item>donarsi, che è l\'essenza della liberazione.</item>
+        <item>Il cibo materiale può trasformarsi in una</item>
+        <item>forma impalpabile e penetrante come</item>
+        <item>un profumo o una vibrazione-gas e può</item>
+        <item>essere assorbito da altri. Può diventare:</item>
+        <item>- prana che rivitalizza i corpi altrui;</item>
+        <item>- energia di pensiero che penetra i</item>
+        <item>cervelli altrui;</item>
+        <item>- energia affettiva che fa breccia nei</item>
+        <item>cuori e li apre all\'amore. Siamo tutti</item>
+        <item>come tutto, energia che nutre tutte le</item>
+        <item>forme.</item>
+    </string-array>
+    <string-array name="giorno_1206">
+        <item>Ogni anima può trovare in Lui, il grande</item>
+        <item>oggetto di amore fecondante, per poter</item>
+        <item>generare ogni giorno nuovo amore per</item>
+        <item>nuove anime.</item>
+    </string-array>
+    <string-array name="giorno_1306">
+        <item>Amare vuol dire saper accogliere,</item>
+        <item>accettare, incoraggiare, perdonare e</item>
+        <item>valorizzare: è tutto un programma di</item>
+        <item>crescita nella strada dell\'amore, che ci</item>
+        <item>impegna tutti i giorni.</item>
+    </string-array>
+    <string-array name="giorno_1406">
+        <item>Condizioni essenziali per il servizio:</item>
+        <item>- fede nella divina Provvidenza che ti dà</item>
+        <item>questo compito;</item>
+        <item>- abbandono nelle mani di chi ti dirige,</item>
+        <item>che ti deve trovare docile per</item>
+        <item>diventare utile strumento.</item>
+    </string-array>
+    <string-array name="giorno_1506">
+        <item>Il primo passo verso un dialogo</item>
+        <item>costruttivo è scegliere di dare amore</item>
+        <item>anzichè aspettare di riceverlo.</item>
+    </string-array>
+    <string-array name="giorno_1606">
+        <item>L\'Infinito è veramente re e dal suo</item>
+        <item>trono spande la sua luce edificante.</item>
+        <item>Servire l\'Infinito è regnare e diventare</item>
+        <item>riflettori di questa luce che ci costruisce.</item>
+        <item>Merita dedicare tutta la nostra vita al</item>
+        <item>Suo progetto di ricostruzione. Non</item>
+        <item>dobbiamo distrarci in altre cose.</item>
+    </string-array>
+    <string-array name="giorno_1706">
+        <item>La battaglia più dura è combattere</item>
+        <item>per essere noi stessi. Se ci riusciamo</item>
+        <item>non ci resta nient\'altro da fare.</item>
+    </string-array>
+    <string-array name="giorno_1806">
+        <item>Tre segni per accertare la crescita</item>
+        <item>spirituale:</item>
+        <item>- umiltà: la meditazione rende sempre</item>
+        <item>più chiaro come noi dipendiamo</item>
+        <item>dall\'Infinito e quindi non operiamo</item>
+        <item>per noi ma per Lui.</item>
+        <item>- distacco: essere liberi dall\'avere.</item>
+        <item>L\'egocentrismo si confonde con</item>
+        <item>l\'attaccamento ai propri beni, sia fisici</item>
+        <item>che morali. Dovremo far scomparire</item>
+        <item>questo atteggiamento per maturare</item>
+        <item>sentimenti di amore e di comunione.</item>
+        <item>- amore: è prova carismatica della</item>
+        <item>presenza dello Spirito Santo. Capire</item>
+        <item>quanto sia importante non tanto</item>
+        <item>l\'anima gemella, quanto una stupenda</item>
+        <item>corona di persone che ti appoggiano,</item>
+        <item>ti aiutano a crescre,a sviluppare le</item>
+        <item>tue capacità e sulle quali puoi sempre</item> 
+        <item>contare,qualunque cosa succede. I</item>
+        <item>veri amici meritano tutta la nostra</item>
+        <item>affettuosa attenzione e magari qualche</item>
+        <item>sacrificio. La meditazione</item>
+        <item>accompagnata dall\'affetto di tanti</item>
+        <item>amici che pregano per te e con te,</item>
+        <item>diventa facile e può essere un bel</item>
+        <item>rifugio a ogni evenienza.</item>
+    </string-array>
+    <string-array name="giorno_1906">
+        <item>Gli angeli ci ricordano che il cielo è</item>
+        <item>un livello di coscinza in cui gli spiriti</item>
+        <item>hanno varie funzioni che dobbiamo</item>
+        <item>scoprire: custodi, messaggeri, liturghi.</item>
+        <item>Preservano l\'ordine cosmico contro il</item>
+        <item>nemico.</item>
+    </string-array>
+    <string-array name="giorno_2006">
+        <item>Elementi costitutivi del mantra sono</item>
+        <item>le parole e l\'atteggiamento con cui viene</item>
+        <item>pronunciato: sono elementi diversi e lo</item>
+        <item>stato di devozione li fonde in unità</item>
+        <item>come il calore fonde i metalli e li unisce.</item>
+        <item>L\'atteggiamento spirituale cresce con la</item>
+        <item>crescita della sensibilità dell\'individuo.</item>
+    </string-array>
+    <string-array name="giorno_2106">
+        <item>Nella Sua volontà è la nostra pace.</item>
+        <item>Per la nostra crescita e per la nostra</item>
+        <item>finale salvezza Gesù non ci insegna a</item>
+        <item>rinunciare alla nostra libertà, ma ad</item>
+        <item>arricchire con la Sua luce le scelte</item>
+        <item>della nostra vita.</item>
+    </string-array>
+    <string-array name="giorno_2206">
+        <item>Amore è anche accogliere l\'Amore</item>
+        <item>infinito fin nelle difficoltà.</item>
+    </string-array>
+    <string-array name="giorno_2306">
+       <item>Perdonare non è mettere una pietra</item>
+       <item>sopra, ma semmai togliere la pietra,</item>
+       <item>svuotare il sepolcro, liberarlo dalle</item>
+       <item>tenebre. Il perdono non è sepoltura ma</item>
+       <item>resurrezione. Occorre il coraggio di</item>
+       <item>chiarire gli equivoci guardando gli altri</item>
+       <item>negli occhi e parlando con il cuore in</item>
+       <item>mano.</item>
+    </string-array>
+    <string-array name="giorno_2406">
+        <item>Un silenzio ispirato dal diavolo è</item>
+        <item>quello del padre spirituale che si</item>
+        <item>disinteressa ai suoi discepoli.</item>
+    </string-array>
+    <string-array name="giorno_2506">
+        <item>Povertà: condividere tutto senza</item>
+        <item>accaparrare!!!</item>
+    </string-array>
+    <string-array name="giorno_2606">
+        <item>Una persona spirituale non può</item>
+        <item>sentirsi sola, vive l\'esperienza di una</item>
+        <item>grande famiglia.</item>
+    </string-array>
+    <string-array name="giorno_2706">
+        <item>Se ti senti piccolo e abbandonato le</item>
+        <item>contrarietà si placheranno perchè le</item>
+        <item>contrarietà ti bloccano; le difficoltà</item>
+        <item>invece ti spronano.</item>
+    </string-array>
+    <string-array name="giorno_2806">
+        <item>Ogni qualvolta ci distacchiamo da un</item>
+        <item>antico e limitato amore e ci apriamo a</item>
+        <item>un amore più vero, più appassionante e</item>
+        <item>più ispirato, noi avanziamo di un passo</item>
+        <item>verso la meta.</item>
+    </string-array>
+    <string-array name="giorno_2906">
+        <item>Chi fa meditazione può diventare</item>
+        <item>sacerdote che essendosi offerto</item>
+        <item>all\'Infinito può offrirsi agli altri</item>
+        <item>in sacrificio e condurre tutte le cose al</item>
+        <item>loro destino.</item>
+    </string-array>
+    <string-array name="giorno_3006">
+        <item>Non ascetismi esagerati, ma</item>
+        <item>tranquilla bontà verso tutti: nessun</item>
+        <item>ascetismo ci accosta all\'Infinito se è</item>
+        <item>privo di amore.</item>
+        <item>Poter avere degli amici a cui poter</item>
+        <item>dare tutte le nostre ricchezze di</item>
+        <item>esperienze spirituali è generosità che</item>
+        <item>riempie la vita di paternità.</item>
+
+    </string-array>
+    <string-array name="giorno_0107">
+        <item>Per aprirci alla nostra vera identità ci</item>
+        <item>occorre:</item>
+        <item>- la volontà di sapere chi sono io, a cosa</item>
+        <item>serve la vita e chi sono gli altri per me;</item>
+        <item>- accettare tutti i risvolti che ne</item>
+        <item>emergono;</item>
+        <item>comunicare a qualcuno in maniera</item>
+        <item>dettagliata e sincera tutto quello che</item>
+        <item>sentiamo in noi. Per rimuovere le false</item>
+        <item>identità bisogna superare una barriera</item>
+        <item>piuttosto dura: paure, ripensamenti,</item>
+        <item>ansie, trepidazioni che diventano</item>
+        <item>sempre più forti man mano che</item>
+        <item>decidiamo di affrontare il problema</item>
+        <item>con uno che veda come veramente</item>
+        <item>siamo.</item>
+    </string-array>
+    <string-array name="giorno_0207">
+        <item>Il distacco pieno dalle cose più care è</item>
+        <item>vera povertà di spirito che il Maestro</item>
+        <item>addita come beatitudine ideale.</item>
+    </string-array>
+    <string-array name="giorno_0307">
+        <item>L\'Infinito ci viene incontro solo se</item>
+        <item>abbiamo piena fiducia in Lui, datore</item>
+        <item>della vita che è ben di più di qualunque</item>
+        <item>altro bene.</item>
+    </string-array>
+    <string-array name="giorno_0407">
+       <item>Entrare nell\'intimità del Maestro è</item>
+       <item>donarsi totalmente e interamente.</item>
+    </string-array>
+    <string-array name="giorno_0507">
+        <item>Non bisogna spingere l\'ascesi</item>
+        <item>all\'esagerazione, ma cercando sempre di</item>
+        <item>fare quello che è possibile, mai ciò che è</item>
+        <item>impossibile.</item>
+    </string-array>
+    <string-array name="giorno_0607">
+        <item>Il metodo per eccellenza contro i</item>
+        <item>pensieri cattivi sono i mantra: Evagrio</item>
+        <item>ne cita 487 ma il più efficace è il nostro!!</item>
+        <item></item>
+    </string-array>
+    <string-array name="giorno_0707">
+        <item>La cura di tutte le passioni è</item>
+        <item>innamorarsi di Dio, praticare la carità</item>
+        <item>verso i fratelli e arrivare allo stato</item>
+        <item>pacifico in cui l\'anima è padrona dei</item>
+        <item>propri pensieri. Li sa dirigere al bene.</item>
+        <item>E arriva alla preghiera senza distrazioni.</item>
+    </string-array>
+    <string-array name="giorno_0807">
+        <item>Gli insegnamenti che si ricevono</item>
+        <item>possono essere insegnamenti spirituali,</item>
+        <item>buoni finchè si vuole, ma non sono la</item>
+        <item>chiave del mondo spirituale. Solo voi la</item>
+        <item>possedete: il vostro mantra che vi fa</item>
+        <item>umili e potenti.</item>
+    </string-array>
+    <string-array name="giorno_0907">
+        <item>Amare sempre tutti , amandoli con il</item>
+        <item>Signore e per l\'eternità, proibire critiche,</item>
+        <item>odio o gelosie e male parole: fedeltà</item>
+        <item>al nostro amore anche con sacrificio.</item>
+    </string-array>
+    <string-array name="giorno_1007">
+        <item>La devozione non diminuisce la</item>
+        <item>conoscenza ma la approfondisce: agire</item>
+        <item>senza conoscenza è seguire l\'istinto e</item>
+        <item>gonfiare l\'io. Conoscenza senza agire fa</item>
+        <item>rimanere sterili. Ogni vera novità</item>
+        <item>incontra le difficoltà di ogni</item>
+        <item>cambiamento e di ogni crescita.</item>
+        <item>Stancarsi delle difficoltà è perdere il</item>
+        <item>senso della realtà. I dubbi devono</item>
+        <item>renderci prudenti ma non</item>
+        <item>immobilizzare la voglia di operare.</item>
+        <item>L\'amore è un fuoco che può bruciare </item>
+        <item>ogni negatività. Ma l\'amore è efficace se</item>
+        <item>si ama al 100%.</item>
+    </string-array>
+    <string-array name="giorno_1107">
+        <item>Per amare è necessario perdonare e</item>
+        <item>sacrificarci agli altri.</item>
+    </string-array>
+    <string-array name="giorno_1207">
+        <item>La beatitudine essenziale, cioè la</item>
+        <item>perfetta letizia consiste proprio</item>
+        <item>nell\'accettare la ""bella"" sofferenza del</item>
+        <item>Maestro che ci rende capaci di</item>
+        <item>accogliere dono e perdono, non solo</item>
+        <item>per noi ma per tutti.</item>
+    </string-array>
+    <string-array name="giorno_1307">
+        <item>La verità ci fa liberi. Bisogna</item>
+        <item>purificare la coscienza da tutte le</item>
+        <item>attrattive passionali che tolgono la</item>
+        <item>libertà, perchè oscurano la verità e la</item>
+        <item>bellezza del grande piano al quale siamo</item>
+        <item>chiamati a collaborare. Con la nostra</item>
+        <item>piccola libertà e con pochi sacrifici</item>
+        <item>possiamo ottenere l\'Infinito. Questo</item>
+        <item>merita una educazione alla libertà.</item>
+    </string-array>
+    <string-array name="giorno_1407">
+        <item>Dio ci ama e per invitarci a vita</item>
+        <item>nuova ci fornisce gratis tre qualità che</item>
+        <item>sono segno della sua presenza d\'amore:</item>
+        <item>una generosità simile a quella del mare,</item>
+        <item>una simpatia pari a quella del sole,</item>
+        <item>una umiltà che è simile a quella della</item>
+        <item>terra. Se sviluppiamo questi tre doni</item>
+        <item>vuol dire che corrispondiamo alla</item>
+        <item>grazia.</item>
+    </string-array>
+    <string-array name="giorno_1507">
+        <item>Aver coscienza di tutti gli errori</item>
+        <item>quotidiani impedisce di crederci</item>
+        <item>infalibili e di metterci su un piedistallo</item>
+        <item>di perfezione che non ci spetta. La</item>
+        <item>meditazione può metterci nella giusta</item>
+        <item>posizione per ottenere aiuto.</item>
+    </string-array>
+    <string-array name="giorno_1607">
+        <item>Se la mistica non apre all\'infinito</item>
+        <item>non è mistica, quindi l\'esperienza</item>
+        <item>mistica richiede l\'abbandono di fede e</item>
+        <item>l\'aiuto dall\'alto. La preghiera (che è la</item>
+        <item>strada mistica) nelle sue forme più</item>
+        <item>elevate apre al mistero dell\'Infinito che</item>
+        <item>è duplice: mistero trinitario e mistero di</item>
+        <item>Gesù.</item>
+    </string-array>
+    <string-array name="giorno_1707">
+        <item>Se soffriamo nella fede, patiamo con</item>
+        <item>Cristo e come Cristo ci offriamo al</item>
+        <item>Padre.</item>
+    </string-array>
+    <string-array name="giorno_1807">
+        <item>Una presenza solo fisica alla</item>
+        <item>S. Messa giova ben poco: essenziale è</item>
+        <item>entrare con Gesù nell\'atto della salvezza</item>
+        <item>per fare la mia parte nel dramma che ci</item>
+        <item>salva.</item>
+    </string-array>
+    <string-array name="giorno_1907">
+        <item>La vita dell\'Infinito non è altro che</item>
+        <item>un continuo darsi all\'amore-comunione.</item>
+    </string-array>
+    <string-array name="giorno_2007">
+        <item>Penitenza: il sentirci perdonati ci</item>
+        <item>spinge alla penitenza.</item>
+    </string-array>
+    <string-array name="giorno_2107">
+        <item>""Non farci cadere nella tentazione""</item>
+        <item>vuol dire chiedere di non farci mancare</item>
+        <item>il Suo aiuto nel mezzo della prova, cioè</item>
+        <item>chiedere di farci irrobustire nei</item>
+        <item>momenti difficili.</item>
+    </string-array>
+    <string-array name="giorno_2207">
+        <item>L\'apostolato: quando un\'anima è</item>
+        <item>pronta la Provvidenza le apre la</item>
+        <item>missione apostolica, cercarla prima del</item>
+        <item>tempo è illusorio. L\'apostolato si</item>
+        <item>esercita secondo i doni ricevuti: c\'è chi</item>
+        <item>ha il dono della parola, chi il dono</item>
+        <item>dell\'accoglienza, chi del sorriso, del</item>
+        <item>servizio, far vivere i morti e utilizzare gli</item>
+        <item>angeli.</item>  
+    </string-array>
+    <string-array name="giorno_2307">
+        <item>Il lavoro è la legge di natura: ""se</item>
+        <item>qualcuno non vuol lavorare non mangi""</item>
+        <item>(II Tess.3,1); con il lavoro si coopera</item>
+        <item>alla creazione, all\'azione della</item>
+        <item>Provvidenza in questo mondo. Lo</item>
+        <item>scopo del lavoro spirituale, unisce gli</item>
+        <item>uomini, s\'inserisce nel contesto delle</item>
+        <item>manifestazioni di carità, rimedia le</item>
+        <item>passioni, favorisce la preghiera e diventa</item>
+        <item>esso stesso preghiera.</item>
+    </string-array>
+    <string-array name="giorno_2407">
+        <item>L\'amore del prossimo e l\'amore di</item>
+        <item>Dio sono come l\'azione e la</item>
+        <item>contemplazione. La prima precede la</item>
+        <item>seconda.</item>
+    </string-array>
+    <string-array name="giorno_2507">
+        <item>Castità: il fiore da odorare, non da</item>
+        <item>distruggere.</item>
+    </string-array>
+    <string-array name="giorno_2607">
+        <item>La pratica dei comandamenti</item>
+        <item>consiste nel percepire la voce di Dio</item>
+        <item>che crea e ordina l\'universo. L\'amore</item>
+        <item>non nasce automaticamente ma dalla</item>
+        <item>libertà interiore che sta alla base di ogni</item>
+        <item>virtù. Il peccato che ci peserà di più nel</item>
+        <item>giudizio di Dio è aver disprezzato</item>
+        <item>l\'amore divino. Dio è veramente Dio,</item>
+        <item>solo per coloro che sono uniti mediante</item>
+        <item>l\'amore. Il vero amore si realizza</item>
+        <item>soltanto quando l\'anima si purifica dalle</item>
+        <item>passioni, relativizza gli oggetti sensibili e</item>
+        <item>anche la vita temporale; amare Dio è</item>
+        <item>anche amare la creazione e l\'ordine</item>
+        <item>meraviglioso che vi regna e quindi</item>
+        <item>amare il prossimo che è creatura di Dio.</item>
+    </string-array>
+    <string-array name="giorno_2707">
+        <item>Abbandonarsi alle indicazioni dello</item>
+        <item>Spirito, non mollare il mantra che ci fa</item>
+        <item>credere a Lui.</item>
+    </string-array>
+    <string-array name="giorno_2807">
+        <item>La preghiera costante permette di</item>
+        <item>scoprire le infiltrazioni delle immagini e</item>
+        <item>purifica gradualmente il cuore. La</item>
+        <item>sorgente e il principio di ogni peccato</item>
+        <item>sono i pensieri cattivi. I demoni</item>
+        <item>utilizzano di preferenza gli oggetti, la</item>
+        <item>rinuncia agli oggetti e al loro contatto</item>
+        <item>facilita la vittoria. Non si peccherebbe</item>
+        <item>mai nelle azioni se prima non si</item>
+        <item>peccasse nel pensiero.</item>
+    </string-array>
+    <string-array name="giorno_2907">
+        <item>Il grande mistero della vita cristiana</item>
+        <item>si arricchisce delle varie relazioni con lo</item>
+        <item>Spirito Infinito, allarga il colloquio con</item>
+        <item>tutti gli spiriti che sono interessati alla</item>
+        <item>nostra esistenza.</item>
+    </string-array>
+    <string-array name="giorno_3007">
+        <item>Quattro direttive o premesse per la</item>
+        <item>buona riuscita:</item>
+        <item>- rispetto per la natura: non strappare,</item>
+        <item>non sporcare, osservare i colori delle</item>
+        <item>pietre: bianco, rosso, nero, giallo.</item>
+        <item>Osservare il verde di base di ogni</item>
+        <item>pianta = riposo e i colori dei fiori o</item>
+        <item>frutti: bianco, nero, giallo, rosso. Tutto</item>
+        <item>nasce dalla quiete e dal riposo.</item>
+        <item>Ascoltare le voci (della natura),</item>
+        <item>sintonizzarci, elevare il canto;</item>
+        <item>- rispetto del Grande Spirito: cerimonie</item>
+        <item>che ci fanno entrare nel mondo degli</item>
+        <item>spiriti, dal mantra del bagno, al saluto al</item>
+        <item>sole;</item>
+        <item>- rispetto dell\'uomo: accoglienza,</item>
+        <item>assistere, incoraggiare, perdonare,</item>
+        <item>valorizzare;</item>
+        <item>- rispetto della libertà: non siamo tutti</item>
+        <item>uguali.</item>
+    </string-array>
+    <string-array name="giorno_3107">
+        <item>La fede diventa autentica quando si</item>
+        <item>fa collaborazione con il suo impegno</item>
+        <item>per tutte le creature e amore effettivo</item>
+        <item>dei fratelli; che ci occupa la vita e ci</item>
+        <item>riempie il cuore.</item>
+    </string-array>
+    <string-array name="giorno_0108">
+        <item>La preghiera più profonda è in</item>
+        <item>essenza un completo abbandono a Dio,</item>
+        <item>alla sua volontà anche se contraria alla</item>
+        <item>mia. La meditazione deve essere</item>
+        <item>purificazione e preparazione</item>
+        <item>all\'abbandono senza fine. Imparare a</item>
+        <item>vedere i nostri sforzi quando sono</item>
+        <item>illuminati e ben indirizzati e quando</item>
+        <item>invece provengono da nostre confuse</item>
+        <item>velleità e desideri immaturi.</item>
+    </string-array>
+    <string-array name="giorno_0208">
+        <item>Quanto più siamo sganciati dai</item>
+        <item>nostri personali umori, dalle nostre</item>
+        <item>simpatie e antipatie, quanto più siamo</item>
+        <item>aperti e ben disposti per quanto ci viene</item>
+        <item>chiesto in ogni momento, tanto più</item>
+        <item>siamo stabili e prossimi al verificarsi</item>
+        <item>della ""nascita"" di Dio in noi.</item>
+    </string-array>
+    <string-array name="giorno_0308">
+        <item>Nessuno può vivere bene con gli</item>
+        <item>altri se prima non ha appreso a vivere</item>
+        <item>distaccato da se stesso, da quei pensieri</item>
+        <item>che gli impediscono di offrirsi agli altri,</item>
+        <item>se quindi non vive con distacco.</item>
+        <item>Continuiamo la nostra ricerca</item>
+        <item>dell\'Infinito in tutto ciò che facciamo</item>
+        <item>per capire la direzione da dare alla</item>
+        <item>nostra vita e come Gesù ci chiama a</item>
+        <item>collaborare alla redenzione.</item>
+    </string-array>
+    <string-array name="giorno_0408">
+        <item>La vita chiama la vita: nati da un</item>
+        <item>dono a nostra volta dobbiamo donare</item>
+        <item>noi stessi. Il peccato è frenare</item>
+        <item>quest\'oblazione e chiuderci nell\'egoismo</item>
+        <item>che ci rattrista e rovina tutto.</item>
+    </string-array>
+    <string-array name="giorno_0508">
+        <item>Educare vuol dire far crescere</item>
+        <item>nell\'amore e nella sapienza e quindi</item>
+        <item>formare la propria coscienza di creature</item>
+        <item>ideali e costruire lentamente la propria</item>
+        <item>immagine ideale.</item>
+    </string-array>
+    <string-array name="giorno_0608">
+        <item>La morte ci invita a non perdere</item>
+        <item>l\'occasione di amare.</item>
+    </string-array>
+
+    <string-array name="giorno_0708">
+        <item>Attenzione: il maestro si rivela</item>
+        <item>un poco alla volta!!</item>
+    </string-array>
+
+    <string-array name="giorno_0808">
+        <item>La meditazione,la nostra fatica quotidiana,</item>
+        <item>serve a purificarci,per essere sempre piu disponibili</item>
+        <item>all\'azione dello Spirito Infinito.</item>
+        <item>La meditazione ottiene sempre tre grandi doni</item>
+        <item>che ci pongono su un piedistallo perchè:</item>
+        <item>-ci trasforma per farci quasi intoccabili dalle miserie umane;</item>
+        <item>-ci fa pieno dono della piena fiducia nel ""todo poderoso"";</item>
+        <item>-matura una tenace speranza che tutto quello</item>
+        <item>che lui vuole da noi arriverà a pieno compimento;</item>
+        <item>-apre il cuore ad un grande amore per tutte le persone</item>
+        <item>tanto da desiderarle tutte sulla nostra stessa strada.</item>
+        <item>Si finisce per accorgersi che il nostro amore</item>
+        <item>per l\'Infinito è lo stesso amore dell\'Infinito per noi.</item>
+    </string-array>
+
+    <string-array name="giorno_0908">
+        <item>Con la confessione ci risentiamo</item>
+        <item>collaboratori del Maestro che entra nel</item>
+        <item>nostro gioco terreno e limitato per</item>
+        <item>ritrovare la direzione verso l\'Infinito.</item>
+        <item>Tutta la nostra vita spirituale è un</item>
+        <item>andare dal bambino all\'adulto. Dalla</item>
+        <item>paura all\'amore. Dall\'egoismo </item>
+        <item>all\'altruismo.</item>
+    </string-array>
+    <string-array name="giorno_1008">
+        <item>E\' necessario vincere il nostro io nel</item>
+        <item>perdono, e non vivere nell\'attesa della</item>
+        <item>vendetta.</item>
+    </string-array>
+    <string-array name="giorno_1108">
+        <item>Non eiste via più rapida per</item>
+        <item>liberarci dall\'ansia che la terapia</item>
+        <item>dell\'abbandono: mettere tutto nelle Sue</item>
+        <item>mani, tutto ciò che in noi è un limite.</item>
+        <item>L\'abbandono è un omaggio al Padre, un</item>
+        <item>omaggio d\'amore, quindi pura</item>
+        <item>adorazione. Abbandonare soprattutto la</item>
+        <item>ribellione mentale quando si è certi che</item>
+        <item>non c\'è nulla da fare. Lodare tutti i lati</item>
+        <item>positivi di cose e persone: nasi, occhi,</item>
+        <item>capelli, utilità, interessi, valori. Lasciare</item>
+        <item>che tutto sia come è: farsi amico dei</item>
+        <item>difetti che denunciamo, vedere gli</item>
+        <item>angoli positivi, ringraziare. Accettare</item>
+        <item>l\'idea di dover finire, accettare di</item>
+        <item>estinguersi.</item>
+    </string-array>
+    <string-array name="giorno_1208">
+        <item>Soltanto quando smetterò di credere</item>
+        <item>di conoscere me stesso e gli altri, avrò</item>
+        <item>finalmente la possibilità di crescere nella</item>
+        <item>conoscenza.</item>
+    </string-array>
+    <string-array name="giorno_1308">
+        <item>Da Cristo si impara a essere fedeli, a</item>
+        <item>rifiutare ogni ribellione, a prendere la</item>
+        <item>nostra croce e ad adorare la volontà del</item>
+        <item>Padre. E\' lecito lamentarsi? Sì, ma con il</item>
+        <item>Signore!</item>
+    </string-array>
+    <string-array name="giorno_1408">
+        <item>L\'Eucarestia trasforma la nostra</item>
+        <item>piccolezza in un abbraccio cosmico con</item>
+        <item>Cristo e tutto il suo corpo sacrificato, ci</item>
+        <item>fa pronti a donarci a tutti nella</item>
+        <item>consapevolezza che partecipiamo a</item>
+        <item>scontare per tutti, in una grande catena</item>
+        <item>d\'amore.</item>
+    </string-array>
+    <string-array name="giorno_1508">
+        <item>Maria si presenta al popolo come</item>
+        <item>icona, esempio da guardare e</item>
+        <item>contemplare; è la prima che ha visto</item>
+        <item>Dio incarnato. E\' stata data come</item>
+        <item>madre nella nascita spirituale e insegna </item>
+        <item>come si possa ottenere tutto con la</item>
+        <item>preghiera, a salvare tutto con l\'umiltà</item>
+        <item>dell\'obbedienza. Ci apre alla</item>
+        <item>comprensione della paternità spirituale.</item>
+    </string-array>
+    <string-array name="giorno_1608">
+        <item>In ogni paura si nasconde la paura</item>
+        <item>della morte. Se accettiamo la morte</item>
+        <item>superiamo la situazione dell\'incapacità,</item>
+        <item>mettendo alla prova la forza che abbiamo</item>
+        <item>nascosta in noi, e come possiamo</item>
+        <item>superare il peso delle nostre incapacità</item>
+        <item>con l\'intuizione di un ordine superiore e</item>
+        <item>dal totale abbandono possiamo passare</item>
+        <item>all\'esperienza di un amore cosmico che</item>
+        <item>ci avvolga. Dall\'esperienza</item>
+        <item>dell\'accettazione della morte passiamo</item>
+        <item>alla vita nuova: tutto può essere</item>
+        <item>potenziato con la ""programmazione"".</item>
+    </string-array>
+    <string-array name="giorno_1708">
+        <item>La fedeltà alla fatica quotidiana è la</item>
+        <item>lima che ci purifica. Lo sforzo ascetico</item>
+        <item>personale aiuta anche gli altri perchè</item>
+        <item>""Chi conosce tutte le fatiche, tutte le</item>
+        <item>forme di afflizione sarà idoneo a</item>
+        <item>diventare un padre spirituale"".</item>
+        <item>(Giovanni il Nano)</item>
+    </string-array>
+    <string-array name="giorno_1808">
+        <item>Per santificare il lavoro abbiamo tre</item>
+        <item>strumenti: la meditazione che ci allea</item>
+        <item>con gli angeli e i Santi che devono</item>
+        <item>accompaganre il nostro lavoro, la</item>
+        <item>""programmazione"" e l\'esame di</item>
+        <item>coscienza. ""Figlio, abbi una moderata</item>
+        <item>stima di te, valuta te stesso con giudizio</item>
+        <item>veritiero"" (Sir.10,30): la direzione</item>
+        <item>spirituale aiuta a capire quale deve</item>
+        <item>essere e come deve essere il nostro</item>
+        <item>lavoro e controlla i giusti strumenti.</item>
+    </string-array>
+    <string-array name="giorno_1908">
+        <item>L\'infinito ricchezza suprema, è</item>
+        <item>l\'amore che si dona e vuole che i suoi </item>
+        <item>diventino co-autori della vita e come</item>
+        <item>succede nella generazione fisica deve</item>
+        <item>succedere nella generazione spirituale.</item>
+    </string-array>
+    <string-array name="giorno_2008">
+        <item>Come i morti vengono a prenderci al</item>
+        <item>momento del trapasso, altrettanto</item>
+        <item>succede all\'inizio della meditazione: i</item>
+        <item>morti possono introdurci in questa</item>
+        <item>realtà superiore. Allora cerchiamo di</item>
+        <item>ricordare in modo vivo quelli che</item>
+        <item>abbiamo amato e che ameremo per</item>
+        <item>l\'eternità. Ci vengono incontro pentiti a</item>
+        <item>chiedere perdono, se non hanno saputo</item>
+        <item>amarci come avrebbero dovuto, che è</item>
+        <item>l\'errore più grande della loro vita. E</item>
+        <item>sono altrettanto pronti a perdonare i</item>
+        <item>nostri errori. Se abbiamo avuto qualche</item>
+        <item>chiusura nei loro confronti questo è il</item>
+        <item>momento buono per riparare.</item>
+        <item>Aspettano il nostro mantra per pregare</item>
+        <item>con noi. Sollevandoci a maggiore</item>
+        <item>profondità troviamo i nostri Santi</item>
+        <item>protettori, quelli che ci hanno ispirato e</item>
+        <item>commosso quando abbiamo letto i loro</item>
+        <item>eroismi. Sono lì pronti ad assecondare i</item>
+        <item>nostri propositi. Ogni giorno possiamo</item>
+        <item>partecipare alle grandi feste che fanno i</item>
+        <item>Santi nella grande vita. C\'è poi il mistero</item>
+        <item>degli angeli che è un altro capitolo</item>
+        <item>dell\'universale vita d\'amore che muove</item>
+        <item>tutta la realtà. Sono loro che pensano a</item>
+        <item>farci superare le nostre abitudini</item>
+        <item>grossolane e a farci più adatti alla</item>
+        <item>sottigliezza della vita con gli spiriti. Poi</item>
+        <item>tutto il mondo dello Spirito si apre alla</item>
+        <item>nostra coscienza ed è avvolto dal manto</item>
+        <item>materno della Vergine, altra voragine</item>
+        <item>di amore che ci solleva all\'abbraccio col</item>
+        <item>Maestro.</item>
+    </string-array>
+    <string-array name="giorno_2108">
+        <item>Solo se mettiamo tutte le nostre</item>
+        <item>energie e i beni materiali e spirituali al</item>
+        <item>servizio degli altri possiamo ottenere</item>
+        <item>tutto dal Padre.</item>
+    </string-array>
+    <string-array name="giorno_2208">
+        <item>Tutto quello che facciamo può</item>
+        <item>essere ugualmente utile o inutile per</item>
+        <item>l\'azione divina. Senza di essa tutto è</item>
+        <item>nulla. Con essa il nulla diventa tutto.</item>
+    </string-array>
+    <string-array name="giorno_2308">
+        <item>Il padre spirituale è uno strumento</item>
+        <item>provvidenziale per scoprire le</item>
+        <item>deformazioni della mente. Non è la</item>
+        <item>persona a cui dobbiamo vendere la</item>
+        <item>nostra libertà e neppure il capotreno</item>
+        <item>che deve dirigere il nostro futuro. Deve</item>
+        <item>aiutarci a penetrare i grovigli della</item>
+        <item>nostra mente.</item>
+    </string-array>
+    <string-array name="giorno_2408">
+        <item>Lo Spirito, la terza persona della</item>
+        <item>Trinità, è il dolce ospite dell\'anima che</item>
+        <item>prega dentro di noi e ama in noi. E\'</item>
+        <item>l\'amore infuso che ci spinge ad azioni</item>
+        <item>che non sono solo umane.</item>
+    </string-array>
+    <string-array name="giorno_2508">
+        <item>""Tre cose sono preziose davanti a</item>
+        <item>Dio:</item>
+        <item>- se siamo malati e alle sofferenze si</item>
+        <item>aggiungono le tentazioni e le</item>
+        <item>accettiamo senza mugugnare ma</item>
+        <item>ringraziando;</item>
+        <item>- se agiamo solo per Dio senza</item>
+        <item>mischiare interessi nuovi;</item>
+        <item>- se siamo sottomessi al padre spirituale</item>
+        <item>e rinunciamo alla nostra volontà.</item>
+        <item>Questo tre, ti dà la corona"".</item>
+        <item>(Giovanni di Tebe)</item>
+    </string-array>
+    <string-array name="giorno_2608">
+        <item>Chi pensa di poter sfuggire alla</item>
+        <item>potenza dell\'amore in qualcuna delle</item>
+        <item>sue forme è il più illuso degli uomini. Si</item>
+        <item>tratta di un\'area in cui dobbiamo</item>
+        <item>continuamente impegnarci per orientare</item>
+        <item>le nostre scelte o verso l\'alto o verso il</item>
+        <item>basso.</item>
+    </string-array>
+    <string-array name="giorno_2708">
+        <item>La meditazione ha questo scopo:</item>
+        <item>aprirci al Divino e trovare, in esso, la</item>
+        <item>nostra espressione nell\'apertura al</item>
+        <item>prossimo.</item>>
+    </string-array>
+    <string-array name="giorno_2808">
+        <item>Noi siamo chiamati ad aderire al</item>
+        <item>piano che la Provvidenza vuole da noi: </item>
+        <item>creare comunità attorno alla quale</item>
+        <item>gravitano i morti che invocano i nostri</item>
+        <item>suffragi, attorno alla quale danzano i</item>
+        <item>Santi dalle alte aureole e su cui si levano</item>
+        <item>cupole di angeli, con il loro inebriante</item>
+        <item>canto del Sanctus. Su questo tempio</item>
+        <item>splende la nuvola luminosa del Santo</item>
+        <item>che ci stringe in un solo corpo, il Suo corpo.</item>
+    </string-array>
+    <string-array name="giorno_2908">
+        <item>I livelli della sacra spina: al livello del</item>
+        <item>coccige si avverte la nostra affinità con</item>
+        <item>la natura inorganica. Ci si può sentire</item>
+        <item>polvere e cenere o immobili come un sasso.</item>
+        <item>Al secondo livello, sopra il</item>
+        <item>coccige si può vivere la nostra affinità </item>
+        <item>con l\'acqua di cui siamo formati e con</item>
+        <item>tutte le creature viventi e dipendenti</item>
+        <item>dall\'acqua: con esse condividiamo la</item>
+        <item>vita. Al terzo livello, all\'altezza</item>
+        <item>dell\'ombelico si sente il calore vitale che</item>
+        <item>ci fa affini al fuoco, capaci di entusiasmi</item>
+        <item>e slanci artistici, preda di una forza</item>
+        <item>creativa innata, capace di trasformare </item>
+        <item>ogni cosa e che ci svela doti segrete che</item>
+        <item>tutti possediamo. Al livello del cuore,</item>
+        <item>sentiamo tutta la nostra capacità</item>
+        <item>di amare, di abbracciare tutto e tutti e di</item>
+        <item>vivere per gli altri, vivi e defunti.</item>
+        <item>Possiamo benedirli. Al livello delle</item>
+        <item>corde vocali si può contattare gli spiriti</item>
+        <item>che ci portano al Maestro, il</item>
+        <item>quale ci porta al Padre.</item>
+            </string-array>
+    <string-array name="giorno_3008">
+        <item>Pregare è aprire gli occhi e le mani a</item>
+        <item>tutta la realtà, in cui c\'è la vita e la </item>
+        <item>morte, la belva e l\'uccellino ed imparare</item>
+        <item>ad affrontarla senza sotterfugi o fughe.</item>
+        <item>Questa sintesi può essre la struttura</item>
+        <item>della vita spirituale. Ci sono di solito</item>
+        <item>due indizi di crescita spirituale:</item>
+        <item>- infaticabile fedeltà alla strada della</item>
+        <item>meditazione. Se crediamo alla</item>
+        <item>Provvidenza che ce l\'ha fatta</item>
+        <item>incontrare, possiamo dire che non è</item>
+        <item>stata scelta da noi, ma indicata dalla</item>
+        <item>Provvidenza.C\'è quindi una chiamata</item>
+        <item>provvidenziale di cui non possiamo</item>
+        <item>dubitare, alla quale dobbiamo</item>
+        <item>mantenerci fedeli. Se il tuo occhio si è</item>
+        <item>aperto alla conoscenza non è per</item>
+        <item>decidere cosa ti piace fare, ma per</item>
+        <item>deciderti a fare ciò che la Provvidenza</item>
+        <item>ti indicherà;</item>
+        <item>- conversione del cuore (metanoia), che</item>
+        <item>è anche cambiamento totale di</item>
+        <item>mentalità. Si comincia a vedere tutti gli</item>
+        <item>avvenimenti come provvidenziali e</item>
+        <item>quindi a scorgere il disegno superiore</item>
+        <item>e preferirlo a ogni nostra scelta o</item>
+        <item>desiderio.</item>
+    </string-array>
+    <string-array name="giorno_3108">
+        <item>Gesù perdona sempre e per</item>
+        <item>certificare il perdono il Maestro dopo la</item>
+        <item>resurrezione soffia sugli apostoli e dice:</item>
+        <item>""Io vi do lo Spirito Santo, a voi</item>
+        <item>per perdonare tutti i peccati"".</item>
+    </string-array>
+    <string-array name="giorno_0109">
+        <item>Chi sa offrire le proprie sofferenze</item>
+        <item>per gli altri compie un servizio</item>
+        <item>insostituibile, completa ciò che manca</item>
+        <item>alla passione di Cristo e capisce</item>
+        <item>finalmente lo scopo della vita di</item>
+        <item>corredentori.</item>
+    </string-array>
+    <string-array name="giorno_0209">
+        <item>Essere in rapporto con la Parola, il</item>
+        <item>Figlio, diventare suoi famigliari vuol</item>
+        <item>dire condividere il suo rapporto con il</item>
+        <item>Padre, perchè Egli è al centro</item>
+        <item>dell\'universo, tra il Padre e le creature.</item>
+    </string-array>
+    <string-array name="giorno_0309">
+        <item>Facciamoci trovare nel vuoto della</item>
+        <item>meditazione da chi ci vuole perdonare e</item>
+        <item>ci insegnerà a perdonare, ci insega a</item>
+        <item>recitare il Padre Nostro e quindi a</item>
+        <item>perdonare come vogliamo essere</item>
+        <item>perdonati. Tutti dobbiamo perdonare.</item>
+        <item>Sembra un dovere scomodo e pesante,</item>
+        <item>invece si tratta di un grande traguardo.</item>
+        <item>Poter perdonare significa fare nostra la</item>
+        <item>forza divina che sola sa perdonare.</item>
+        <item>Saremo sempre più disponibili a chi ci sta</item>
+        <item>cercando. Non dobbiamo fissarci sul male fatto,</item>
+        <item>dobbiamo invece ricordare sempre l\'Amore </item>
+        <item>che ci ha aperto gli occhi e che </item>
+        <item>continua a salvarci.</item>
+    </string-array>
+    <string-array name="giorno_0409">
+        <item>Vivere il nostro dedicarci alla crescita</item>
+        <item>degli altri è vivere la nostra povertà e la</item>
+        <item>nostra verginità. Il Maestro povero e</item>
+        <item>vergine, ha dato il via a infinite crescite,</item>
+        <item>e ha valorizzato al massimo le doti dei</item>
+        <item>singoli santi. Ha saputo portare a</item>
+        <item>massima luminosità tutte le forze che</item>
+        <item>tendono all\'Infinito. L\'unione con il</item>
+        <item>Maestro porta alla perfetta valorizzazione </item>
+        <item>delle nostre capacità di amare.</item>
+    </string-array>
+    <string-array name="giorno_0509">
+        <item>La Gloria di Dio non è altro che la gioia</item>
+        <item>di amare nella maniera più generosa,</item>
+        <item>cioè dare la vita per l\'amato.</item>
+    </string-array>
+    <string-array name="giorno_0609">
+        <item>Affronta ogni persona che incontri</item>
+        <item>dicendole mentalmente: ""Ti voglio</item>
+        <item>bene"".</item>
+    </string-array>
+    <string-array name="giorno_0709">
+        <item>L\'Infinito si è fatto uomo perchè</item> 
+        <item>l\'Infinito potesse nascere nell\'anima e</item> 
+        <item>l\'anima nascesse nell\'Infinito.</item>
+    </string-array>
+    <string-array name="giorno_0809">
+        <item>La fede corrisponde al farsi</item> 
+        <item>trascinare da uno capace di insegnarci la</item> 
+        <item>strada che porta all\'infinito Amore.</item>
+        <item>Bisogna dargli fiducia e seguirlo anche</item> 
+        <item>se non capiamo tutto. Il Maestro non</item> 
+        <item>solo mostra, ma anche apre al strada. Il</item>
+        <item>dono che ci fa è la spinta a aderire.</item> 
+        <item>Non ci lascia solo nella conoscenza del</item> 
+        <item>mistero da conoscere, ma ci mette nella</item>
+        <item>sua sperimentazione. A noi tocca</item> 
+        <item>buttarci nella strada buia. Pronti a</item> 
+        <item>sperimentare qualcosa di superiore.</item>
+    </string-array>
+    <string-array name="giorno_0909">
+        <item>L\'esperienza della vita centrata sulla</item> 
+        <item>meditazione può avere i caratteri di</item> 
+        <item>una vera iniziazione. Le prime</item>
+        <item>esperienze di comunicazione con i</item> 
+        <item>morti, i santi e gli angeli sono vere</item> 
+        <item>tappe di un cammino iniziatico.</item>
+        <item>Possiamo riprendere conoscenza</item> 
+        <item>dell\'appartenere al popolo nuovo, in</item> 
+        <item>cammino verso il Regno, con</item>
+        <item>l\'umiltà di chi sente il bisogno di</item> 
+        <item>essere preso per mano dalla grazia e</item> 
+        <item>aiutato a fare i primi passi.</item>
+    </string-array>
+    <string-array name="giorno_1009">
+        <item>Dar prova d\'amore a tutti quelli che </item> 
+        <item>incontriamo.</item> 
+    </string-array>
+    <string-array name="giorno_1109">
+        <item>Alla fine saremo giudicati nell\'amore</item> 
+        <item>e se avremo amato riusciremo a vedere</item> 
+        <item>""L\'Amor che muove il sole e le altre</item>
+        <item>stelle"". (Dante, Parad. XXXIII,145).</item>  
+    </string-array>
+    <string-array name="giorno_1209">
+        <item>Qualcuno chiede il fidanzato.</item>
+        <item>Qualcuno chiede doni mistici.</item>
+        <item>Qualcuno grazie per gli altri. Meglio di</item>
+        <item>tutto è chiedere di essere strumenti</item>
+        <item>disponibili. Andare a meditazione come</item>
+        <item>a un incontro d\'amore, in cui avremo</item>
+        <item>nuove scoperte, prepararsi con atti</item>
+        <item>d\'amore. Aprire il cuore alla più grande</item>
+        <item>amicizia.</item>   
+         </string-array>
+    <string-array name="giorno_1309">
+        <item>Per essere religiosi non occorre</item>
+        <item>essere più intelligenti o acuti, ma è</item>
+        <item>necessario essere puri di cuore. Bisogna</item>
+        <item>comprendere che non siamo noi i</item>
+        <item>padroni della nostra vita, ma solo gli</item>
+        <item>incaricati di amministrarla nel nome</item>
+        <item>dell\'Infinito.Rispondere quindi alla</item>
+        <item>chiamata della sua voce non per</item>
+        <item>apprendere una verità, ma per</item>
+        <item>incontrarsi e dimorare in Lui</item>
+    </string-array>
+    <string-array name="giorno_1409">
+       <item>Lo Spirito infinito abita il nostro</item>
+       <item>spirito in unione ma anche in</item>
+       <item>distinzione e la nostra personalità ne</item>
+       <item>viene sviluppata al massimo. Unire le</item>
+       <item>nostre forze alle forze superiori è</item>
+       <item>collocarsi nel regno della totalità, del</item>
+       <item>desiderio senza legami. Perdersi</item>
+       <item>nell\'Infinito per uscire dalle nostre</item>
+       <item>paure ed essere finalmente quello che </item>
+       <item>dobbiamo essere, senza più le nostre</item>
+       <item>meschinerie, per abbracciare il piano più</item>
+       <item>alto.</item>
+    </string-array>
+    <string-array name="giorno_1509">
+        <item>Il processo spirituale è lento e</item>
+        <item>corrisponde alla struttura di ciascuno.</item>
+        <item>""Dio ci dà una vita che si rinnova di</item>
+        <item>giorno in giorno"". (2Cor4,16)</item>
+    </string-array>
+    <string-array name="giorno_1609">
+        <item>Obbedienza: non comandare ma</item>
+        <item>essere d\'esempio, non per generare </item>
+        <item>un figlio spirituale, ma un figlio di Dio.</item>
+        <item>Crocifiggere la nostra volontà per la</item>
+        <item>libertà ultima e accettare di dover fare</item>
+        <item>ciò che va fatto, sapendo leggere il</item>
+        <item>piano di Dio.</item>
+    </string-array>
+    <string-array name="giorno_1709">
+        <item>Non si può imitare Cristo come un</item>
+        <item>eroe umano, ma imitare Cristo è</item>
+        <item>vivere secondo Lui e vivere in Cristo è</item>
+        <item>accettare sempre di più il suo piano.</item>
+        <item>Imitarlo nelle parole, nelle azioni e nei</item>
+        <item>pensieri per realizzre lentamente la</item>
+        <item>progressiva somiglianza ""cercare di</item>
+        <item>diventare tutto ciò che egli si è fatto per</item>
+        <item>noi"". (Gregorio di Nissa)</item>
+    </string-array>
+    <string-array name="giorno_1809">
+        <item>La riuscita della nostra fatica dipende</item>
+        <item>sempre dal saperci inserire nella ricerca</item>
+        <item>giusta: ""cercate il regno di Dio e al sua</item>
+        <item>perfezione e tutto il resto vi sarà dato</item>
+        <item>sovrappiù"".</item>
+    </string-array>
+    <string-array name="giorno_1909">
+        <item>La gioia del Padre è completa</item>
+        <item>quando noi suoi figli, spesso sbadati e</item>
+        <item>sbandati, qualche volta tiriamo fuori la</item>
+        <item>voce per dire come le stelle:""Eccomi!</item>
+        <item>sono al mio posto dove tu mi vuoi e</item>
+        <item>brilliamo di gioia"". Questa è la giusta</item>
+        <item>risposta al suo affetto e ci fa crescere e</item>
+        <item>dilatare nella sua volontà. Per quale</item>
+        <item>altro motivo possiamo vivere se non</item>
+        <item>per questo?</item>
+    </string-array>
+    <string-array name="giorno_2009">
+        <item>Il Maestro non ci dice di</item>
+        <item>reclamizzare la sua presenza nel mondo</item>
+        <item>se non mostrando a tutti come ci</item>
+        <item>vogliamo bene. Ci dice soltanto di</item>
+        <item>seguirlo nel silenzio interiore della cella</item>
+        <item>chiusa dall\'interno. Trovare il grande </item>
+        <item>silenzio e scoprire l\'eterna tentazione</item>
+        <item>che ha subito Gesù ""ostende te </item>
+        <item>mundo"" cioè fare tanto rumore con il </item>
+        <item>nostro io. La potenza dell\'Infinito si</item>
+        <item>manifesta nella nostra debolezza.</item>
+    </string-array>
+    <string-array name="giorno_2109">
+        <item>La vita ci viene data momento per</item>
+        <item>momento, ci viene conservata momento</item>
+        <item>per momento, ed è dono.</item>
+    </string-array>
+    <string-array name="giorno_2209">
+        <item>Così lentamente insieme a tante spinte,</item>
+        <item>propositi, cadute e sollevamenti; chissà</item>
+        <item>che arrivi qualche piccolo passo verso</item>
+        <item>lo stato di preghiera, d\'amore, di</item>
+        <item>profonda umiltà e volontà decisa di fare</item>
+        <item>veramente quello che vuole il Padre.</item>
+    </string-array>
+    <string-array name="giorno_2309">
+        <item>Se la meditazione matura lentamente</item>
+        <item>e porta i lontani da un rilassamento</item>
+        <item>fisico all\'intimità con Dio, lentamente</item>
+        <item>lentamente, senza obbligare, dovrebbe</item>
+        <item>maturare l\'Eucarestia, nella grande</item>
+        <item>intimità con il Maestro; e la meditazione</item>
+        <item>fa sentire fame e sete di questo pane e</item>
+        <item>di questo vino.</item>
+    </string-array>
+    <string-array name="giorno_2409">
+        <item>Il Signore è veramente Maestro, noi</item>
+        <item>non siamo maestri, siamo dei poveri</item>
+        <item>ripetitori; la Sua parola ci deve riempire</item>
+        <item>la vita: ci parla oggi.</item>
+    </string-array>
+    <string-array name="giorno_2509">
+        <item>Il respiro è la fiaccola che Dio ci ha</item>
+        <item>donato per penetrare tutti i nascondigli,</item>
+        <item>cioè per conoscerli fino in fondo.</item>
+    </string-array>
+    <string-array name="giorno_2609">
+        <item>Noi non vogliamo fare il vuoto della</item>
+        <item>mente; noi diciamo il mantra per</item>
+        <item>riempire il cuore d\'amore e offrirlo al</item>
+        <item>Signore.</item>
+    </string-array>
+    <string-array name="giorno_2709">
+        <item>Educare vuol dire fare crescere</item>
+        <item>nell\'amore e nella sapienza e quindi, per</item>
+        <item>ciascuno di noi, formare la propria</item>
+        <item>immagine ideale.</item>
+    </string-array>
+    <string-array name="giorno_2809">
+        <item>Le Beatitudini sono un invito a</item>
+        <item>seguire il Maestro per entrare nella sua</item>
+        <item>esperienza di gioia. Vita nuova o via di</item>
+        <item>salute è imparare dal Maestro a</item>
+        <item>distruggere bene e amorevolmente</item>
+        <item>quanto di disumano si annida in noi e ci</item>
+        <item>chiude nella nostra piccolezza. La via</item>
+        <item>del Maestro è aprirci agli altri. Agli altri</item>
+        <item>non si va se non disposti alla sofferenza!</item>
+    </string-array>
+    <string-array name="giorno_2909">
+        <item>Sentirci piccoli e abbandonati, e</item>
+        <item>faccia Lui quello che vuole!!!</item>
+    </string-array>
+    <string-array name="giorno_3009">
+        <item>L\'essere umano può dominare la</item>
+        <item>natura se riesce a conoscere la presenza</item>
+        <item>degli angeli che ne custodiscono i</item>
+        <item>segreti. Altrimenti è sudore della fronte</item>
+        <item>e lotta. Tutto nasce dal collegamento</item>
+        <item>con il tuo angelo e questo avviene</item>
+        <item>soltanto in un cuore che sa perdonare e</item>
+        <item>desidera servire il suo prossimo in</item>
+        <item>umiltà.</item>
+    </string-array>
+    <string-array name="giorno_0110">
+        <item>Vivere la realtà sacramentale è vivere</item>
+        <item>in stretto contatto con la fonte</item>
+        <item>inesauribile dell\'Amore infinito, che è</item>
+        <item>sceso tra noi.E\' un processo di crescita</item>
+        <item>che richiede una continua interiore</item>
+        <item>maturazione, per arrivare a trasmettere</item>
+        <item>alle persone che incontriamo quel</item>
+        <item>brivido di vita che risveglia le coscienze</item>
+        <item>alla consapevolezza di una vita più</item>
+        <item>elevata.</item>
+    </string-array>
+    <string-array name="giorno_0210">
+        <item>Gli angeli aiutano quelli che</item>
+        <item>sorridono!!!</item>
+    </string-array>
+    <string-array name="giorno_0310">
+       <item>Quando la nostra vocazione ci porta</item>
+       <item>a vivere la vita dello spirito, il mondo</item>
+       <item>intero anche se sordo e amorfo, può</item>
+       <item>diventare la nostra casa e tutta la vita</item>
+       <item>una continua offerta al Maestro.</item>
+    </string-array>
+    <string-array name="giorno_0410">
+        <item>Quelli che dovremmo amare di più</item>
+        <item>sono quelli che ci fanno più soffrire!!!</item>
+    </string-array>
+    <string-array name="giorno_0510">
+        <item>Bisogna insegnare a tutti che la vita è</item>
+        <item>una malattia con una pessima prognosi:</item>
+        <item>si trascina per anni e finisce con la</item>
+        <item>morte. Però nasce nell\'amore, cresce</item>
+        <item>nell\'amore e può finire nell\'amore. E\' la</item>
+        <item>grande occasione per imparare ad</item>
+        <item>amare, secondo la nostra natura divina.</item>
+        <item>Gli ostacoli più grandi sono egoismo,</item>
+        <item>individualismo e competitività.</item>
+    </string-array>
+    <string-array name="giorno_0610">
+        <item>La nostra vita è un allettante viaggio-</item>
+        <item>pellegrinaggio verso il Padre.</item>
+    </string-array>
+    <string-array name="giorno_0710">
+        <item>I segni della crescita che ci fanno</item>
+        <item>sperare in un progresso divinizzante</item>
+        <item>sono cinque spie su cui esaminarci:</item>
+        <item>amicizie sempre più spirituali,</item>
+        <item>compassione per tutte le sofferenze,</item>
+        <item>sorriso derivante da un sano e fondato</item>
+        <item>ottimismo, imperturbabilità per tutti gli</item>
+        <item>avvenimenti che una volta ci turbavano,</item>
+        <item>amore e interesse per la meditazione.</item>
+        <item>Nei momenti difficili giova soprattutto</item>
+        <item>chiedere aiuto nella meditazione,</item>
+        <item>ripetendo a oltranza atti di fiducia, di</item>
+        <item>pentimento, di speranza, di abbandono,</item>
+        <item>mentre richiamiamo tutti gli interventi</item>
+        <item>amorosi della Provvidenza nella nostra</item>
+        <item>vita.</item>
+    </string-array>
+    <string-array name="giorno_0810">
+        <item>Cerchiamo di vivere la</item>
+        <item>Trasfigurazione per non impedirci di</item>
+        <item>vedere in noi e attorno a noi il miracolo</item>
+        <item>quotidiano.</item>
+    </string-array>
+    <string-array name="giorno_0910">
+        <item>Amare è volontà e capacità di</item>
+        <item>permettere a chi si ama di essere ciò che</item>
+        <item>dovrebbe essere. Tapa (servizio) è</item>
+        <item>cercare di togliere le pene al Signore,</item>
+        <item>togliendole ai nostri fratelli.</item>
+    </string-array>
+    <string-array name="giorno_1010">
+        <item>Ascetica: vuol dire aderire al</item>
+        <item>richiamo del Padre che ci invita a salire</item>
+        <item>in alto, perciò a dominare le sirene della</item>
+        <item>materia, detestare le deviazioni e i ritardi</item>
+        <item>anche se piccoli e renderci degni del</item>
+        <item>nostro destino: formare il nostro corpo</item>
+        <item>di luce. Il segreto sta nel come lavorare</item>
+        <item>per fecondare la materia, senza sciupare</item>
+        <item>i tesori che maneggiamo. E\' quello</item>
+        <item>stesso rapporto ideale che si dovrebbe</item>
+        <item>avere nell\'avviare una maternità.</item>
+        <item>Possiamo diventare l\'ultimo dito della</item>
+        <item>mano creatrice per compiere e </item>
+        <item>perfezionare la creazione. In questo</item>
+        <item>anche noi siamo infiniti.</item>
+    </string-array>
+    <string-array name="giorno_1110">
+        <item>Perdonare sempre a oltranza, non</item>
+        <item>c\'è niente di non perdonabile!!!</item>
+    </string-array>
+    <string-array name="giorno_1210">
+        <item>Fede autentica: è quando</item>
+        <item>percepiamo che l\'amore per tutti è</item>
+        <item>l\'unica cosa.</item>
+    </string-array>
+    <string-array name="giorno_1310">
+        <item>Il lavoro serve per fare elemosina,</item>
+        <item>per acquistare maggiore pace, per</item>
+        <item>esercitare l\'umiltà, per dare buon</item>
+        <item>esempio. Il lavoro diventa quindi</item>
+        <item>strumento provvidenziale di</item>
+        <item>purificazione e di apostolato. Ci sono</item>
+        <item>alcuni lavori che convergono alla</item>
+        <item>meditazione: la pittura, la scultura, la</item>
+        <item>plastica, il giardinaggio, l\'orto, il cucito,</item>
+        <item>la tessitura e la costruzione di luoghi di</item>
+        <item>preghiera. Il lavoro non deve però</item>
+        <item>essere lasciato a capriccio del singolo</item>
+        <item>ma ben programmato, dosato e variato</item>
+        <item>secondo le forze e la grazia di ciascuno.</item>
+    </string-array>
+    <string-array name="giorno_1410">
+        <item>Servizio a Dio attraverso i fratelli. Il</item>
+        <item>servizio ci rende responsabili dei nostri</item>
+        <item>fratelli!</item>
+    </string-array>
+    <string-array name="giorno_1510">
+        <item>Aderire al Cristo, che è la vittima, è</item>
+        <item>essere vittima con Lui per gli altri.</item>
+    </string-array>
+    <string-array name="giorno_1610">
+        <item>I nostri punti deboli possono</item>
+        <item>diventare i nostri punti di forza.</item>
+    </string-array>
+    <string-array name="giorno_1710">
+        <item>Non è importante l\'anima gemella,</item>
+        <item>ma la corona meravigliosa di persone su</item>
+        <item>cui puoi sempre contare.</item>
+    </string-array>
+    <string-array name="giorno_1810">
+        <item>Lo stato di preghiera dovrebbe</item>
+        <item>essere atteggiamento costante: per</item>
+        <item>essere sempre nello stato di preghiera</item>
+        <item>sentirsi piccoli e accettare. La preghiera</item>
+        <item>deve essere quello che unisce la mia</item>
+        <item>mente a Dio, cioè l\'intelligenza e la</item>
+        <item>volontà per capire quella che è la mia</item>
+        <item>strada e accettarla fino in fondo.</item>
+        <item>Sarebbe concretamente la pratica del</item>
+        <item>mantra, quindi uno che è abituato per</item>
+        <item>anni a dire il mantra prima o poi casca</item>
+        <item>nello stato di preghiera.</item>
+    </string-array>
+    <string-array name="giorno_1910">
+        <item>Quello di grande e assoluto c\'è</item>
+        <item>nella preghiera viene realizzato e</item>
+        <item>portato a compimento in questa intimità</item>
+        <item>che è l\'Eucarestia.</item>
+    </string-array>
+    <string-array name="giorno_2010">
+        <item>I doni non sono dati solo per noi ma</item>
+        <item>soprattutto per gli altri!</item>
+    </string-array>
+    <string-array name="giorno_2110">
+        <item>Noi inspirando viviamo, espirando</item>
+        <item>moriamo.</item>
+    </string-array>
+    <string-array name="giorno_2210">
+        <item>Non credere che la perfezione sia</item>
+        <item>fare delle grandi esperienze in</item>
+        <item>meditazione, quanto piuttosto</item>
+        <item>trasformare e riformare la propria vita.</item>
+    </string-array>
+    <string-array name="giorno_2310">
+        <item>Il Regno è una speranza a</item>
+        <item>dimensione d\'uomo perchè è fatto per</item>
+        <item>l\'uomo, ma senza la purificazione</item>
+        <item>compiuta dallo Spirito Santo non è</item>
+        <item>possibile che il Regno entri dentro di</item>
+        <item>noi. Esige un cuore nuovo e una vita</item>
+        <item>nuova.</item>
+    </string-array>
+    <string-array name="giorno_2410">
+        <item>Gioia, pace, senso di pienezza e</item>
+        <item>realizzazione, buon umore e coraggio</item>
+        <item>sono i segni dello spirito buono.</item>
+        <item>Tristezza, turbamento dell\'animo,</item>
+        <item>depressione sono i segni di disordine</item>
+        <item>dello spirito cattivo. Lo spirito buono ci</item>
+        <item>spinge a lottare contro gli attaccamenti</item>
+        <item>disordinati per farci liberi di seguire</item>
+        <item>l\'ispirazione e prepararci alla nostra</item>
+        <item>missione.</item>
+    </string-array>
+    <string-array name="giorno_2510">
+        <item>Aderire al Mistero è proiettare ogni</item>
+        <item>pensiero sull\'orizzonte infinito, è</item>
+        <item>il rapporto con l\'infinita luce divina.</item>
+    </string-array>
+    <string-array name="giorno_2610">
+        <item>Si cresce sviluppando le nostre</item>
+        <item>capacità per rispondere allo scopo per</item>
+        <item>cui siamo al mondo.</item>
+    </string-array>
+    <string-array name="giorno_2710">
+        <item>Vivere è l\'infinita pazienza di</item>
+        <item>ricominciare.</item>
+    </string-array>
+    <string-array name="giorno_2810">
+        <item>Per sapere sempre cosa confessare, </item>
+        <item>ricordiamo i due fondamentali bisogni</item>
+        <item>umani: amerai il tuo Dio con tutto il</item>
+        <item>cuore, con tutta l\'anima e con tutte le</item>
+        <item>forze e amerai il prossimo tuo come te</item>
+        <item>stesso. E\' difficile non trovare niente da</item>
+        <item>confessare!</item>
+    </string-array>
+    <string-array name="giorno_2910">
+        <item>L\'inspirazione ci fa ritrovare o</item>
+        <item>riconoscere nella nostra piccolezza.</item>
+        <item>L\'espirazione sottolinea la nostra</item>
+        <item>dipendenza creaturale. L\'espirazione è</item>
+        <item>una specie di rilassamento che è un</item>
+        <item>modo di donarsi, restituirsi con tre</item>
+        <item>meravigliosi effetti:</item>
+        <item>- abbandonarsi, deporsi in braccio a</item>
+        <item>Lui, dimenticandoci;</item>
+        <item>- lacsiarsi unire, per avere i suoi gusti;</item>
+        <item>- ritrovarci, recuperarci in un vero</item>
+        <item>amore superiore.</item>
+    </string-array>
+    <string-array name="giorno_3010">
+        <item>Non possiamo permetterci di</item>
+        <item>sciupare neanche un minuto del tempo</item>
+        <item>che ci resta!</item>
+    </string-array>
+    <string-array name="giorno_3110">
+        <item>Considerare i pareri degli altri</item>
+        <item>superiori ai nostri!</item>
+    </string-array>
+    <string-array name="giorno_0111">
+        <item>Santi si diventa in questa vita!</item>
+    </string-array>
+    <string-array name="giorno_0211">
+        <item>Pensiamo anzitutto ai nostri morti,</item>
+        <item>ricordandone la fisionomia e</item>
+        <item>facciamone un mandala. Diciamo il</item>
+        <item>mantra con loro sostituendoci alla loro</item>
+        <item>volontà che è bloccata. Devono sentirsi</item>
+        <item>umili e accettare il loro purgatorio. Il</item>
+        <item>loro stato li rende impotenti, lega loro le</item>
+        <item>mani. L\'atteggiamento indotto dal</item>
+        <item>nostro mantra, libera loro le mani e</item>
+        <item>possono fare qualcosa di bene che</item>
+        <item>permette loro di tendere alla</item>
+        <item>liberazione. Non aspettano di meglio</item>
+        <item>che essere suffragati, cioè ricordati nelle</item>
+        <item>nostre preghiere per poter operare nel</item>
+        <item>bene. Quando ci abitueremo a questo,</item>
+        <item>vedremo quanti morti si affacciano alla</item>
+        <item>nostra memoria per godere del nostro</item>
+        <item>mantra.</item>
+    </string-array>
+    <string-array name="giorno_0311">
+        <item>La meditazione non ci chiude in noi</item>
+        <item>stessi ma matura lentamente il nostro</item>
+        <item>scopo vitale che è sempre interferire</item>
+        <item>beneficamente con gli altri. Diventare</item>
+        <item>divini vuol dire essere come il sole,</item>
+        <item>portare luce a tutti.</item>
+    </string-array>
+    <string-array name="giorno_0411">
+        <item>Ricordiamo poi certe parolette</item>
+        <item>magiche ispirate: l\'elemosina copre una</item>
+        <item>moltitudine di peccati, salvare un\'anima</item>
+        <item>è assicurare la salvezza propria.</item>
+    </string-array>
+    <string-array name="giorno_0511">
+        <item>L\'uomo nascosto nel cuore nasce e</item>
+        <item>cresce con la stessa vitalità che gli</item>
+        <item>conferisce la sua vita in Cristo Gesù.</item>
+    </string-array>
+    <string-array name="giorno_0611">
+        <item>La grande prova per dire se amiamo</item>
+        <item>veramente l\'Infinito, è la nostra</item>
+        <item>decisione di dedicare la vita alle</item>
+        <item>necessità dei fratelli. L\'icona classica del</item>
+        <item>servire l\'ideale più alto è S. Cristoforo.</item>
+    </string-array>
+    <string-array name="giorno_0711">
+        <item>Accoglienza vuol dire mettersi nella</item>
+        <item>situazione di essere una possibilità che</item>
+        <item>gli altri possono utilizzare. Gli altri</item>
+        <item>hanno bisogno di noi, come noi degli</item>
+        <item>altri.</item>
+    </string-array>
+    <string-array name="giorno_0811">
+        <item>La meditazione ci apre alle ricchezze</item>
+        <item>e ai mezzi per ricostruire. Il mantra è il</item>
+        <item>grande strumento sia durante la</item>
+        <item>meditazione che durante tutta la </item>
+        <item>giornata. A ogni creatura infondiamo il</item>
+        <item>mantra con la nostra meditazione: a</item>
+        <item>ogni albero che vediamo, a ogni</item>
+        <item>animale, a ogni persona che</item>
+        <item>incontriamo; chi ci sta vicino sente la</item>
+        <item>Sua forza che attira e che ci fa un po\'</item>
+        <item>diversi.</item>
+    </string-array>
+    <string-array name="giorno_0911">
+        <item>L\'amore umano è una spinta in</item>
+        <item>avanti, noi dobbiamo spingerlo in alto.</item>
+    </string-array>
+    <string-array name="giorno_1011">
+        <item>Lo scambio totale della propria vita</item>
+        <item>con la vita degli altri realizza la</item>
+        <item>liberazione da qualunque limite del mio</item>
+        <item>io e dagli attaccamenti, nella gioia</item>
+        <item>di essere tutto d tutti. Donando</item>
+        <item>qualcosa si incomincia a identificarsi nel</item>
+        <item>tutto e così si penetra nella vita interna</item>
+        <item>di tutto il mondo.</item>
+    </string-array>
+    <string-array name="giorno_1111">
+        <item>La vera amicizia aiuta a diventare ciò</item>
+        <item>che dobbiamo essere, ci aiuta a</item>
+        <item>scoprirlo e a realizzarlo.</item>
+    </string-array>
+    <string-array name="giorno_1211">
+        <item>Fede è l\'inizio dell\'amore che porta</item>
+        <item>a conoscere l\'Infinito.</item>
+    </string-array>
+    <string-array name="giorno_1311">
+        <item>Il regno dei cieli non è nella filosofia</item>
+        <item>o nella vera scienza ma nella potenza</item>
+        <item>dell\'Infinito che opera nella purezza di</item>
+        <item>un\'anima che si abbandona nell\'amore.</item>
+    </string-array>
+    <string-array name="giorno_1411">
+        <item>Il padre spirituale addita non solo</item>
+        <item>verità da spiegare, ma soprattutto verità</item>
+        <item>da ricevere in dono e da sperimentare</item>
+        <item>per non cadere nella falsa gnosi che</item>
+        <item>promette la salvezza soltanto con il</item>
+        <item>teorizzare iniziatico.</item>
+    </string-array>
+    <string-array name="giorno_1511">
+        <item>Meditazione, cioè aprire il cuore</item>
+        <item>all\'amore, trasforma lentamente la vita.</item>
+        <item>Anzi è un modo di vivere. Ci fa tendere</item>
+        <item>costantemente a una meta di</item>
+        <item>perfezione, piccoli e abbandonati</item>
+        <item>all\'azione di uno Spirito d\'amore.</item>
+    </string-array>
+    <string-array name="giorno_1611">
+        <item>Non si può credersi amici del</item>
+        <item>Maestro se si continua a servire i nostri</item>
+        <item>interessi, le cose che ci attirano tanto e</item>
+        <item>fanno sparire l\'amore, perchè sono</item>
+        <item>amore deviato e non c\'è di peggio per</item>
+        <item>preparare il tradimento.</item>
+    </string-array>
+    <string-array name="giorno_1711">
+        <item>Dobbiamo imparare a dimorare</item>
+        <item>accanto alle nostre rovine.</item>
+    </string-array>
+    <string-array name="giorno_1811">
+       <item>Le ricchezze possono essere un</item>
+       <item>grande ostacolo, come può esserlo il</item>
+       <item>rifiuto di valorizzarle. Per valorizzare i</item>
+       <item>beni che possediamo senza lasciarsi</item>
+       <item>possedere, serve cambiare l\'idea che</item>
+       <item>abbiamo dell\'Infinito.</item>
+    </string-array>
+    <string-array name="giorno_1911">
+        <item>Vera povertà è rinunciare all\'IO.</item>
+    </string-array>
+    <string-array name="giorno_2011">
+        <item>Il dono di noi è più importante del</item>
+        <item>dono di talenti.</item>
+    </string-array>
+    <string-array name="giorno_2111">
+        <item>Stare con il Maestro è felicità.</item>
+        <item>Predica bene, guarisce tutto e tutti e ti</item>
+        <item>assicura anche il vitto. Non è il</item>
+        <item>massimo? C\'è di più, si può far amicizia</item>
+        <item>con Lui!</item>
+    </string-array>
+    <string-array name="giorno_2211">
+        <item>Con la meditazione possediamo tre</item>
+        <item>strumenti potenti:</item>
+        <item>- costruire una immagine ideale di noi</item>
+        <item>stessi su cui formare il nostro normale</item>
+        <item>operare. Determinante per questo è la</item>
+        <item>""programmazione"";</item>
+        <item>- innamorarci. Crediamo che se ci</item>
+        <item>innamoriamo di una persona</item>
+        <item>splendida adatta a noi saremo felici.</item>
+        <item>Se riusciamo ad innamorarci del nostro</item>
+        <item>Maestro d\'amore, avremo conquistato</item>
+        <item>l\'universo. L\'Infinito si presenta a noi</item>
+        <item>con tante presenze che possiamo</item>
+        <item>amare e per questo trasformare noi</item>
+        <item>stessi in qualcosa di amabile e</item>
+        <item>innamorante. E quindi amare e farsi</item>
+        <item>amare dalle piante, dagli animali, da</item>
+        <item>tutte le persone del nostro giro.</item>
+        <item>Dovremmo avere l\'ambizione di essere</item>
+        <item>amati da tutti. Se non lo siamo è perchè</item>
+        <item>dobbiamo ancora limare il nostro carattere;</item>
+        <item>- far benedire i nostri amori da qualcuno</item>
+        <item>che ci aiuti a crescere e a voler essere</item>
+        <item>amore. Chi siamo veramente? I futuri figli</item>
+        <item>dell\'Infinito.</item>
+    </string-array>
+    <string-array name="giorno_2311">
+        <item>A questo spinge la vera amicizia: a</item>
+        <item>unire le proprie spalle, portare insieme i </item>
+        <item>pesi, aiutandoci ad allargare ogni giorno</item>
+        <item>le prospettive spirituali.</item>
+    </string-array>
+    <string-array name="giorno_2411">
+        <item>Il lavoro è il punto di incontro tra</item>
+        <item>spirito e materia, un grande strumento</item>
+        <item>per la crescita spirituale.</item>
+    </string-array>
+    <string-array name="giorno_2511">
+        <item>Impariamo a benedire. Tutti</item>
+        <item>perchè abbiamo bisogno di benedirci a vicenda, </item>
+        <item>perchè la benedizione conferma che</item>
+        <item>siamo amati. Nei momenti difficili è</item>
+        <item>bello sentirsi dire ""benedetto il</item>
+        <item>momento che ti ho conosciuto, è bello</item>
+        <item>che tu sia dentro la mia vita"".</item>
+    </string-array>
+    <string-array name="giorno_2611">
+        <item>Solo se è definitivo, tutto può</item>
+        <item>diventare grande e portare alla</item>
+        <item>perfezione.</item>
+    </string-array>
+    <string-array name="giorno_2711">
+        <item>La meditazione sarà la scuola</item>
+        <item>quotidiana in cui imparare l\'amore alla</item>
+        <item>scuola dell\'infinito Amore al quale</item>
+        <item>impariamo ad abbandonarci. Ci</item>
+        <item>suggerirà le grandi aspirazioni che ci</item>
+        <item>fanno puntare all\'ideale e ci farà attenti</item>
+        <item>a ogni possibile deviazione che possa</item>
+        <item>verificarsi. Può succedere che il primo</item>
+        <item>appassionante approccio faccia andare</item>
+        <item>un po\' fuori rigo, ma proprio la</item>
+        <item>meditazione e la giuda spirituale</item>
+        <item>dovranno rimettere tutto a regola.</item>
+    </string-array>
+    <string-array name="giorno_2811">
+        <item>Ognuno è come Lui ci ha voluto e</item>
+        <item>con tutto il necessario per lottare.</item>
+    </string-array>
+    <string-array name="giorno_2911">
+        <item>Il Maestro che rende attuale sulla</item>
+        <item>nostra tavola il proprio sacrificio, ci</item>
+        <item>invita a diventare sacrificio, con tutto</item>
+        <item>quello che possediamo. L\'attesa del</item>
+        <item>Cuore infinito è di identificarsi con le</item>
+        <item>energie d\'amore dei suoi collaboratori</item>
+        <item>per ottenere che gli uomini si amino</item>
+        <item>come il Padre ama il Figlio. Il nostro</item>
+        <item>sacrificio non è valido se non è unito al</item>
+        <item>Figlio, perchè è Lui che ci unisce.</item>
+        <item>L\'Eucarestia ricevuta così trasforma la</item>
+        <item>nostra piccolezza nell\'abbraccio</item>
+        <item>cosmico che si estende a tutte le</item>
+        <item>creature per redimerle da tutti gli</item>
+        <item>egoismi. La catena che ci unisce ai morti</item>
+        <item>che hanno lasciato tutto, dà ragione al</item>
+        <item>nostro spogliarsi nella libera volontà che</item>
+        <item>è consapevolezza e forza morale.</item>
+    </string-array>
+    <string-array name="giorno_3011">
+        <item>L\'esperienza è l\'atto con il quale la</item>
+        <item>persona si sente in relazione con il</item>
+        <item>mondo, con se stesso e con Dio.</item>
+    </string-array>
+    <string-array name="giorno_0112">
+        <item>Non dobbiamo vendicare il peccato</item>
+        <item>ma espiarlo. La nostra morte avrà un</item>
+        <item>senso. Sarà la conclusione di una vita di</item>
+        <item>espiazione. La vita è un purgatorio:</item>
+        <item>accettiamolo in espiazione. Il nostro</item>
+        <item>grande Maestro con la sua morte ha</item>
+        <item>spaccato il destino della morte:</item>
+        <item>soffrendo fino alla fine ha svuotato il</item>
+        <item>significato della morte, la quale ha perso</item>
+        <item>il suo pungiglione. Ha aperto il </item>
+        <item>cammino del cristiano che permette a</item>
+        <item>Paolo di desiderare di morire in Cristo.</item>
+    </string-array>
+    <string-array name="giorno_0212">
+        <item>Pregare significa cambiare in meglio.</item>
+    </string-array>
+    <string-array name="giorno_0312">
+        <item>L\'amicizia è una cosa sacra, che nasce</item>
+        <item>solo fra coloro che non temono di aprire</item>
+        <item>il loro cuore all\'altro e si legano con la</item>
+        <item>legge sicurissima della fedeltà.</item>
+    </string-array>
+    <string-array name="giorno_0412">
+        <item>Dobbiamo innamorarci e completare</item>
+        <item>il nostro innamoramento immaginando</item>
+        <item>l\'abbraccio. Vederci abbracciati dal</item>
+        <item>Signore è solo una immagine, ma il cantico</item>
+        <item>dei cantici ci invita ad aiutarci con</item>
+        <item>questa immagine.</item>
+    </string-array>
+    <string-array name="giorno_0512">
+        <item>Per vivere il rapporto con il tuo</item>
+        <item>angelo conviene capire l\'importanza del</item>
+        <item>perdono e della disposizione a superare</item>
+        <item>l\'ostacolo del nostro orgoglio.</item>
+    </string-array>
+    <string-array name="giorno_0612">
+        <item>L\'oggetto della meditazione è</item>
+        <item>l\'Infinito, ma per noi non ha ancora</item>
+        <item>forma. Noi abbiamo bisogno di</item>
+        <item>concentrarci su un oggetto che ci</item>
+        <item>incanti, che ci interessi veramente.</item>
+        <item>Bisogna che ci faccia innamorare.</item>
+        <item>Concentrarsi non è lo stesso che</item>
+        <item>meditare. Concentrarsi è fissare</item>
+        <item>l\'attenzione su un punto centrale, il non</item>
+        <item>distrarsi dipende dal nostro grado</item>
+        <item>d\'innamoramento. Quando uno è</item>
+        <item>innamorato nasce la devozione.</item>
+        <item>Devozione non è solo cantare un</item>
+        <item>Kirtam, non è dire ""io voglio amare il</item>
+        <item>Signore"". Devozione è bruciare l\'io e</item>
+        <item>volere solo il Signore, quindi è</item>
+        <item>innamorarsi e arrendersi all\'amore che</item>
+        <item>ci abbraccia da ogni parte e che ci</item>
+        <item>insegue in ogni modo.</item>
+    </string-array>
+    <string-array name="giorno_0712">
+        <item>Vediamo poco: solo una parte</item>
+        <item>limitata della realtà, perciò i criteri per</item>
+        <item>valutare situazioni e persone sono falsi.</item>
+        <item>Per questo non dobbiamo mai </item>
+        <item>giudicare.</item>
+    </string-array>
+    <string-array name="giorno_0812">
+        <item>L\'Infinito non ha bisogno di essere</item>
+        <item>informato su ciò che ci occorre, ma di</item>
+        <item>avere sempre notizioe sul nostro amore.</item>
+        <item>In questo senso la Vergine Madre è</item>
+        <item>stata messa per correggere la severità</item>
+        <item>del Padre, ma è ad un tempo l\'icona</item>
+        <item>della bontà paterna e ne rivela</item>
+        <item>l\'incredibile tenerezza materna.</item>
+    </string-array>
+    <string-array name="giorno_0912">
+        <item>Bisogna vedere se l\'ostacolo che ci</item>
+        <item>impedisce di crescere non sia qualcosa</item>
+        <item>che non riusciamo ad offrire agli altri.</item>
+    </string-array>
+    <string-array name="giorno_1012">
+        <item>Un\'anima si tende verso un\'altra</item>
+        <item>anima con amore e compassione.</item>
+    </string-array>
+    <string-array name="giorno_1112">
+        <item>L\'Infinito è la verità assoluta, ogni</item>
+        <item>creatura è verità relativa. Il mondo muta</item>
+        <item>continuamente di abito e ti inganna. Il</item>
+        <item>misticismo è il salto di qualià dal basso</item>
+        <item>verso l\'alto e apre al mondo dello</item>
+        <item>Spirito, cioè a una realtà infinita e</item>
+        <item>inimmaginabile, per possedere la quale</item>
+        <item>vale ogni sacrificio.</item>
+    </string-array>
+    <string-array name="giorno_1212">
+        <item>Ogni novità incontra le difficoltà di</item>
+        <item>ogni cambiamento e di ogni crescita.</item>
+        <item>Stancarsi delle difficoltà è perdere il</item>
+        <item>senso della realtà, della vita.</item>
+    </string-array>
+    <string-array name="giorno_1312">
+        <item>Terapia dell\'abbandono: capire la</item>
+        <item>nostra impotenza e abbandonarci.</item>
+        <item>Avere fiducia: la fiducia verrà premiata.</item>
+    </string-array>
+    <string-array name="giorno_1412">
+        <item>Se cerchiamo di curare le piaghe</item>
+        <item>fisiche, psichiche e spirituali dei nostri</item>
+        <item>vicini collaboriamo con gli angeli:</item>
+        <item>questa è una bella consolazione, diventa</item>
+        <item>amore curativo.</item>
+    </string-array>
+    <string-array name="giorno_1512">
+        <item>La Messa è eucarestia: il</item>
+        <item>ringraziamento al Padre, che ha liberato</item>
+        <item>gli ebrei e noi dal paccato; è liberazione</item>
+        <item>dalla schiavitù dei nostri egoismi per</item>
+        <item>aprirci ai fratelli: è Lui che lo fa con lo</item>
+        <item>Spirito Santo. E se troviamo che Lui si</item>
+        <item>fa pane e cibo per noi ancora di più</item>
+        <item>dovrebbe crescere il ringraziamento.</item>
+    </string-array>
+    <string-array name="giorno_1612">
+        <item>In ogni tentazione siamo in fondo</item>
+        <item>provati nella fede e quando superiamo</item>
+        <item>una tentazione la nostra fede è</item>
+        <item>fortificata e possiamo affrontarne</item>
+        <item>un\'altra.</item>
+    </string-array>
+    <string-array name="giorno_1712">
+        <item>Il nostro punto debole può essere il</item>
+        <item>nostro punto di forza, basta che</item>
+        <item>sappiamo orientarlo verso il necessario</item>
+        <item>e l\'assoluto.</item>
+    </string-array>
+    <string-array name="giorno_1812">
+        <item>L\'Infinito ci vuole perfetti:</item>
+        <item>innamoriamoci della novità che</item>
+        <item>ciascuno porta.</item>
+    </string-array>
+    <string-array name="giorno_1912">
+        <item>I dubbi devono renderci prudenti ma</item>
+        <item>non immobilizzre la voglia di operare.</item>
+        <item>L\'amore è il fuoco che può bruciare</item>
+        <item>ogni negatività. Ma l\'amore è efficace se</item>
+        <item>si ama al 100%.</item>
+    </string-array>
+    <string-array name="giorno_2012">
+        <item>Non sono le tue invocazioni di aiuto</item>
+        <item>a sollecitare il loro (degli angeli)</item>
+        <item>intervento, ma il tuo atteggiamento</item>
+        <item>interire di umiltà e disposizione ad</item>
+        <item>amare senza riserve.</item>
+    </string-array>
+    <string-array name="giorno_2112">
+        <item>Lo stato di preghiera è lo stato in cui</item>
+        <item>l\'anima, vivendo, prega e, se prega,</item>
+        <item>diventa strumento di Provvidenza.</item>
+    </string-array>
+    <string-array name="giorno_2212">
+        <item>Fare silenzio e fare attenzione ai</item>
+        <item>grandi doni di Dio, che sono anzitutto</item>
+        <item>la Fede, la Speranza e l\'Amore.</item>
+    </string-array>
+    <string-array name="giorno_2312">
+        <item>Ci sono cinque modi di rapportarci con</item>
+        <item>il prossimo:</item>
+        <item>- schizofrenico: quando tocchi una </item>
+        <item>persona che ti urlerà: ""Lasciami in</item>
+        <item>pace!"";</item>
+        <item>- rituale: ""Come va?"". ""Benissimo"" e non è </item>
+        <item>vero;</item>
+        <item>- da cocktail: si parla di cose non </item>
+        <item>pericolose;</item>
+        <item>- giocoso: giocare a trattarsi con garbo,</item>
+        <item>denunciando continui dolori, ma</item>
+        <item>senza aprirsi;</item>
+        <item>- intimo: la piena comunione che è dare</item>
+        <item>e ricevere senza sfruttarsi ""non voglio</item>
+        <item>servirmi di te, ma servirti e amarti"".</item>
+    </string-array>
+    <string-array name="giorno_2412">
+        <item>Il Maestro vuole che conosciamo Lui</item>
+        <item>e la potenza della sua resurrezione.</item>
+        <item>Possiamo rischiare con Lui senza</item>
+        <item>paura, perchè con Lui siamo al sicuro.</item>
+        <item>Vittima dell\'obbedienza al Padre,</item>
+        <item>resuscita e illumina solo coloro che si</item>
+        <item>rifanno gli occhi nella Trasfigurazione.</item>
+        <item>Il suo compito è quello di portare la</item>
+        <item>luce e aprire le coscienze alla loro natura</item>
+        <item>divina. Per venire tra noi e poter</item>
+        <item>operare ha bisogno di trovare amore,</item>
+        <item>perchè, come noi possiamo vivere solo</item>
+        <item>dove c\'è ossigeno, Lui può stare solo</item>
+        <item>dove c\'è amore: quell\'amore puro che</item>
+        <item>unisce le anime con Lui. Ogni gesto</item>
+        <item>d\'amore vissuto come dono, per uno</item>
+        <item>scopo puro, diventa preghiera. Ora un</item>
+        <item>atto d\'amore è perfetto solo se viene</item>
+        <item>compiuto vibrando all\'unisono con la</item>
+        <item>natura celeste. Le vibrazioni d\'amore</item>
+        <item>che ne scaturiranno, saranno tanto più</item>
+        <item>elevate, quanto più profonda sarà</item>
+        <item>l\'intimità spirituale in cui sono state</item>
+        <item>generate.</item>
+    </string-array>
+    <string-array name="giorno_2512">
+        <item>Siamo tutti legati con il tutto in un</item>
+        <item>corpo mistico.</item>
+    </string-array>
+    <string-array name="giorno_2612">
+        <item>Quello che puoi fare tu non lo può</item>
+        <item>fare nessun altro.</item>
+    </string-array>
+    <string-array name="giorno_2712">
+        <item>Sentiamoci liberi per poter essere</item>
+        <item>nuovi ogni giorno!</item>
+    </string-array>
+    <string-array name="giorno_2812">
+        <item>Il ritirarci in profondità per avere la</item>
+        <item>consapevolezza del nostro nulla di</item>
+        <item>fronte a Dio e del nostro bisogno di</item>
+        <item>abbandonarci alla sua direzione</item>
+        <item>amorosa non dovrebbe limitarsi alla</item>
+        <item>mezz\'ora di meditazione, ma </item>
+        <item>accompagnarci sempre. Quando i nostri</item>
+        <item>personali interessi passano in secondo</item>
+        <item>ordine, ci si può arrendere all\'Infinito in</item>
+        <item>ogni momento di qualsiasi giorno; solo</item>
+        <item>allora ha inizio la vita interiore quando</item>
+        <item>cominciamo a trasformare la nostra</item>
+        <item>mente, il nostro cuore, i nostri gesti, i</item>
+        <item>nostri amori.</item>
+    </string-array>
+    <string-array name="giorno_2912">
+        <item>Il Maestro è dentro l\'anima:</item>
+        <item>dobbiamo insegnare ad ascoltarlo e a</item>
+        <item>togliere quei rumori e quelle distrazioni</item>
+        <item>che impediscono a quest\'Amore di</item>
+        <item>parlarci e illuminarci.</item>
+    </string-array>
+    <string-array name="giorno_3012">
+        <item>Il Maestro ci ha insegnato il ""noi"":</item>
+        <item>non più isolati e depressi, ma forti in</item>
+        <item>gruppo. Il cristiano possiede beni che</item>
+        <item>deve condividere: sono beni da spartire.</item>
+        <item>L\'Onnipotenza che ha moltiplicato i</item>
+        <item>pani e i pesci per cinquemila persone,</item>
+        <item>ha trovato il canale giusto nelle mani</item>
+        <item>degli apostoli che distribuivano.</item>
+        <item>Possiamo condividere luce e non</item>
+        <item>tenebre. Ognuno di noi ha infinite</item>
+        <item>potenzialità di amore, anche se non</item>
+        <item>sempre tutti ne potranno godere,</item>
+        <item>perchè non possiamo essere amati da </item>
+        <item>tutti. Potete essere la pesca più saporita</item>
+        <item>del mondo e ci sarà sempre qualcuno </item>
+        <item>che è allergico alle pesche.</item>
+    </string-array>
+    <string-array name="giorno_3112">
+        <item>Noi siamo quello che siamo, siamo</item>
+        <item>quello che possiamo diventare!</item>
+    </string-array>
+
+</resources>

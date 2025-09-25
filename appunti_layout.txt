@@ -1,0 +1,9 @@
+1) layout home
+small->     android:layout_marginTop="30dp"
+all other-> android:layout_marginTop="80dp" 
+
+2) layout settings
+small-> android:text="Layout in Modalità SMALL"
+normal-> android:text="Layout in Modalità NORMAL" mio e test su pc
+large-> android:text="Layout in Modalità LARGE"
+x-large-> android:text="Layout in Modalità X-LARGE"

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".ui.incontri.IncontriFragment">
+       
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/image_view_incontri"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:contentDescription="Immagine di Padre Jhon A S.Simeone"
+            android:scaleType="centerCrop"
+            app:layout_constraintDimensionRatio="H,1:1"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/padre_jhon_martini_chiara_gornate"
+            app:shapeAppearanceOverlay="@style/RoundedImageView"
+            tools:layout_constraintLeft_creator="1"
+            tools:layout_constraintRight_creator="1" />
+        
+        <TextView
+            android:id="@+id/textIncontro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            style="@style/AppThemeRedAccent"
+            android:textColorLink="@color/black"
+            android:background="@drawable/rounded_corners_background"
+            android:fontFamily="@font/quicksandbold"
+            android:fontWeight="500"
+
+            android:gravity="center_horizontal"
+            android:hint=""
+            android:maxLength="1000"
+
+            android:minHeight="48dp"
+            android:textAppearance="?android:attr/textAppearanceListItemSmall"
+            android:textSize="15sp"
+            android:textStyle="italic|bold"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/spinner_incontri"
+            tools:layout_constraintLeft_creator="1"
+            tools:layout_constraintRight_creator="1"
+            tools:layout_constraintTop_creator="1"
+            tools:visibility="invisible" />
+
+        <Spinner
+            android:id="@+id/spinner_incontri"
+            style="@style/spinner_style"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:minHeight="48dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/image_view_incontri" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

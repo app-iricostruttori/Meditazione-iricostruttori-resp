@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <!-- Funziona con Risparmio energetico attivo e Sospensione schermo Mai -->
+    <!-- https://stackoverflow.com/questions/59753450/how-to-remove-battery-optimisation-in-android-programmatically -->
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+    <!-- <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" /> -->
+    <!-- L'opzione per by passare il risparmio batteria non funziona-->
+    <!-- per cui aggiungo il lock come da seguente pagina -->
+    <!-- https://stackoverflow.com/questions/18529159/android-power-manager-wake-lock -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:configChanges="keyboardHidden|orientation"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Meditazioneiricostruttoriresp"
+        tools:targetApi="31">
+
+
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:resizeableActivity="true"
+            android:configChanges="screenSize|orientation"
+            android:theme="@style/Theme.Meditazioneiricostruttoriresp.NoActionBar"
+            tools:targetApi="12">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+    </application>
+
+</manifest>

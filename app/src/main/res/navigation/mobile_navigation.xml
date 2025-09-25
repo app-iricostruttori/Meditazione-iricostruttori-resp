@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.iricostruttori.meditazione.ui.home.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_incontri"
+        android:name="com.iricostruttori.meditazione.ui.incontri.IncontriFragment"
+        android:label="@string/menu_incontro"
+        tools:layout="@layout/fragment_incontri" />
+
+    <fragment
+        android:id="@+id/nav_meditazione"
+        android:name="com.iricostruttori.meditazione.ui.meditazione.MeditazioneFragment"
+        android:label="@string/menu_meditazione"
+        tools:layout="@layout/fragment_meditazione" />
+
+    <fragment
+        android:id="@+id/nav_pensieri"
+        android:name="com.iricostruttori.meditazione.ui.pensieri.PensieriFragment"
+        android:label="P.John"
+        tools:layout="@layout/fragment_pensieri" />
+
+    <fragment
+        android:id="@+id/nav_canti"
+        android:name="com.iricostruttori.meditazione.ui.canti.CantiFragment"
+        android:label="Canti"
+        tools:layout="@layout/fragment_canti" />
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.iricostruttori.meditazione.ui.settings.SettingsFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_settings" />
+
+
+</navigation>

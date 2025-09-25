@@ -1,0 +1,156 @@
+After code cache collection, code=13KB, data=30KB
+2025-05-30 17:35:06.401 10991-10995 art                     com.iricostruttori.meditazione       I  Increasing code cache capacity to 128KB
+2025-05-30 17:35:06.451 10991-11009 <no-tag>                com.iricostruttori.meditazione       D  HostConnection::get() New Host Connection established 0x977fae40, tid 11009
+2025-05-30 17:35:06.481 10991-11009 OpenGLRenderer          com.iricostruttori.meditazione       I  Initialized EGL, version 1.4
+2025-05-30 17:35:06.481 10991-11009 OpenGLRenderer          com.iricostruttori.meditazione       D  Swap behavior 1
+2025-05-30 17:35:06.482 10991-11009 OpenGLRenderer          com.iricostruttori.meditazione       W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2025-05-30 17:35:06.482 10991-11009 OpenGLRenderer          com.iricostruttori.meditazione       D  Swap behavior 0
+2025-05-30 17:35:06.500 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglCreateContext: 0x9c4052a0: maj 2 min 0 rcv 2
+2025-05-30 17:35:06.524 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-05-30 17:35:06.581 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:46.517 10991-10995 art                     com.iricostruttori.meditazione       I  Do partial code cache collection, code=50KB, data=62KB
+2025-06-10 17:30:46.518 10991-10995 art                     com.iricostruttori.meditazione       I  After code cache collection, code=49KB, data=62KB
+2025-06-10 17:30:46.518 10991-10995 art                     com.iricostruttori.meditazione       I  Increasing code cache capacity to 256KB
+2025-06-10 17:30:49.373 10991-11033 ProfileInstaller        com.iricostruttori.meditazione       D  Installing profile for com.iricostruttori.meditazione
+2025-06-10 17:30:49.398 10991-10991 System.out              com.iricostruttori.meditazione       I  sel strRegione :Seleziona una regione:
+2025-06-10 17:30:49.399 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo giorno prima strFullIncontro  
+2025-06-10 17:30:49.399 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempMeeting   
+2025-06-10 17:30:49.399 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo dopo prima strFullIncontro   
+2025-06-10 17:30:49.399 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo   
+2025-06-10 17:30:49.399 10991-10991 IncontriFragment        com.iricostruttori.meditazione       D   strFullIncontro   
+2025-06-10 17:30:49.399 10991-10991 IncontriFragment        com.iricostruttori.meditazione       D   strFullMapsLink  
+2025-06-10 17:30:51.295 10991-10991 art                     com.iricostruttori.meditazione       W  Before Android 4.1, method int androidx.appcompat.widget.DropDownListView.lookForSelectablePosition(int, boolean) would have incorrectly overridden the package-private method in android.widget.ListView
+2025-06-10 17:30:51.398 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:51.445 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:51.471 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:53.144 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:53.172 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:53.196 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:53.198 10991-10991 System.out              com.iricostruttori.meditazione       I  sel strRegione :Lombardia:
+2025-06-10 17:30:53.199 10991-10991 System.out              com.iricostruttori.meditazione       I  set lombardia
+2025-06-10 17:30:53.199 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo giorno prima strFullIncontro  
+2025-06-10 17:30:53.199 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempMeeting  Como Mercoledì¬ 19:30
+2025-06-10 17:30:53.199 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo dopo prima strFullIncontro  Como Mercoledì¬ 19:30
+2025-06-10 17:30:53.199 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  Como Mercoledì¬ 19:30
+2025-06-10 17:30:53.199 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempLink  https://maps.app.goo.gl/cPpE8iksq8djuAxp6
+2025-06-10 17:30:53.199 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  link dopo strFullMapsLink  https://maps.app.goo.gl/cPpE8iksq8djuAxp6<br><br>
+2025-06-10 17:30:53.199 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo giorno prima strFullIncontro  Como Mercoledì¬ 19:30
+2025-06-10 17:30:53.199 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempMeeting  Gornate Olona (VA) Giovedì¬ 20:30
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo dopo prima strFullIncontro  Como Mercoledì¬ 19:30Gornate Olona (VA) Giovedì¬ 20:30
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  Gornate Olona (VA) Giovedì¬ 20:30
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempLink  https://maps.app.goo.gl/ivdyLKakZAvT2khE7
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  link dopo strFullMapsLink  https://maps.app.goo.gl/cPpE8iksq8djuAxp6<br><br>https://maps.app.goo.gl/ivdyLKakZAvT2khE7<br><br>
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo giorno prima strFullIncontro  Como Mercoledì¬ 19:30Gornate Olona (VA) Giovedì¬ 20:30
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempMeeting  Milano Mercoledì¬ 19:00
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo dopo prima strFullIncontro  Como Mercoledì¬ 19:30Gornate Olona (VA) Giovedì¬ 20:30Milano Mercoledì¬ 19:00
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  Milano Mercoledì¬ 19:00
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempLink  https://maps.app.goo.gl/Tbkuo5aDv9DKeju46
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  link dopo strFullMapsLink  https://maps.app.goo.gl/cPpE8iksq8djuAxp6<br><br>https://maps.app.goo.gl/ivdyLKakZAvT2khE7<br><br>https://maps.app.goo.gl/Tbkuo5aDv9DKeju46<br><br>
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo giorno prima strFullIncontro  Como Mercoledì¬ 19:30Gornate Olona (VA) Giovedì¬ 20:30Milano Mercoledì¬ 19:00
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempMeeting  Castiraga (LO) Martedì¬ 20:30
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo dopo prima strFullIncontro  Como Mercoledì¬ 19:30Gornate Olona (VA) Giovedì¬ 20:30Milano Mercoledì¬ 19:00Castiraga (LO) Martedì¬ 20:30
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  Castiraga (LO) Martedì¬ 20:30
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempLink  https://maps.app.goo.gl/yPaJodvvY498bie5A
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  link dopo strFullMapsLink  https://maps.app.goo.gl/cPpE8iksq8djuAxp6<br><br>https://maps.app.goo.gl/ivdyLKakZAvT2khE7<br><br>https://maps.app.goo.gl/Tbkuo5aDv9DKeju46<br><br>https://maps.app.goo.gl/yPaJodvvY498bie5A<br><br>
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo giorno prima strFullIncontro  Como Mercoledì¬ 19:30Gornate Olona (VA) Giovedì¬ 20:30Milano Mercoledì¬ 19:00Castiraga (LO) Martedì¬ 20:30
+2025-06-10 17:30:53.200 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempMeeting  Lonato (BS) Mercoledì¬ 20:00
+2025-06-10 17:30:53.201 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo dopo prima strFullIncontro  Como Mercoledì¬ 19:30Gornate Olona (VA) Giovedì¬ 20:30Milano Mercoledì¬ 19:00Castiraga (LO) Martedì¬ 20:30Lonato (BS) Mercoledì¬ 20:00
+2025-06-10 17:30:53.201 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  Lonato (BS) Mercoledì¬ 20:00
+2025-06-10 17:30:53.201 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempLink  https://maps.app.goo.gl/9w57bvYd46ameZA66
+2025-06-10 17:30:53.201 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  link dopo strFullMapsLink  https://maps.app.goo.gl/cPpE8iksq8djuAxp6<br><br>https://maps.app.goo.gl/ivdyLKakZAvT2khE7<br><br>https://maps.app.goo.gl/Tbkuo5aDv9DKeju46<br><br>https://maps.app.goo.gl/yPaJodvvY498bie5A<br><br>https://maps.app.goo.gl/9w57bvYd46ameZA66<br><br>
+2025-06-10 17:30:53.201 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo giorno prima strFullIncontro  Como Mercoledì¬ 19:30Gornate Olona (VA) Giovedì¬ 20:30Milano Mercoledì¬ 19:00Castiraga (LO) Martedì¬ 20:30Lonato (BS) Mercoledì¬ 20:00
+2025-06-10 17:30:53.201 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempMeeting  Castelli Calepio (BG) Mercoledì¬ 20:00
+2025-06-10 17:30:53.201 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo dopo prima strFullIncontro  Como Mercoledì¬ 19:30Gornate Olona (VA) Giovedì¬ 20:30Milano Mercoledì¬ 19:00Castiraga (LO) Martedì¬ 20:30Lonato (BS) Mercoledì¬ 20:00Castelli Calepio (BG) Mercoledì¬ 20:00
+2025-06-10 17:30:53.201 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  Castelli Calepio (BG) Mercoledì¬ 20:00
+2025-06-10 17:30:53.201 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempLink  https://maps.app.goo.gl/xW5NoWVdzjw4uDMaA
+2025-06-10 17:30:53.201 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  link dopo strFullMapsLink  https://maps.app.goo.gl/cPpE8iksq8djuAxp6<br><br>https://maps.app.goo.gl/ivdyLKakZAvT2khE7<br><br>https://maps.app.goo.gl/Tbkuo5aDv9DKeju46<br><br>https://maps.app.goo.gl/yPaJodvvY498bie5A<br><br>https://maps.app.goo.gl/9w57bvYd46ameZA66<br><br>https://maps.app.goo.gl/xW5NoWVdzjw4uDMaA<br><br>
+2025-06-10 17:30:53.201 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo giorno prima strFullIncontro  Como Mercoledì¬ 19:30Gornate Olona (VA) Giovedì¬ 20:30Milano Mercoledì¬ 19:00Castiraga (LO) Martedì¬ 20:30Lonato (BS) Mercoledì¬ 20:00Castelli Calepio (BG) Mercoledì¬ 20:00
+2025-06-10 17:30:53.201 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempMeeting  Brescia(BS) Lunedì¬ 20:30
+2025-06-10 17:30:53.201 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo dopo prima strFullIncontro  Como Mercoledì¬ 19:30Gornate Olona (VA) Giovedì¬ 20:30Milano Mercoledì¬ 19:00Castiraga (LO) Martedì¬ 20:30Lonato (BS) Mercoledì¬ 20:00Castelli Calepio (BG) Mercoledì¬ 20:00Brescia(BS) Lunedì¬ 20:30
+2025-06-10 17:30:53.201 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  Brescia(BS) Lunedì¬ 20:30
+2025-06-10 17:30:53.201 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempLink  https://maps.app.goo.gl/dNYto7Fo1eJhHgG69
+2025-06-10 17:30:53.201 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  link dopo strFullMapsLink  https://maps.app.goo.gl/cPpE8iksq8djuAxp6<br><br>https://maps.app.goo.gl/ivdyLKakZAvT2khE7<br><br>https://maps.app.goo.gl/Tbkuo5aDv9DKeju46<br><br>https://maps.app.goo.gl/yPaJodvvY498bie5A<br><br>https://maps.app.goo.gl/9w57bvYd46ameZA66<br><br>https://maps.app.goo.gl/xW5NoWVdzjw4uDMaA<br><br>https://maps.app.goo.gl/dNYto7Fo1eJhHgG69<br><br>
+2025-06-10 17:30:53.202 10991-10991 IncontriFragment        com.iricostruttori.meditazione       D   strFullIncontro  Como Mercoledì¬ 19:30Gornate Olona (VA) Giovedì¬ 20:30Milano Mercoledì¬ 19:00Castiraga (LO) Martedì¬ 20:30Lonato (BS) Mercoledì¬ 20:00Castelli Calepio (BG) Mercoledì¬ 20:00Brescia(BS) Lunedì¬ 20:30
+2025-06-10 17:30:53.202 10991-10991 IncontriFragment        com.iricostruttori.meditazione       D   strFullMapsLink  https://maps.app.goo.gl/cPpE8iksq8djuAxp6<br><br>https://maps.app.goo.gl/ivdyLKakZAvT2khE7<br><br>https://maps.app.goo.gl/Tbkuo5aDv9DKeju46<br><br>https://maps.app.goo.gl/yPaJodvvY498bie5A<br><br>https://maps.app.goo.gl/9w57bvYd46ameZA66<br><br>https://maps.app.goo.gl/xW5NoWVdzjw4uDMaA<br><br>https://maps.app.goo.gl/dNYto7Fo1eJhHgG69<br><br>
+2025-06-10 17:30:53.229 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:53.258 10991-10995 art                     com.iricostruttori.meditazione       I  Do full code cache collection, code=121KB, data=124KB
+2025-06-10 17:30:53.259 10991-10995 art                     com.iricostruttori.meditazione       I  After code cache collection, code=120KB, data=105KB
+2025-06-10 17:30:53.267 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:53.294 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:53.509 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:53.514 10991-11009 OpenGLRenderer          com.iricostruttori.meditazione       D  endAllActiveAnimators on 0x88ba1e00 (DropDownListView) with handle 0x9c3df8a0
+2025-06-10 17:30:56.316 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:56.349 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:56.370 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:56.995 10991-10997 art                     com.iricostruttori.meditazione       I  Debugger is no longer active
+2025-06-10 17:30:56.996 10991-10997 art                     com.iricostruttori.meditazione       I  Starting a blocking GC Instrumentation
+2025-06-10 17:30:57.748 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:57.773 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:57.798 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:57.799 10991-10991 System.out              com.iricostruttori.meditazione       I  sel strRegione :Emilia Romagna:
+2025-06-10 17:30:57.799 10991-10991 System.out              com.iricostruttori.meditazione       I  set emilia romagna
+2025-06-10 17:30:57.799 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo giorno prima strFullIncontro  
+2025-06-10 17:30:57.800 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempMeeting  Bologna Mercoledì¬ 20:00
+2025-06-10 17:30:57.800 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo dopo prima strFullIncontro  Bologna Mercoledì¬ 20:00
+2025-06-10 17:30:57.800 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  Bologna Mercoledì¬ 20:00
+2025-06-10 17:30:57.801 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempLink  https://maps.app.goo.gl/uK3TuSqzpi7UcoLw5
+2025-06-10 17:30:57.801 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  link dopo strFullMapsLink  https://maps.app.goo.gl/uK3TuSqzpi7UcoLw5<br><br>
+2025-06-10 17:30:57.801 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo giorno prima strFullIncontro  Bologna Mercoledì¬ 20:00
+2025-06-10 17:30:57.801 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempMeeting  S.Caterina Giovedì¬ 20:30
+2025-06-10 17:30:57.801 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo dopo prima strFullIncontro  Bologna Mercoledì¬ 20:00S.Caterina Giovedì¬ 20:30
+2025-06-10 17:30:57.801 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  S.Caterina Giovedì¬ 20:30
+2025-06-10 17:30:57.801 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempLink  https://maps.app.goo.gl/rXZ8HngZHzhtZeH48
+2025-06-10 17:30:57.801 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  link dopo strFullMapsLink  https://maps.app.goo.gl/uK3TuSqzpi7UcoLw5<br><br>https://maps.app.goo.gl/rXZ8HngZHzhtZeH48<br><br>
+2025-06-10 17:30:57.801 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo giorno prima strFullIncontro  Bologna Mercoledì¬ 20:00S.Caterina Giovedì¬ 20:30
+2025-06-10 17:30:57.801 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempMeeting  Abbazia Pomposa Venerdì¬ 19:30
+2025-06-10 17:30:57.801 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo dopo prima strFullIncontro  Bologna Mercoledì¬ 20:00S.Caterina Giovedì¬ 20:30Abbazia Pomposa Venerdì¬ 19:30
+2025-06-10 17:30:57.801 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  Abbazia Pomposa Venerdì¬ 19:30
+2025-06-10 17:30:57.801 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempLink  https://maps.app.goo.gl/S38zPLsvhFxsLn4G6
+2025-06-10 17:30:57.801 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  link dopo strFullMapsLink  https://maps.app.goo.gl/uK3TuSqzpi7UcoLw5<br><br>https://maps.app.goo.gl/rXZ8HngZHzhtZeH48<br><br>https://maps.app.goo.gl/S38zPLsvhFxsLn4G6<br><br>
+2025-06-10 17:30:57.801 10991-10991 IncontriFragment        com.iricostruttori.meditazione       D   strFullIncontro  Bologna Mercoledì¬ 20:00S.Caterina Giovedì¬ 20:30Abbazia Pomposa Venerdì¬ 19:30
+2025-06-10 17:30:57.801 10991-10991 IncontriFragment        com.iricostruttori.meditazione       D   strFullMapsLink  https://maps.app.goo.gl/uK3TuSqzpi7UcoLw5<br><br>https://maps.app.goo.gl/rXZ8HngZHzhtZeH48<br><br>https://maps.app.goo.gl/S38zPLsvhFxsLn4G6<br><br>
+2025-06-10 17:30:57.851 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:58.115 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:58.124 10991-11009 OpenGLRenderer          com.iricostruttori.meditazione       D  endAllActiveAnimators on 0x88ba7900 (DropDownListView) with handle 0x9c3df090
+2025-06-10 17:30:59.132 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:59.199 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:30:59.230 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:31:00.503 10991-10995 art                     com.iricostruttori.meditazione       I  Do partial code cache collection, code=124KB, data=113KB
+2025-06-10 17:31:00.504 10991-10995 art                     com.iricostruttori.meditazione       I  After code cache collection, code=124KB, data=113KB
+2025-06-10 17:31:00.504 10991-10995 art                     com.iricostruttori.meditazione       I  Increasing code cache capacity to 512KB
+2025-06-10 17:31:00.523 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:31:00.551 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:31:00.575 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:31:00.577 10991-10991 System.out              com.iricostruttori.meditazione       I  sel strRegione :Toscana:
+2025-06-10 17:31:00.577 10991-10991 System.out              com.iricostruttori.meditazione       I  set Toscana
+2025-06-10 17:31:00.577 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo giorno prima strFullIncontro  
+2025-06-10 17:31:00.577 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempMeeting  Garfagnana Mercoledì¬ 19:30
+2025-06-10 17:31:00.577 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo dopo prima strFullIncontro  Garfagnana Mercoledì¬ 19:30
+2025-06-10 17:31:00.577 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  Garfagnana Mercoledì¬ 19:30
+2025-06-10 17:31:00.577 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempLink  https://maps.app.goo.gl/RjZYoKfW3Mfk9ykb9
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  link dopo strFullMapsLink  https://maps.app.goo.gl/RjZYoKfW3Mfk9ykb9<br><br>
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo giorno prima strFullIncontro  Garfagnana Mercoledì¬ 19:30
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempMeeting  Livorno Mercoledì¬ 19:30
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo dopo prima strFullIncontro  Garfagnana Mercoledì¬ 19:30Livorno Mercoledì¬ 19:30
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  Livorno Mercoledì¬ 19:30
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempLink  https://maps.app.goo.gl/w1zTZgDiE1dqpGzi9
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  link dopo strFullMapsLink  https://maps.app.goo.gl/RjZYoKfW3Mfk9ykb9<br><br>https://maps.app.goo.gl/w1zTZgDiE1dqpGzi9<br><br>
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo giorno prima strFullIncontro  Garfagnana Mercoledì¬ 19:30Livorno Mercoledì¬ 19:30
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempMeeting  Lucca Mercoledì¬ 19:30
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo dopo prima strFullIncontro  Garfagnana Mercoledì¬ 19:30Livorno Mercoledì¬ 19:30Lucca Mercoledì¬ 19:30
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  Lucca Mercoledì¬ 19:30
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo giorno prima strFullIncontro  Garfagnana Mercoledì¬ 19:30Livorno Mercoledì¬ 19:30Lucca Mercoledì¬ 19:30
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempMeeting  Maps
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo dopo prima strFullIncontro  Garfagnana Mercoledì¬ 19:30Livorno Mercoledì¬ 19:30Lucca Mercoledì¬ 19:30Maps
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  Maps;
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo giorno prima strFullIncontro  Garfagnana Mercoledì¬ 19:30Livorno Mercoledì¬ 19:30Lucca Mercoledì¬ 19:30Maps
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempMeeting  Carrara Giovedì¬ 20:00
+2025-06-10 17:31:00.578 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo dopo prima strFullIncontro  Garfagnana Mercoledì¬ 19:30Livorno Mercoledì¬ 19:30Lucca Mercoledì¬ 19:30MapsCarrara Giovedì¬ 20:00
+2025-06-10 17:31:00.579 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  Carrara Giovedì¬ 20:00
+2025-06-10 17:31:00.579 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo strTempLink  https://maps.app.goo.gl/9jRZZLJLbiM2AXv79
+2025-06-10 17:31:00.579 10991-10991 System.out              com.iricostruttori.meditazione       I   ciclo  link dopo strFullMapsLink  https://maps.app.goo.gl/RjZYoKfW3Mfk9ykb9<br><br>https://maps.app.goo.gl/w1zTZgDiE1dqpGzi9<br><br>https://maps.app.goo.gl/9jRZZLJLbiM2AXv79<br><br>
+2025-06-10 17:31:00.579 10991-10991 IncontriFragment        com.iricostruttori.meditazione       D   strFullIncontro  Garfagnana Mercoledì¬ 19:30Livorno Mercoledì¬ 19:30Lucca Mercoledì¬ 19:30MapsCarrara Giovedì¬ 20:00
+2025-06-10 17:31:00.579 10991-10991 IncontriFragment        com.iricostruttori.meditazione       D   strFullMapsLink  https://maps.app.goo.gl/RjZYoKfW3Mfk9ykb9<br><br>https://maps.app.goo.gl/w1zTZgDiE1dqpGzi9<br><br>https://maps.app.goo.gl/9jRZZLJLbiM2AXv79<br><br>
+2025-06-10 17:31:00.629 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:31:00.862 10991-11009 EGL_emulation           com.iricostruttori.meditazione       D  eglMakeCurrent: 0x9c4052a0: ver 2 0 (tinfo 0x9c403290)
+2025-06-10 17:31:00.866 10991-11009 OpenGLRenderer          com.iricostruttori.meditazione       D  endAllActiveAnimators on 0x88c14d00 (DropDownListView) with handle 0x9c3df7f0

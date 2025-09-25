@@ -1,0 +1,1464 @@
+<string-array name="giorno_0101">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0201">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0301">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0401">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0501">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0601">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0701">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0801">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0901">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1001">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1101">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1201">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1301">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1401">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1501">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1601">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1701">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1801">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1901">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2001">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2101">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2201">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2301">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2401">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2501">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2601">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2701">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2801">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2901">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3001">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3101">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0102">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0202">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0302">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0402">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0502">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0602">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0702">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0802">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0902">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1002">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1102">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1202">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1302">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1402">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1502">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1602">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1702">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1802">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1902">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2002">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2102">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2202">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2302">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2402">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2502">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2602">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2702">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2802">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2902">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0103">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0203">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0303">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0403">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0503">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0603">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0703">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0803">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0903">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1003">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1103">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1203">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1303">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1403">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1503">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1603">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1703">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1803">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1903">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2003">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2103">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2203">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2303">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2403">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2503">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2603">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2703">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2803">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2903">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3003">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3103">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0104">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0204">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0304">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0404">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0504">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0604">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0704">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0804">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0904">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1004">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1104">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1204">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1304">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1404">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1504">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1604">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1704">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1804">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1904">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2004">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2104">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2204">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2304">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2404">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2504">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2604">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2704">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2804">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2904">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3004">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0105">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0205">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0305">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0405">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0505">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0605">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0705">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0805">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0905">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1005">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1105">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1205">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1305">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1405">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1505">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1605">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1705">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1805">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1905">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2005">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2105">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2205">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2305">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2405">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2505">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2605">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2705">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2805">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2905">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3005">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3105">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0106">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0206">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0306">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0406">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0506">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0606">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0706">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0806">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0906">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1006">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1106">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1206">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1306">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1406">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1506">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1606">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1706">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1806">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1906">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2006">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2106">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2206">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2306">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2406">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2506">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2606">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2706">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2806">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2906">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3006">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0107">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0207">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0307">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0407">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0507">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0607">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0707">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0807">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0907">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1007">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1107">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1207">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1307">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1407">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1507">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1607">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1707">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1807">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1907">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2007">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2107">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2207">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2307">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2407">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2507">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2607">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2707">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2807">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2907">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3007">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3107">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0108">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0208">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0308">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0408">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0508">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0608">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0708">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0808">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0908">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1008">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1108">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1208">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1308">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1408">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1508">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1608">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1708">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1808">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1908">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2008">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2108">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2208">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2308">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2408">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2508">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2608">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2708">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2808">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2908">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3008">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3108">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0109">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0209">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0309">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0409">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0509">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0609">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0709">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0809">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0909">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1009">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1109">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1209">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1309">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1409">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1509">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1609">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1709">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1809">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1909">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2009">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2109">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2209">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2309">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2409">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2509">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2609">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2709">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2809">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2909">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3009">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0110">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0210">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0310">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0410">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0510">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0610">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0710">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0810">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0910">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1010">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1110">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1210">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1310">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1410">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1510">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1610">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1710">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1810">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1910">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2010">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2110">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2210">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2310">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2410">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2510">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2610">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2710">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2810">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2910">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3010">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3110">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0111">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0211">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0311">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0411">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0511">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0611">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0711">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0811">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0911">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1011">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1111">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1211">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1311">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1411">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1511">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1611">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1711">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1811">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1911">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2011">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2111">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2211">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2311">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2411">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2511">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2611">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2711">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2811">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2911">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3011">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0112">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0212">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0312">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0412">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0512">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0612">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0712">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0812">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_0912">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1012">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1112">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1212">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1312">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1412">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1512">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1612">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1712">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1812">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_1912">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2012">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2112">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2212">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2312">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2412">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2512">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2612">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2712">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2812">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_2912">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3012">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>
+<string-array name="giorno_3112">
+     <item>Attenzione!! Messaggio da completare</item>
+     <item>Attenzione!! Messaggio da completare</item>
+</string-array>

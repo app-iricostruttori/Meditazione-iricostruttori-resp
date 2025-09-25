@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2017 The Android Open Source Project
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+       http://www.apache.org/licenses/LICENSE-2.0
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".ui.incontri.IncontriFragment">
+
+
+        <ImageView
+            android:id="@+id/image_view_pensieri"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+
+            android:contentDescription="Immagine di Padre Jhon A S.Apollinare"
+            android:scaleType="centerCrop"
+
+            app:layout_constraintDimensionRatio="H,1:1"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/padre_jhon_s_apo"
+            tools:layout_constraintLeft_creator="1"
+            tools:layout_constraintRight_creator="1" />
+
+        <Spinner
+            android:id="@+id/spinner_pensieri_mese"
+            style="@style/spinner_style"
+
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:minHeight="48dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/image_view_pensieri" />
+
+        <Spinner
+            android:id="@+id/spinner_pensieri_giorno"
+            style="@style/spinner_style"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:minHeight="48dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.502"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/spinner_pensieri_mese" />
+
+        <!-- GREENCORE_FF BEFORE FIX PENSIERO 0504 -->
+        <!--
+        <TextView
+            android:id="@+id/textPensiero"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="120dp"
+            android:background="@color/lightBlue"
+
+            android:fillViewport="true"
+            android:fontFamily="@font/quicksandbold"
+            android:fontWeight="500"
+            android:gravity="center_horizontal"
+            android:hint=""
+
+            android:maxLength="1000"
+            android:minHeight="48dp"
+            android:textAppearance="?android:attr/textAppearanceListItemSmall"
+            android:textSize="15sp"
+            android:textStyle="bold|italic"
+
+            android:visibility="visible"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/image_view_pensieri"
+            tools:layout_constraintLeft_creator="1"
+
+            tools:layout_constraintRight_creator="1"
+            tools:layout_constraintTop_creator="1"
+            tools:visibility="visible" />
+        -->
+        <!--
+        Il fatto che tu veda solo una parte del testo nonostante lo ScrollView suggerisce
+        che ci siano alcune impostazioni nel tuo TextView che limitano la visualizzazione. Non è necessario estendere la dimensione verticale della pagina, perché lo ScrollView è progettato apposta per contenere contenuti più grandi della schermata e permetterne lo scorrimento.
+
+        Ecco i passaggi e le modifiche che dovresti fare nel tuo layout XML:
+
+        1) KO Rimuovi android:maxLength dal TextView:
+        Questa proprietà limita il numero massimo di caratteri
+        che il TextView può visualizzare. Rimuovendola, permetterai
+        al TextView di mostrare tutto il testo disponibile.
+
+        2) OK Assicurati che l'altezza del TextView sia impostata correttamente: In questo caso,
+        hai android:layout_height="wrap_content", che è corretto
+        perché permette al TextView di espandersi in base al contenuto.
+
+        3) KO Verifica i layout_constraintTop_toBottomOf del TextView:
+        Sembra che tu stia ancorando la cima del TextView direttamente sotto l'ImageView.
+        Se gli Spinner si trovano tra l'ImageView e il TextView, questo potrebbe causare una sovrapposizione
+        o un posizionamento errato.
+        Dovresti ancorare la cima del TextView sotto l'ultimo elemento visibile sopra di esso
+        (probabilmente lo Spinner con id spinner_pensieri_giorno).
+
+        4) Ho modificato android:layout_marginTop a 25dp
+        per coerenza con gli altri elementi
+        e l'ho ancorato sotto spinner_pensieri_giorno.
+        Ho anche impostato android:layout_width a 0dp e aggiunto
+        i vincoli sinistro e destro per farlo espandere orizzontalmente all'interno del ConstraintLayout.
+
+        5) Il android:fillViewport="true" nello ScrollView è utile per far sì che il contenuto
+        figlio (in questo caso il ConstraintLayout) occupi l'intera altezza dello ScrollView anche quando il contenuto
+        è più piccolo della schermata. Questo di solito non è la causa del tuo problema di troncamento del testo,
+        ma è una buona pratica mantenerlo se vuoi che lo sfondo dello ScrollView si estenda.
+        -->
+        <TextView
+            android:id="@+id/textPensiero"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="25dp"
+            android:background="@color/lightBlue"
+            android:fontFamily="@font/quicksandbold"
+            android:fontWeight="500"
+            android:gravity="center_horizontal"
+            android:hint=""
+            android:minHeight="48dp"
+            android:textAppearance="?android:attr/textAppearanceListItemSmall"
+            android:textSize="15sp"
+            android:textStyle="bold|italic"
+            android:visibility="visible"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/spinner_pensieri_giorno"
+            tools:layout_constraintLeft_creator="1"
+            tools:layout_constraintRight_creator="1"
+            tools:layout_constraintTop_creator="1"
+            tools:visibility="visible" />
+        <!-- GREENCORE_FF BEFORE FIX PENSIERO 0504 -->
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".ui.incontri.IncontriFragment">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/image_view_incontri"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:contentDescription="Immagine di Padre Jhon A Gornate"
+            android:scaleType="centerCrop"
+            app:layout_constraintDimensionRatio="H,1:1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/padre_jhon_martini_chiara_gornate"
+            app:shapeAppearanceOverlay="@style/RoundedImageView" />
+
+        <!--
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        -->
+        <Spinner
+            android:id="@+id/spinner_incontri"
+            style="@style/spinner_style_no_margin"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginTop="7dp"
+
+            android:minHeight="48dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/image_view_incontri" />
+
+        <!--
+        android:layout_width="0dp"
+        Questo attributo è fondamentale quando si usa layout_weight
+        all'interno di una TableRow.
+        Indica che la larghezza del TextView sarà determinata
+        dal suo peso
+        rispetto agli altri elementi nella riga.
+
+        android:layout_weight="2" (per textIncontroContent):
+        Ho assegnato un peso di 2 a questo TextView. Significa che occuperà due parti dello spazio disponibile.
+
+        android:layout_weight="1" (per textIncontroMapsLink):
+        Ho assegnato un peso di 1 a questo TextView. Occuperà una
+        parte dello spazio disponibile.
+
+        In questo modo, il primo TextView (textIncontroContent)
+        sarà il doppio più largo del secondo (textIncontroMapsLink),
+        pur mantenendo la stessa altezza (wrap_content farà sì che
+        si adattino al contenuto più alto tra i due).
+
+        Questo approccio ti darà il controllo desiderato sulla larghezza proporzionale dei tuoi TextView
+        all'interno della TableRow.
+
+        -->
+        <TableLayout
+            android:id="@+id/table_layout_incontri"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:paddingStart="0dp"
+            android:paddingEnd="0dp"
+            android:stretchColumns="*"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/spinner_incontri">
+            <!-- android:visibility="invisible" -->
+            <TableRow android:id="@+id/rowText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <!-- android:visibility="invisible"
+                tools:visibility="invisible"
+                android:fontWeight="500" -->
+                <TextView
+                    android:id="@+id/textIncontroContent"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginTop="7dp"
+
+                    style="@style/AppThemeRedAccent"
+                    android:textColorLink="@color/black"
+                    android:textColor="@color/black"
+                    android:background="@drawable/rounded_corners_background"
+                    android:fontFamily="@font/quicksandbold"
+
+                    android:gravity="start"
+                    android:text=""
+                    android:maxLength="1000"
+                    android:minHeight="48dp"
+                    android:padding="5dp"
+                    android:textAppearance="?android:attr/textAppearanceListItemSmall"
+                    android:textSize="15sp"
+                    android:textStyle="italic|bold"
+                    android:layout_gravity="top"
+                     />
+
+                <!-- android:visibility="invisible" 
+                android:autoLink="web"
+                tools:visibility="invisible"
+                android:fontWeight="500" -->
+                <TextView
+                    android:id="@+id/textIncontroMapsLink"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:layout_marginTop="7dp"
+                    android:layout_marginEnd="8dp"
+                    android:contentDescription="Maps Link"
+                    style="@style/AppThemeRedAccent"
+                    android:textColorLink="@color/black"
+                    android:textColor="@color/black"
+                    android:background="@drawable/rounded_corners_background"
+                    android:fontFamily="@font/quicksandbold"
+
+                    android:gravity="center_horizontal"
+                    android:text=""
+                    android:minHeight="48dp"
+                    android:padding="5dp"
+                    android:textAppearance="?android:attr/textAppearanceListItemSmall"
+                    android:textSize="15sp"
+                    android:textStyle="italic|bold"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:layout_gravity="top"
+                     />
+
+            </TableRow>
+        </TableLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
