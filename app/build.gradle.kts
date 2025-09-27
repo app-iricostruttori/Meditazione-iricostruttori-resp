@@ -16,7 +16,7 @@ android {
         // C:\Users\ADMIN\AppData\Local\Android\Sdk\platforms
         targetSdk = 34
         versionCode = 1
-        versionName = "1_0_2_28092025"
+        versionName = "1_0_2_29092025"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }

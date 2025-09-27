@@ -128,11 +128,22 @@ git add download_logo.jpg
 # Registra le modifiche con un messaggio descrittivo. Questo crea un nuovo punto nella storia del tuo branch locale (es. main o master):
 git commit -m "Aggiunto file index.html per la gestione del download"
 git commit -m "Aggiunto file download_logo.jpg per la gestione del download"
+git commit -m "Versione 1.0.2 per pubblicazione app da git via index.html"
+git commit -m "aggiunta .gitignore"
+git commit -m "aggiunta file apk Versione 1_0_2_28092025 "
 
 # Invia le modifiche a GitHub (Push)
 # Invia il tuo nuovo commit al repository remoto su GitHub (assumendo che tu sia sul branch principale, solitamente main o master):
 git push origin main
-# Oppure: git push origin master (a seconda del tuo branch principale)
+# Oppure: git push origin master (a seconda del tuo branch principale
+
+git rm --cached app/release/app_iricostruttori_release_v1_0_1_28082025.apk
+git rm --cached app/release/app_iricostruttori_release_v1_0_2_28092025.apk
+
+aggiunta a .gitignore:
+# Apri il file .gitignore e aggiungi:
+nome_del_file
+
 
 
 2. Attiva GitHub Pages
@@ -166,6 +177,8 @@ https://github.com/IL_TUO_USER/IL_TUO_REPO/releases/download/v1.0/app_v1.0.apk
 https://github.com/app-iricostruttori/Meditazione-iricostruttori-resp/releases/tag/v1_0_1_28082025
 https://github.com/app-iricostruttori/Meditazione-iricostruttori-resp/
 
+https://github.com/app-iricostruttori/Meditazione-iricostruttori-resp/releases/tag/v1_0_1_28082025
+
 
 Questo URL sarà stabile e reindirizzerà i tuoi utenti alla pagina di download del tuo APK, 
 fornendo un punto di accesso centralizzato e professionale, risolvendo al contempo il problema della scadenza dei link di Google Drive.
@@ -175,3 +188,19 @@ repository sia un User/Organization oppure Project Page:
 
 Project Page https://app-iricostruttori.github.io/Meditazione-iricostruttori-resp/ OK 
 User/Organization https://NOMEOUTENTE.github.io 
+
+
+Riepilogo per pubblicare apk
+controllo file aggiornati sul repository
+git status # controllo differenze
+git push # salvo una volta in piu
+
+# creo il tag e lo invio con push
+git tag -a v1.0.2 -m "Versione 1.0.2 28092025 - Distribuzione via github/index.html"
+git push origin v1.0.2
+
+git tag -d v1.0.2 # locale
+git push origin --delete v1.0.2 # remoto
+
+git tag -a v1_0_2_28092025 -m "Versione 1.0.2 28092025 - Distribuzione via github/index.html"
+git push origin v1_0_2_28092025
