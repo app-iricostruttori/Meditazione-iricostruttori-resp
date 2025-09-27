@@ -1,0 +1,177 @@
+da gitbash
+
+cd SourceAndroidStudio_2024/Meditazione-iricostruttori-resp
+# Init del progetto
+git init
+# Aggiungi tutti i files a git
+git add .
+# Fai la prima commit del progetto
+git commit -m "Initial commit of Meditazione-iricostruttori-resp"
+# collega il repository locale a quello remoto
+git remote add origin https://github.com/app-iricostruttori/Meditazione-iricostruttori-resp.git
+# rinomina il branch principale a main
+git branch -M main
+#  invia i tuoi commit locali al repository remoto su GitHub.
+git push -u origin main
+
+A questo punto, il tuo progetto è correttamente caricato! 
+Il passo successivo, quando avrai una versione pronta, 
+sarà quello di creare un Tag e una Release per allegare l'APK.
+
+tag
+# assicurarsi di essere sul branch corretto (main) e che la tua copia locale sia aggiornata rispetto a quella remota su GitHub:
+git pull origin main
+
+# Ci sono due tipi principali di tag: Annotati e Leggeri. 
+# Per le release, è sempre consigliato usare un Tag Annotato perché include metadati importanti.
+# Tag Annotato (Consigliato per Release)
+# Un tag annotato (-a) memorizza il nome del tag, il nome dell'autore, l'email e la data, e ti chiede di 
+# aggiungere un messaggio esplicativo (-m).
+# Crea il tag sul commit più recente:
+app_iricostruttori_release_v1_0_1_28082025
+
+git tag -a v1_0_1_28082025 -m "Versione 1_0_1_28082025 dell'App - I Ricostruttori"
+
+# lista elenco tag
+git tag 
+
+# tag legger
+#git tag v1.0.0-lw
+
+# Inviare un Singolo Tag
+git push origin v1_0_1_28082025
+
+# Modifica nome utente
+git config --global user.name
+git config --global user.email
+
+# Sostituisci "Il Tuo Nome Utente" con il nome che vuoi vedere su GitHub
+git config --global user.name "Francesco Frigerio"
+# Sostituisci "tua.email@esempio.com" con l'email del tuo account GitHub
+git config --global user.email "francesco.frigerio71@gmail.com"
+
+git config --global user.name
+git config --global user.email
+
+# Inviare Tutti i Tag Locali In Una Volta
+# Se hai creato diversi tag in locale:
+# git push --tags
+
+Dopo aver inviato il tag a GitHub, puoi procedere a creare 
+la Release vera e propria sulla piattaforma:
+Vai al tuo repository su GitHub.
+Clicca sulla sezione "Releases" (di solito si trova a destra, nella colonna laterale o vicino al nome del repository).
+Clicca su "Draft a new release" (Bozza una nuova release).
+Seleziona il tuo nuovo Tag (es. v1_0_1_28082025) dal menu a tendina.
+Aggiungi le note di rilascio (changelog) 
+allega il file APK come asset binario.
+Clicca su "Publish release" (Pubblica release).
+
+https://github.com/app-iricostruttori/Meditazione-iricostruttori-resp/releases/tag/v1_0_1_28082025
+
+https://github.com/app-iricostruttori
+
+
+Crea una semplice pagina web (anche ospitata su GitHub Pages) 
+che faccia un reindirizzamento al link diretto della release. 
+Su questa pagina, metti istruzioni chiare e semplici per l'utente (es. "Scarica l'APK, poi clicca sulla notifica di download 
+completato per installare. Potrebbe essere necessario abilitare le 'Sorgenti Sconosciute'").
+
+
+Come faccia a creare una pagina ospitata su GitHub Pages 
+utilizzando le impostazioni del repository di github ?
+
+Passaggi per creare la tua GitHub Page
+Segui questi passaggi, partendo dal repository che contiene il tuo progetto (e idealmente il tuo APK):
+
+1. Prepara il Contenuto (File HTML)
+Per una pagina base, devi solo creare un file chiamato index.html nella root (cartella principale) del tuo repository
+dove si trova .git
+Questo file conterrà il codice HTML, CSS e il link di download per il tuo APK.
+
+Esempio di index.html essenziale:
+
+HTML
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Download App Android</title>
+</head>
+<body>
+    <h1>Scarica la nostra App Android!</h1>
+    <p>Clicca sul pulsante qui sotto per avviare il download dell'APK (57 MB).</p>
+    <p>Una volta scaricato, clicca sulla notifica di download o sul file nella cartella Download per installare.</p>
+
+    <a href="https://github.com/IL_TUO_USER/IL_TUO_REPO/releases/download/v1.0/app_v1.0.apk">
+        <button style="padding: 15px; font-size: 18px; background-color: #28a745; color: white; border: none; cursor: pointer;">
+            SCARICA SUBITO L'APK
+        </button>
+    </a>
+
+    <p style="margin-top: 20px; font-size: 0.9em;">
+        *Potrebbe essere necessario abilitare l'installazione da "Sorgenti Sconosciute" nelle impostazioni di sicurezza del tuo dispositivo.
+    </p>
+</body>
+</html>
+
+# Aggiunta index.html al repositort su guthub
+# Apri il terminale, naviga nella cartella principale 
+# del tuo progetto e "metti in staging" il nuovo file:
+# Per modificare un file la procedura è la stessa
+git status # per elencare i file modificati da aggiornare
+git add index.html
+git add download_logo.jpg
+
+# Passaggio B: Registra le modifiche (Commit)
+# Registra le modifiche con un messaggio descrittivo. Questo crea un nuovo punto nella storia del tuo branch locale (es. main o master):
+git commit -m "Aggiunto file index.html per la gestione del download"
+git commit -m "Aggiunto file download_logo.jpg per la gestione del download"
+
+# Invia le modifiche a GitHub (Push)
+# Invia il tuo nuovo commit al repository remoto su GitHub (assumendo che tu sia sul branch principale, solitamente main o master):
+git push origin main
+# Oppure: git push origin master (a seconda del tuo branch principale)
+
+
+2. Attiva GitHub Pages
+Vai sul tuo repository su GitHub.
+
+Clicca sulla tab Settings (Impostazioni) in alto.
+
+Nel menu laterale sinistro, clicca su Pages.
+
+Sotto la sezione Build and deployment:
+
+Alla voce Source, assicurati che sia selezionato Deploy from a branch.
+
+Alla voce Branch, seleziona il branch che contiene il tuo file index.html (solitamente main o master).
+
+Assicurati che la cartella sia impostata su / (root).
+
+Clicca su Save (Salva).
+
+3. Verifica e Pubblicazione
+Dopo aver salvato, GitHub impiegherà qualche minuto per creare e pubblicare la tua pagina.
+
+Torna alla sezione Settings ? Pages.
+
+In alto, vedrai un messaggio che indica che il tuo sito è pronto per essere pubblicato all'indirizzo:
+
+https://TUO_USERNAME.github.io/NOME_DEL_REPOSITORY/ (per i repository di progetto)
+
+Clicca sul link per vedere la tua pagina.
+https://github.com/IL_TUO_USER/IL_TUO_REPO/releases/download/v1.0/app_v1.0.apk
+https://github.com/app-iricostruttori/Meditazione-iricostruttori-resp/releases/tag/v1_0_1_28082025
+https://github.com/app-iricostruttori/Meditazione-iricostruttori-resp/
+
+
+Questo URL sarà stabile e reindirizzerà i tuoi utenti alla pagina di download del tuo APK, 
+fornendo un punto di accesso centralizzato e professionale, risolvendo al contempo il problema della scadenza dei link di Google Drive.
+https://github.com/app-iricostruttori/Meditazione-iricostruttori-resp/blob/main/index.html
+
+repository sia un User/Organization oppure Project Page:
+
+Project Page https://app-iricostruttori.github.io/Meditazione-iricostruttori-resp/ OK 
+User/Organization https://NOMEOUTENTE.github.io 

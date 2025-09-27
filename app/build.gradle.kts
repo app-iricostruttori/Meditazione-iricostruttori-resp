@@ -16,7 +16,7 @@ android {
         // C:\Users\ADMIN\AppData\Local\Android\Sdk\platforms
         targetSdk = 34
         versionCode = 1
-        versionName = "1_0_1_28082025"
+        versionName = "1_0_2_28092025"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -57,8 +57,10 @@ android {
             // Questo è il modo corretto per impostare il nome del file APK nelle versioni recenti di AGP
             if (this is com.android.build.gradle.internal.api.ApkVariantOutputImpl) {
                 outputFileName = when (variant.buildType.name) {
-                    "release" -> "app_iricostruttori_release_v${variant.versionName}.apk"
-                    "debug" -> "app_iricostruttori_debug_v${variant.versionName}.apk"
+                    "release" -> "app_iricostruttori_release.apk"
+                    "debug" -> "app_iricostruttori_debug.apk"
+                    //"release" -> "app_iricostruttori_release_v${variant.versionName}.apk"
+                    //"debug" -> "app_iricostruttori_debug_v${variant.versionName}.apk"
                     else -> "app_iricostruttori_${variant.buildType.name}_v${variant.versionName}.apk"
                 }
             }
