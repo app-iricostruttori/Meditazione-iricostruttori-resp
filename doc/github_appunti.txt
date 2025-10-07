@@ -1,5 +1,33 @@
 da gitbash
 
+C:\MyWork\Progetti\SourceAndroidStudio_2024\Meditazione-iricostruttori-resp\app\src\main\res\drawable
+https://github.com/app-iricostruttori/Meditazione-iricostruttori-resp/app/src/main/res/drawable/padre_jhon_s_simeone.jpg
+https://github.com/app-iricostruttori/Meditazione-iricostruttori-resp/tree/main/app/src/main/res/drawable/padre_jhon_s_simeone.jpg
+OK https://raw.githubusercontent.com/app-iricostruttori/Meditazione-iricostruttori-resp/main/app/src/main/res/drawable/padre_jhon_s_simeone.jpg
+https://developers.facebook.com/tools/debug/
+
+Dopo aver aggiornato il file sul tuo repository, potresti aver bisogno di
+ "ripulire la cache" dei servizi di anteprima. Puoi usare questi strumenti:
+
+Facebook/Meta: Sharing Debugger
+
+Twitter/X: Card Validator
+
+Inserisci l'URL della pagina web che stai cercando di condividere in uno di questi strumenti, 
+e chiedi di fare un scrape per forzare l'aggiornamento dell'anteprima.
+
+
+Questo strumento serve a vedere come Facebook, WhatsApp e altri servizi Meta interpretano i tuoi meta tag Open Graph (og:).
+
+Accedi al tool: Vai alla pagina ufficiale: Sharing Debugger
+
+Inserisci l'URL: Nella casella di testo, incolla l'URL esatto della tua pagina web (quella che contiene il codice <head> che hai modificato).
+
+Debugga: Clicca sul pulsante "Debug".
+
+Forza l'Aggiornamento (Scrape): Se hai appena aggiornato i meta tag, il debugger potrebbe mostrare una vecchia anteprima. Clicca sul pulsante "Scrape Again" (o "Esegui un nuovo scrape") per forzare il sistema ad andare a rileggere il codice HTML più recente della tua pagina.
+
+
 cd SourceAndroidStudio_2024/Meditazione-iricostruttori-resp
 # Init del progetto
 git init
@@ -202,5 +230,15 @@ git push origin v1.0.2
 git tag -d v1.0.2 # locale
 git push origin --delete v1.0.2 # remoto
 
-git tag -a v1_0_2_28092025 -m "Versione 1.0.2 28092025 - Distribuzione via github/index.html"
-git push origin v1_0_2_28092025
+git tag -a v1_0_2_29092025 -m "Versione 1.0.2 29092025 - Distribuzione via github/index.html"
+git push origin v1_0_2_29092025
+
+
+Creazione di una nuova Release su GitHub:
+
+Vai alla sezione "Releases" del tuo repository.
+
+Crea una nuova release e assegna il nuovo tag (es. v1.0.2).
+attach binaries dopo create draft release
+Carica l'APK rinominato staticamente (app-iricostruttori.apk) a questa nuova release.
+Carico un immagine del padre o di qualche sala di meditazione come allegato
